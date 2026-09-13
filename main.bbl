@@ -480,23 +480,25 @@
     \endentry
     \entry{GenerateNet2026}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0e7b0adff027087c1c3a1a3c719adc20}{%
-           family={{GENERATE -- German Network for Research on Autoimmune Encephalitis}},
+        {{un=0,uniquepart=base,hash=afa2e46ad6c26fecee20ae8f430f0962}{%
+           family={{German Network for Research on Autoimmune Encephalitis (GENERATE)}},
            familyi={G\bibinitperiod}}}%
       }
-      \strng{namehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{fullhash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{bibnamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authorbibnamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authornamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authorfullhash}{0e7b0adff027087c1c3a1a3c719adc20}
+      \strng{namehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{fullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{bibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authorbibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authornamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authorfullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Wie werden die verschiedenen Krankheitsbilder diagnostiziert?}
+      \field{title}{Wie werden autoimmune Enzephalitiden diagnostiziert?}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -1821,66 +1823,6 @@
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
       \endverb
     \endentry
-    \entry{VanSonderenNatRev2016}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=ce92a87268d55d666521f2394eb098d2}{%
-           family={Sonderen},
-           familyi={S\bibinitperiod},
-           given={Agnes},
-           giveni={A\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
-           family={Petit-Pedrol},
-           familyi={P\bibinithyphendelim P\bibinitperiod},
-           given={Mar},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
-           family={Dalmau},
-           familyi={D\bibinitperiod},
-           given={Josep},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
-           family={Titulaer},
-           familyi={T\bibinitperiod},
-           given={Maarten\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{fullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \strng{bibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorbibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authornamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorfullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Reviews Neurology}
-      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
-      \field{urlday}{10}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2017}
-      \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 12}
-      \range{pages}{12}
-      \verb{urlraw}
-      \verb https://www.nature.com/articles/nrneurol.2017.43
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/articles/nrneurol.2017.43
-      \endverb
-    \endentry
     \entry{UniHeidelbergAE2026}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=af4a5600b8bd7aad8d40b4fe077e8947}{%
@@ -1994,6 +1936,63 @@
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
       \endverb
     \endentry
+    \entry{VanSonderenNatRev2016}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
+           family={{van Sonderen}},
+           familyi={v\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
+           family={Petit-Pedrol},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
+           family={Dalmau},
+           familyi={D\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
+           family={Titulaer},
+           familyi={T\bibinitperiod},
+           given={Maarten\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{fullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \strng{bibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorbibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authornamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorfullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \field{extraname}{1}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neurology}
+      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+    \endentry
     \entry{MarklBild1997a}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
@@ -2031,16 +2030,19 @@
     \endentry
     \entry{MediKarriere2024}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
-           family={{Medi-Karriere}},
-           familyi={M\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5dd21dc756a5a4c374abc59caf572177}{%
+           family={Kaus},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{namehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{fullhash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{bibnamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authorbibnamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authornamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authorfullhash}{5dd21dc756a5a4c374abc59caf572177}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2048,17 +2050,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.2)}
-      \field{title}{Grafik eines Neurons}
-      \field{urlday}{14}
-      \field{urlmonth}{1}
+      \field{title}{Neuron: Aufbau und Funktion}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
       \field{urlyear}{2026}
-      \field{year}{2024}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.medi-karriere.de/wp-content/uploads/2024/10/Grafik-Neuron-2-e1730282985666.jpg
+      \verb https://www.medi-karriere.de/wiki/neuron/
       \endverb
       \verb{url}
-      \verb https://www.medi-karriere.de/wp-content/uploads/2024/10/Grafik-Neuron-2-e1730282985666.jpg
+      \verb https://www.medi-karriere.de/wiki/neuron/
       \endverb
       \keyw{bild}
     \endentry
@@ -2098,40 +2100,20 @@
       \keyw{bild}
     \endentry
     \entry{DocCheckSynapseBild2026}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{4}{ul=2}{%
-        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
-           family={Antwerpes},
-           familyi={A\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
+      \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=17390d54b98d41da7a76491c55fdab75}{%
            family={Nolte},
            familyi={N\bibinitperiod},
            given={Janica},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=605f30a7ed37af0bb3594f1aff7ef361}{%
-           family={Mette},
-           familyi={M\bibinitperiod},
-           given={Vincent},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
       }
-      \strng{namehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{fullhash}{4aed587bb788c1081746f078e3e8db1b}
-      \strng{bibnamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authorbibnamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authornamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authorfullhash}{4aed587bb788c1081746f078e3e8db1b}
+      \strng{namehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{fullhash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{bibnamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authorbibnamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authornamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authorfullhash}{17390d54b98d41da7a76491c55fdab75}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2139,35 +2121,35 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.4)}
-      \field{title}{Synapse}
-      \field{urlday}{14}
-      \field{urlmonth}{1}
+      \field{title}{Synapse adaptiert von “Chemical Synapse: Steps of Synaptic Transmission”, von BioRender.com (2022)}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
       \field{urlyear}{2026}
-      \field{year}{2026}
+      \field{year}{2022}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://dccdn.de/www.doccheck.com/data/s3/jk/ak/2c/ae/38/chemische_synapse__1__md.jpg
+      \verb https://www.doccheck.com/de/detail/photos/41888-chemische-synapse
       \endverb
       \verb{url}
-      \verb https://dccdn.de/www.doccheck.com/data/s3/jk/ak/2c/ae/38/chemische_synapse__1__md.jpg
+      \verb https://www.doccheck.com/de/detail/photos/41888-chemische-synapse
       \endverb
       \keyw{bild}
     \endentry
     \entry{IGGbild_4u}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ceac874931b60aeccf2033d1ff6afb93}{%
-           family={Hübl},
-           familyi={H\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
+        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
+           family={Reh},
+           familyi={R\bibinitperiod},
+           given={Fabienne},
+           giveni={F\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{fullhash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{bibnamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authorbibnamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authornamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authorfullhash}{ceac874931b60aeccf2033d1ff6afb93}
+      \strng{namehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{fullhash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{bibnamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authorbibnamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authornamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authorfullhash}{c39f9030afe7a66169ecb475890fe236}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2175,31 +2157,28 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.5)}
-      \field{title}{IgG-Subklassen (IgG1, IgG2, IgG3, IgG4) und IgG4-assoziierte Erkrankung}
+      \field{title}{Antikörper adaptiert von "The Variable Region of an Antibody Binds to the Antigen"; by BioRender.com (2024)}
       \field{urlday}{30}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2024}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.med4you.at/laborbefunde/lbef3/IgG-Subklassen_700.png
+      \verb https://www.doccheck.com/de/detail/photos/43457-antikoerper
       \endverb
       \verb{url}
-      \verb https://www.med4you.at/laborbefunde/lbef3/IgG-Subklassen_700.png
+      \verb https://www.doccheck.com/de/detail/photos/43457-antikoerper
       \endverb
       \keyw{bild}
     \endentry
     \entry{SonderenBild2017}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=ce92a87268d55d666521f2394eb098d2}{%
-           family={Sonderen},
-           familyi={S\bibinitperiod},
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
+           family={{van Sonderen}},
+           familyi={v\bibinitperiod},
            given={Agnes},
            giveni={A\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
            family={Petit-Pedrol},
            familyi={P\bibinithyphendelim P\bibinitperiod},
@@ -2219,12 +2198,12 @@
            giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{fullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \strng{bibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorbibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authornamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorfullhash}{4e958437452bc30bf134e5fdcff20eb5}
+      \strng{namehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{fullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \strng{bibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorbibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authornamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorfullhash}{1c2c104caf7e233f395cc1a6bd20452e}
       \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -2240,10 +2219,10 @@
       \field{pages}{1\bibrangedash 12}
       \range{pages}{12}
       \verb{urlraw}
-      \verb https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnrneurol.2017.43/MediaObjects/41582_2017_Article_BFnrneurol201743_Fig2_HTML.jpg?
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
       \endverb
       \verb{url}
-      \verb https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnrneurol.2017.43/MediaObjects/41582_2017_Article_BFnrneurol201743_Fig2_HTML.jpg?
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
       \endverb
       \keyw{bild}
     \endentry
@@ -2292,20 +2271,32 @@
       \keyw{bild}
     \endentry
     \entry{PNSChannelBild2017}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d771d37d98e40aedcb9f357cbb598a56}{%
-           family={Kleopa},
-           familyi={K\bibinitperiod},
-           given={Theodoros\bibnamedelima A.},
-           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
+           family={Dalmau},
+           familyi={D\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a487f5f8c657b1ea0f10edccc92a76f2}{%
+           family={Geis},
+           familyi={G\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02b038e2c43559fd685300f0e5ad75a0}{%
+           family={Graus},
+           familyi={G\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{fullhash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{bibnamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authorbibnamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authornamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authorfullhash}{d771d37d98e40aedcb9f357cbb598a56}
+      \strng{namehash}{8cdf8bf37860b9e24b6fe9aca4c132a1}
+      \strng{fullhash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{bibnamehash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{authorbibnamehash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{authornamehash}{8cdf8bf37860b9e24b6fe9aca4c132a1}
+      \strng{authorfullhash}{13b253faf0ee23b2598e21cf3a6466dd}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2315,16 +2306,16 @@
       \field{journaltitle}{Physiological Reviews}
       \field{label}{(Abbildung 4.1)}
       \field{number}{2}
-      \field{title}{Autoimmune Channelopathies of the Peripheral Nervous System}
+      \field{title}{Autoantibodies to Synaptic Receptors and Neuronal Cell Surface Proteins in Autoimmune Diseases of the Central Nervous System}
       \field{volume}{97}
       \field{year}{2017}
-      \field{pages}{609\bibrangedash 647}
-      \range{pages}{39}
+      \field{pages}{839\bibrangedash 887}
+      \range{pages}{49}
       \verb{urlraw}
-      \verb https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b8e5/5539405/cebfc79be97b/z9j0021728010001.jpg
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
       \endverb
       \verb{url}
-      \verb https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b8e5/5539405/cebfc79be97b/z9j0021728010001.jpg
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
       \endverb
       \keyw{bild}
     \endentry
@@ -2340,39 +2331,44 @@
       \strng{authorbibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
       \strng{authornamehash}{afa2e46ad6c26fecee20ae8f430f0962}
       \strng{authorfullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 4.2)}
-      \field{title}{Klinischer Verdacht auf immunvermittelte Encephalitis}
+      \field{title}{Wie werden autoimmune Enzephalitiden diagnostiziert?}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
       \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://generate-net.de/files/grafiken/Klinischer\%20Verdacht\%20auf\%20immunvermittelte\%20Encephalitis.png
+      \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
       \endverb
       \verb{url}
-      \verb https://generate-net.de/files/grafiken/Klinischer%5C%20Verdacht%5C%20auf%5C%20immunvermittelte%5C%20Encephalitis.png
+      \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
       \endverb
       \keyw{bild}
     \endentry
     \entry{LeicaMicrosystems2026}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e0212d4bea1005f697379c978796f57f}{%
-           family={{Leica Microsystems}},
-           familyi={L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=992864490889f29d1be67a310282dbb8}{%
+           family={Hoff},
+           familyi={H\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{fullhash}{e0212d4bea1005f697379c978796f57f}
-      \strng{bibnamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authorbibnamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authornamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authorfullhash}{e0212d4bea1005f697379c978796f57f}
+      \strng{namehash}{992864490889f29d1be67a310282dbb8}
+      \strng{fullhash}{992864490889f29d1be67a310282dbb8}
+      \strng{bibnamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authorbibnamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authornamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authorfullhash}{992864490889f29d1be67a310282dbb8}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2384,28 +2380,31 @@
       \field{urlday}{23}
       \field{urlmonth}{3}
       \field{urlyear}{2026}
-      \field{year}{2026}
+      \field{year}{2022}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.leica-microsystems.com/fileadmin/_processed_/6/b/csm_Visualize_target_structure_by_dirict_and_indirect_IF_0548a42e50.jpg
+      \verb https://www.leica-microsystems.com/science-lab/life-science/how-to-prepare-specimen-for-immunofluorescence-microscopy/
       \endverb
       \verb{url}
-      \verb https://www.leica-microsystems.com/fileadmin/_processed_/6/b/csm_Visualize_target_structure_by_dirict_and_indirect_IF_0548a42e50.jpg
+      \verb https://www.leica-microsystems.com/science-lab/life-science/how-to-prepare-specimen-for-immunofluorescence-microscopy/
       \endverb
       \keyw{bild}
     \endentry
     \entry{ibidiWFMBild}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ea8729e2875d1cdc7ca679bacaa43e96}{%
-           family={{ibidi GmbH}},
-           familyi={i\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c6695b8327daba8219f966032bd5f42b}{%
+           family={Kiderlen},
+           familyi={K\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{fullhash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{bibnamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authorbibnamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authornamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authorfullhash}{ea8729e2875d1cdc7ca679bacaa43e96}
+      \strng{namehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{fullhash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{bibnamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authorbibnamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authornamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authorfullhash}{c6695b8327daba8219f966032bd5f42b}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -2413,17 +2412,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.2)}
-      \field{title}{Principle of Widefield Fluorescence Microscopy}
+      \field{title}{Widefield Fluorescence Microscopy: Principle, Applications, and When to Use It}
       \field{urlday}{29}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://ibidi.com/img/cms/applications/technical_aspects/microscopy_techniques/TA_WFM_Principle.jpg
+      \verb https://ibidi.com/content/215-widefield-fluorescence
       \endverb
       \verb{url}
-      \verb https://ibidi.com/img/cms/applications/technical_aspects/microscopy_techniques/TA_WFM_Principle.jpg
+      \verb https://ibidi.com/content/215-widefield-fluorescence
       \endverb
       \keyw{bild}
     \endentry
@@ -2448,17 +2447,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.3)}
-      \field{title}{Principle of Structured Illumination Microscopy (SIM)}
+      \field{title}{Structured Illumination Microscopy and 3D SIM Imaging}
       \field{urlday}{29}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2025}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.oxinst.com/learning/uploads/inline-images/sim-01-20171121162820.png
+      \verb https://www.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
       \endverb
       \verb{url}
-      \verb https://www.oxinst.com/learning/uploads/inline-images/sim-01-20171121162820.png
+      \verb https://www.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
       \endverb
       \keyw{bild}
     \endentry
@@ -2874,62 +2873,6 @@
       \verb https://flexikon.doccheck.com/de/Immuntoleranz
       \endverb
     \endentry
-    \entry{DocCheckSynapseBild2026}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{4}{ul=2}{%
-        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
-           family={Antwerpes},
-           familyi={A\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=17390d54b98d41da7a76491c55fdab75}{%
-           family={Nolte},
-           familyi={N\bibinitperiod},
-           given={Janica},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=605f30a7ed37af0bb3594f1aff7ef361}{%
-           family={Mette},
-           familyi={M\bibinitperiod},
-           given={Vincent},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{fullhash}{4aed587bb788c1081746f078e3e8db1b}
-      \strng{bibnamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authorbibnamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authornamehash}{b3c63d961175baf83d41e45ed2e23d55}
-      \strng{authorfullhash}{4aed587bb788c1081746f078e3e8db1b}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.4)}
-      \field{title}{Synapse}
-      \field{urlday}{14}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2026}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://dccdn.de/www.doccheck.com/data/s3/jk/ak/2c/ae/38/chemische_synapse__1__md.jpg
-      \endverb
-      \verb{url}
-      \verb https://dccdn.de/www.doccheck.com/data/s3/jk/ak/2c/ae/38/chemische_synapse__1__md.jpg
-      \endverb
-      \keyw{bild}
-    \endentry
     \entry{Bakkaloglu2008}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -3081,6 +3024,55 @@
       \verb{url}
       \verb https://www.cellsignal.com/products/primary-antibodies/caspr2-antibody/3731
       \endverb
+    \endentry
+    \entry{PNSChannelBild2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
+           family={Dalmau},
+           familyi={D\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a487f5f8c657b1ea0f10edccc92a76f2}{%
+           family={Geis},
+           familyi={G\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02b038e2c43559fd685300f0e5ad75a0}{%
+           family={Graus},
+           familyi={G\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8cdf8bf37860b9e24b6fe9aca4c132a1}
+      \strng{fullhash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{bibnamehash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{authorbibnamehash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \strng{authornamehash}{8cdf8bf37860b9e24b6fe9aca4c132a1}
+      \strng{authorfullhash}{13b253faf0ee23b2598e21cf3a6466dd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physiological Reviews}
+      \field{label}{(Abbildung 4.1)}
+      \field{number}{2}
+      \field{title}{Autoantibodies to Synaptic Receptors and Neuronal Cell Surface Proteins in Autoimmune Diseases of the Central Nervous System}
+      \field{volume}{97}
+      \field{year}{2017}
+      \field{pages}{839\bibrangedash 887}
+      \range{pages}{49}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \endverb
+      \keyw{bild}
     \endentry
     \entry{MSDImmunsystem2026}{online}{}
       \name{author}{1}{}{%
@@ -3347,23 +3339,25 @@
     \endentry
     \entry{GenerateNet2026}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0e7b0adff027087c1c3a1a3c719adc20}{%
-           family={{GENERATE -- German Network for Research on Autoimmune Encephalitis}},
+        {{un=0,uniquepart=base,hash=afa2e46ad6c26fecee20ae8f430f0962}{%
+           family={{German Network for Research on Autoimmune Encephalitis (GENERATE)}},
            familyi={G\bibinitperiod}}}%
       }
-      \strng{namehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{fullhash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{bibnamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authorbibnamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authornamehash}{0e7b0adff027087c1c3a1a3c719adc20}
-      \strng{authorfullhash}{0e7b0adff027087c1c3a1a3c719adc20}
+      \strng{namehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{fullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{bibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authorbibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authornamehash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \strng{authorfullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Wie werden die verschiedenen Krankheitsbilder diagnostiziert?}
+      \field{title}{Wie werden autoimmune Enzephalitiden diagnostiziert?}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -3388,24 +3382,26 @@
       \strng{authorbibnamehash}{afa2e46ad6c26fecee20ae8f430f0962}
       \strng{authornamehash}{afa2e46ad6c26fecee20ae8f430f0962}
       \strng{authorfullhash}{afa2e46ad6c26fecee20ae8f430f0962}
+      \field{extraname}{2}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 4.2)}
-      \field{title}{Klinischer Verdacht auf immunvermittelte Encephalitis}
+      \field{title}{Wie werden autoimmune Enzephalitiden diagnostiziert?}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
       \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://generate-net.de/files/grafiken/Klinischer\%20Verdacht\%20auf\%20immunvermittelte\%20Encephalitis.png
+      \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
       \endverb
       \verb{url}
-      \verb https://generate-net.de/files/grafiken/Klinischer%5C%20Verdacht%5C%20auf%5C%20immunvermittelte%5C%20Encephalitis.png
+      \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
       \endverb
       \keyw{bild}
     \endentry
@@ -3975,6 +3971,42 @@
       \verb https://flexikon.doccheck.com/de/Aktionspotential
       \endverb
     \endentry
+    \entry{LeicaMicrosystems2026}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=992864490889f29d1be67a310282dbb8}{%
+           family={Hoff},
+           familyi={H\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{992864490889f29d1be67a310282dbb8}
+      \strng{fullhash}{992864490889f29d1be67a310282dbb8}
+      \strng{bibnamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authorbibnamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authornamehash}{992864490889f29d1be67a310282dbb8}
+      \strng{authorfullhash}{992864490889f29d1be67a310282dbb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 5.1)}
+      \field{title}{How to Prepare your Specimen for Immunofluorescence Microscopy}
+      \field{urlday}{23}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.leica-microsystems.com/science-lab/life-science/how-to-prepare-specimen-for-immunofluorescence-microscopy/
+      \endverb
+      \verb{url}
+      \verb https://www.leica-microsystems.com/science-lab/life-science/how-to-prepare-specimen-for-immunofluorescence-microscopy/
+      \endverb
+      \keyw{bild}
+    \endentry
     \entry{Hoegemann2006}{online}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -4038,72 +4070,75 @@
       \verb https://flexikon.doccheck.com/de/Hippocampus
       \endverb
     \endentry
-    \entry{IGGbild_4u}{online}{}
+    \entry{MediKarriere2024}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ceac874931b60aeccf2033d1ff6afb93}{%
-           family={Hübl},
-           familyi={H\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5dd21dc756a5a4c374abc59caf572177}{%
+           family={Kaus},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{fullhash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{bibnamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authorbibnamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authornamehash}{ceac874931b60aeccf2033d1ff6afb93}
-      \strng{authorfullhash}{ceac874931b60aeccf2033d1ff6afb93}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{fullhash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{bibnamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authorbibnamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authornamehash}{5dd21dc756a5a4c374abc59caf572177}
+      \strng{authorfullhash}{5dd21dc756a5a4c374abc59caf572177}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.5)}
-      \field{title}{IgG-Subklassen (IgG1, IgG2, IgG3, IgG4) und IgG4-assoziierte Erkrankung}
-      \field{urlday}{30}
+      \field{label}{(Abbildung 2.2)}
+      \field{title}{Neuron: Aufbau und Funktion}
+      \field{urlday}{13}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
-      \field{year}{2024}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.med4you.at/laborbefunde/lbef3/IgG-Subklassen_700.png
+      \verb https://www.medi-karriere.de/wiki/neuron/
       \endverb
       \verb{url}
-      \verb https://www.med4you.at/laborbefunde/lbef3/IgG-Subklassen_700.png
+      \verb https://www.medi-karriere.de/wiki/neuron/
       \endverb
       \keyw{bild}
     \endentry
     \entry{ibidiWFMBild}{online}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ea8729e2875d1cdc7ca679bacaa43e96}{%
-           family={{ibidi GmbH}},
-           familyi={i\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c6695b8327daba8219f966032bd5f42b}{%
+           family={Kiderlen},
+           familyi={K\bibinitperiod},
+           given={Stefanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{fullhash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{bibnamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authorbibnamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authornamehash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \strng{authorfullhash}{ea8729e2875d1cdc7ca679bacaa43e96}
-      \field{sortinit}{i}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \strng{namehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{fullhash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{bibnamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authorbibnamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authornamehash}{c6695b8327daba8219f966032bd5f42b}
+      \strng{authorfullhash}{c6695b8327daba8219f966032bd5f42b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.2)}
-      \field{title}{Principle of Widefield Fluorescence Microscopy}
+      \field{title}{Widefield Fluorescence Microscopy: Principle, Applications, and When to Use It}
       \field{urlday}{29}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://ibidi.com/img/cms/applications/technical_aspects/microscopy_techniques/TA_WFM_Principle.jpg
+      \verb https://ibidi.com/content/215-widefield-fluorescence
       \endverb
       \verb{url}
-      \verb https://ibidi.com/img/cms/applications/technical_aspects/microscopy_techniques/TA_WFM_Principle.jpg
+      \verb https://ibidi.com/content/215-widefield-fluorescence
       \endverb
       \keyw{bild}
     \endentry
@@ -4140,43 +4175,6 @@
       \verb{url}
       \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/infektionen-des-gehirns/gehirnentz%C3%BCndung-enzephalitis
       \endverb
-    \endentry
-    \entry{PNSChannelBild2017}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d771d37d98e40aedcb9f357cbb598a56}{%
-           family={Kleopa},
-           familyi={K\bibinitperiod},
-           given={Theodoros\bibnamedelima A.},
-           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{fullhash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{bibnamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authorbibnamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authornamehash}{d771d37d98e40aedcb9f357cbb598a56}
-      \strng{authorfullhash}{d771d37d98e40aedcb9f357cbb598a56}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Physiological Reviews}
-      \field{label}{(Abbildung 4.1)}
-      \field{number}{2}
-      \field{title}{Autoimmune Channelopathies of the Peripheral Nervous System}
-      \field{volume}{97}
-      \field{year}{2017}
-      \field{pages}{609\bibrangedash 647}
-      \range{pages}{39}
-      \verb{urlraw}
-      \verb https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b8e5/5539405/cebfc79be97b/z9j0021728010001.jpg
-      \endverb
-      \verb{url}
-      \verb https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b8e5/5539405/cebfc79be97b/z9j0021728010001.jpg
-      \endverb
-      \keyw{bild}
     \endentry
     \entry{Lancaster2015}{article}{}
       \name{author}{1}{}{%
@@ -4216,39 +4214,6 @@
       \verb{url}
       \verb https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1
       \endverb
-    \endentry
-    \entry{LeicaMicrosystems2026}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e0212d4bea1005f697379c978796f57f}{%
-           family={{Leica Microsystems}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{fullhash}{e0212d4bea1005f697379c978796f57f}
-      \strng{bibnamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authorbibnamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authornamehash}{e0212d4bea1005f697379c978796f57f}
-      \strng{authorfullhash}{e0212d4bea1005f697379c978796f57f}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 5.1)}
-      \field{title}{How to Prepare your Specimen for Immunofluorescence Microscopy}
-      \field{urlday}{23}
-      \field{urlmonth}{3}
-      \field{urlyear}{2026}
-      \field{year}{2026}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.leica-microsystems.com/fileadmin/_processed_/6/b/csm_Visualize_target_structure_by_dirict_and_indirect_IF_0548a42e50.jpg
-      \endverb
-      \verb{url}
-      \verb https://www.leica-microsystems.com/fileadmin/_processed_/6/b/csm_Visualize_target_structure_by_dirict_and_indirect_IF_0548a42e50.jpg
-      \endverb
-      \keyw{bild}
     \endentry
     \entry{Macian2004}{article}{}
       \true{moreauthor}
@@ -4405,39 +4370,6 @@
       \field{year}{1997}
       \keyw{bild}
     \endentry
-    \entry{MediKarriere2024}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
-           family={{Medi-Karriere}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
-      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.2)}
-      \field{title}{Grafik eines Neurons}
-      \field{urlday}{14}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.medi-karriere.de/wp-content/uploads/2024/10/Grafik-Neuron-2-e1730282985666.jpg
-      \endverb
-      \verb{url}
-      \verb https://www.medi-karriere.de/wp-content/uploads/2024/10/Grafik-Neuron-2-e1730282985666.jpg
-      \endverb
-      \keyw{bild}
-    \endentry
     \entry{Mitrevski}{online}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=384699ab244aeafa93467f0748a64f6e}{%
@@ -4549,6 +4481,42 @@
       \verb{url}
       \verb https://flexikon.doccheck.com/de/Immunhistochemie
       \endverb
+    \endentry
+    \entry{DocCheckSynapseBild2026}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17390d54b98d41da7a76491c55fdab75}{%
+           family={Nolte},
+           familyi={N\bibinitperiod},
+           given={Janica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{fullhash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{bibnamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authorbibnamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authornamehash}{17390d54b98d41da7a76491c55fdab75}
+      \strng{authorfullhash}{17390d54b98d41da7a76491c55fdab75}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 2.4)}
+      \field{title}{Synapse adaptiert von “Chemical Synapse: Steps of Synaptic Transmission”, von BioRender.com (2022)}
+      \field{urlday}{13}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.doccheck.com/de/detail/photos/41888-chemische-synapse
+      \endverb
+      \verb{url}
+      \verb https://www.doccheck.com/de/detail/photos/41888-chemische-synapse
+      \endverb
+      \keyw{bild}
     \endentry
     \entry{Olsen2015}{article}{}
       \name{author}{5}{}{%
@@ -4688,17 +4656,17 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.3)}
-      \field{title}{Principle of Structured Illumination Microscopy (SIM)}
+      \field{title}{Structured Illumination Microscopy and 3D SIM Imaging}
       \field{urlday}{29}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2025}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://www.oxinst.com/learning/uploads/inline-images/sim-01-20171121162820.png
+      \verb https://www.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
       \endverb
       \verb{url}
-      \verb https://www.oxinst.com/learning/uploads/inline-images/sim-01-20171121162820.png
+      \verb https://www.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
       \endverb
       \keyw{bild}
     \endentry
@@ -4913,6 +4881,42 @@
       \verb https://pubmed.ncbi.nlm.nih.gov/10624965/
       \endverb
     \endentry
+    \entry{IGGbild_4u}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
+           family={Reh},
+           familyi={R\bibinitperiod},
+           given={Fabienne},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{fullhash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{bibnamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authorbibnamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authornamehash}{c39f9030afe7a66169ecb475890fe236}
+      \strng{authorfullhash}{c39f9030afe7a66169ecb475890fe236}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 2.5)}
+      \field{title}{Antikörper adaptiert von "The Variable Region of an Antibody Binds to the Antigen"; by BioRender.com (2024)}
+      \field{urlday}{30}
+      \field{urlmonth}{8}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.doccheck.com/de/detail/photos/43457-antikoerper
+      \endverb
+      \verb{url}
+      \verb https://www.doccheck.com/de/detail/photos/43457-antikoerper
+      \endverb
+      \keyw{bild}
+    \endentry
     \entry{MSDNeuromyothonie2024}{online}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=72aa1dacd9ef9179756d1e83ce9d056f}{%
@@ -4997,124 +5001,6 @@
       \verb{url}
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
       \endverb
-    \endentry
-    \entry{VanSonderenNatRev2016}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=ce92a87268d55d666521f2394eb098d2}{%
-           family={Sonderen},
-           familyi={S\bibinitperiod},
-           given={Agnes},
-           giveni={A\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
-           family={Petit-Pedrol},
-           familyi={P\bibinithyphendelim P\bibinitperiod},
-           given={Mar},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
-           family={Dalmau},
-           familyi={D\bibinitperiod},
-           given={Josep},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
-           family={Titulaer},
-           familyi={T\bibinitperiod},
-           given={Maarten\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{fullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \strng{bibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorbibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authornamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorfullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Reviews Neurology}
-      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
-      \field{urlday}{10}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2017}
-      \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 12}
-      \range{pages}{12}
-      \verb{urlraw}
-      \verb https://www.nature.com/articles/nrneurol.2017.43
-      \endverb
-      \verb{url}
-      \verb https://www.nature.com/articles/nrneurol.2017.43
-      \endverb
-    \endentry
-    \entry{SonderenBild2017}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=ce92a87268d55d666521f2394eb098d2}{%
-           family={Sonderen},
-           familyi={S\bibinitperiod},
-           given={Agnes},
-           giveni={A\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
-           family={Petit-Pedrol},
-           familyi={P\bibinithyphendelim P\bibinitperiod},
-           given={Mar},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
-           family={Dalmau},
-           familyi={D\bibinitperiod},
-           given={Josep},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
-           family={Titulaer},
-           familyi={T\bibinitperiod},
-           given={Maarten\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{fullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \strng{bibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorbibnamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authornamehash}{ab913951625203cfe80c5c9b7133106f}
-      \strng{authorfullhash}{4e958437452bc30bf134e5fdcff20eb5}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature Reviews Neurology}
-      \field{label}{(Abbildung 3.1)}
-      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
-      \field{year}{2017}
-      \field{pages}{1\bibrangedash 12}
-      \range{pages}{12}
-      \verb{urlraw}
-      \verb https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnrneurol.2017.43/MediaObjects/41582_2017_Article_BFnrneurol201743_Fig2_HTML.jpg?
-      \endverb
-      \verb{url}
-      \verb https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnrneurol.2017.43/MediaObjects/41582_2017_Article_BFnrneurol201743_Fig2_HTML.jpg?
-      \endverb
-      \keyw{bild}
     \endentry
     \entry{UniHeidelbergAE2026}{online}{}
       \name{author}{1}{}{%
@@ -5228,6 +5114,118 @@
       \verb{url}
       \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
       \endverb
+    \endentry
+    \entry{VanSonderenNatRev2016}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
+           family={{van Sonderen}},
+           familyi={v\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
+           family={Petit-Pedrol},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
+           family={Dalmau},
+           familyi={D\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
+           family={Titulaer},
+           familyi={T\bibinitperiod},
+           given={Maarten\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{fullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \strng{bibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorbibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authornamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorfullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \field{extraname}{1}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neurology}
+      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+    \endentry
+    \entry{SonderenBild2017}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
+           family={{van Sonderen}},
+           familyi={v\bibinitperiod},
+           given={Agnes},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
+           family={Petit-Pedrol},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26a5a52701dd7370117cddcfb9150977}{%
+           family={Dalmau},
+           familyi={D\bibinitperiod},
+           given={Josep},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae3f35046fbd038c77e9251c6c47f937}{%
+           family={Titulaer},
+           familyi={T\bibinitperiod},
+           given={Maarten\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{fullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \strng{bibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorbibnamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authornamehash}{1503627520c2025b3d5f78a85251ac1c}
+      \strng{authorfullhash}{1c2c104caf7e233f395cc1a6bd20452e}
+      \field{extraname}{2}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neurology}
+      \field{label}{(Abbildung 3.1)}
+      \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+      \keyw{bild}
     \endentry
   \enddatalist
 \endrefsection
