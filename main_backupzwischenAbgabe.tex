@@ -1,0 +1,1136 @@
+\documentclass[a4paper, 12pt]{scrreprt}
+\input{preamble.tex}
+
+
+\begin{document}
+\hypersetup{pageanchor=false}
+\input{titelseite.tex}
+
+\pagenumbering{roman}
+\tableofcontents
+
+
+\chapter{Motivation und Zielsetzung}
+\pagenumbering{arabic}
+\textbf{Johanna Hoppe}
+
+
+Entzündungen des Gehirns (Enzephalitis) werden meist durch Bakterien
+oder Viren ausgelöst. Seltener ist eine Fehlreaktion des Immunsystems
+der Grund.
+
+Die Autoimmune Enzephalitis ist eine neurologische Erkrankung, die durch
+Autoantikörper gegen neuronale Oberflächenproteine ausgelöst wird. Diese
+fehlgeleitete Immunreaktion des Körpers führt zu einer beeinträchtigten
+Signalweiterleitung am Axon und einer gestörten synaptischen
+Übertragung. Dies äußert sich durch Symptome wie Neuromyotonie,
+limbischer Enzephalitis oder dem Morvan-Syndrom. Betroffene leiden häufig
+an verzögerter Muskelentspannung nach willkürlicher Muskelanspannung,
+epileptischen Anfällen sowie Schlafstörungen und kognitiven
+Defiziten.\footcite{VanSonderenNatRev2016}
+
+Der Fokus der vorliegenden Arbeit liegt auf der autoimmunen
+Caspr2-Enzephalitis, bei der Autoantikörper gegen das neuronale Protein
+Caspr2 gebildet werden. Caspr2 bildet mit Kaliumionenkanälen und
+weiteren Proteinen im Nervensystem Komplexe, welche unter anderem für
+die Lokalisation der Kaliumionenkanäle relevant sind. Bekannt ist
+bereits, dass Caspr2 für die funktionierende Signalweiterleitung durch
+das Axon von Bedeutung ist. Der Fokus dieser Arbeit liegt daher auf der
+Untersuchung von Caspr2 und der Wirkung von Autoantikörpern gegen
+dieses Protein an den Synapsen des zentralen Nervensystems. In
+Zusammenarbeit mit Dr.~Josefine Sell vom Universitätsklinikum Jena
+werden zwei Teiluntersuchungen
+durchgeführt.\footcite{Mitrevski}
+
+Zum einen soll herausgefunden werden, ob Caspr2 an exzitatorischen oder
+inhibitorischen Synapsen lokalisiert ist. Dazu werden
+Hippocampuszellkulturen von Mäusen Doppelfärbungen kommerzieller
+Caspr2-Antikörper mit je einem der synaptischen Marker VGlut1 (für
+exzitatorische Synapsen) und VGat (für inhibitorische Synapsen)
+durchgeführt. Diese werden mithilfe hochauflösender
+Fluoreszenzmikroskopie analysiert und ausgewertet.
+
+Im zweiten Teil wird untersucht, ob Antikörper gegen Caspr2 die
+Interaktion zwischen Caspr2 und seinem Bindungspartner Contactin-2
+stören. Dafür werden lebende neuronale Zellkulturen mit monoklonalen
+Caspr2-Antikörpern behandelt. Anschließend erfolgt eine Doppelfärbung
+von Caspr2 und Contactin-2, um mögliche Veränderungen in der
+Kolokalisation der beiden Proteine festzustellen.
+
+Ziel dieser Seminarfacharbeit ist es, durch die Untersuchungen dazu
+beizutragen, ein besseres Verständnis für die Caspr2-assoziierte
+Enzephalitis zu entwickeln. Denn nur wenn die zugrundeliegenden Vorgänge
+im Gehirn genau verstanden werden, kann die Diagnostik und Behandlung
+der Krankheit weiter optimiert werden.
+
+\chapter{Grundlagen}
+    \section{Neurobiologische Grundlagen}
+    \textbf{Johanna Hoppe}
+        \subsection{Aufbau und Funktion des Nervensystems}
+        Das Nervensystem des Menschen lässt sich funktionell und topographisch
+        unterteilen. Man unterscheidet das zentrale Nervensystem (ZNS), welches
+        Informationen verarbeitet, und das periphere Nervensystem (PNS), welches
+        Informationen zum zentralen Nervensystem sowie zu Muskel- oder
+        Drüsenzellen leitet.\footcite{Westphalen2004}
+        
+        Das zentrale Nervensystem besteht aus dem Rückenmark und dem
+        Gehirn. Das Rückenmark liegt im Inneren der Wirbelsäule und
+        besteht aus Axonbündeln, wodurch es vor allem eine Leitungsbahn zwischen
+        dem Gehirn und dem restlichen Körper darstellt. Es steuert außerdem
+        koordinierte Bewegungen wie Laufen und löst einfache Reflexe aus, wie
+        zum Beispiel den Lidschluss- und den
+        Kniesehnenreflex.\footcite{Freedman2025Rueckenmark}
+        
+        Am oberen Ende des Rückenmarks schließt sich im Bereich der Medulla
+        oblongata der Hirnstamm und damit das Gehirn an. Der Bau des
+        Gehirns lässt sich in Vorderhirn und Hirnstamm einteilen. Das
+        Vorderhirn besteht aus dem Zwischenhirn, also dem Thalamus und dem
+        Hypothalamus, und dem Großhirn. Der Hirnstamm wird in Mittelhirn und
+        Rautenhirn, welches unter anderem das Kleinhirn einschließt, unterteilt.
+        Diese Zusammenhänge sind in Abbildung \ref{fig:anaNBG}
+        dargestellt.\footcite[S.~1105]{Markl1997}
+        \clearpage
+        % ── Abbildung 1 ausgelassen ──────────────────────────────────
+        % Abbildung 1: Aufbau des Gehirns
+        % Quelle: \cite[S.~1105]{Markl1997}
+        % ─────────────────────────────────────────────────────────────
+        \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+        	\centering % Zentriert das Bild horizontal
+        	\includegraphics[width=0.8\textwidth]{abbildungen/anatomieNBG.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+        	\caption{ Aufbau des Gehirns \parencite{MarklBild1997a}} % Die Bildunterschrift
+        	\label{fig:anaNBG} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+        \end{figure}
+        
+        Das Kleinhirn liegt hinter bzw.\ unter dem Großhirn. Seine
+        Hauptfunktion liegt in der Koordination von Bewegungen. So enthält es
+        beispielsweise Informationen zur Stellung der Gelenke oder Länge der
+        Muskeln und kann, nach Input des Großhirns über motorische Ausgänge, die
+        automatische Koordination von Körperbewegungen und die Balance steuern.
+        Durch das Kleinhirn wird also ein fließender und abgestimmter
+        Bewegungsablauf ermöglicht, der zum Beispiel bei der
+        Auge-Hand-Koordination von Bedeutung
+        ist.\footcite[S.~1106]{Markl1997}
+        
+        Einige Teile des Zwischenhirns und des Großhirns bilden das
+        limbische System, das unter anderem den Hippocampus umfasst.
+        Der Hippocampus ist eine paarig angelegte Struktur. Er befindet
+        sich am Innenrand des Temporallappens und an den Seitenventrikeln. Der
+        Hippocampus spielt eine entscheidende Rolle bei der Gedächtnisbildung.
+        Insbesondere ist er an der Konsolidierung von Gedächtnisinhalten
+        beteiligt, also an der Überführung neuer Informationen aus dem
+        Kurzzeitgedächtnis in das Langzeitgedächtnis. Darüber hinaus ist er von
+        Bedeutung für das räumliche Gedächtnis sowie für Lernprozesse. Durch
+        seine Einbindung in das limbische System ist er ebenfalls an Funktionen
+        wie Emotionen und Motivation
+        beteiligt.\footcite{Hoegemann2006}
+        
+        Das periphere Nervensystem bildet den zweiten großen Bestandteil
+        des menschlichen Nervensystems. Topografisch gliedert es sich in die
+        Hirnnerven und die Spinalnerven. Der Mensch besitzt zwölf
+        Hirnnervenpaare, welche direkt aus dem Gehirn austreten und vor allem
+        den Kopf- und Halsbereich versorgen, sowie 31 Spinalnervenpaare, die aus
+        dem Rückenmark hervorgehen und in den Rumpf, die Extremitäten und die
+        inneren Organe führen. Diese peripheren Nerven bestehen jeweils
+        aus Bündeln vieler Neuronen. Das periphere Nervensystem setzt sich aus
+        zwei funktionellen Untereinheiten zusammen. Die sensorische Untereinheit
+        leitet Informationen von Sinneszellen oder inneren Organen zum zentralen
+        Nervensystem. Dies findet beispielsweise bei dem Registrieren von Wärme
+        oder Kälte statt. Die motorische Untereinheit hingegen überträgt Signale
+        aus dem zentralen Nervensystem an die Effektoren, also zu Muskel- oder
+        Drüsenzellen. Der motorische Anteil des peripheren Nervensystems kann
+        weiter in das somatische und das autonome Nervensystem gegliedert
+        werden, wobei das somatische Nervensystem bewusste Bewegungen steuert,
+        während das autonome Nervensystem durch das Zusammenwirken von
+        Sympathicus und Parasympathicus unwillkürliche Prozesse wie
+        beispielsweise den Herzschlag
+        reguliert.\footcite[S.~1100--1102]{Markl1997}
+        
+        
+        \subsection{Signalweiterleitung am Axon und synaptische Signalübertragung}
+        
+	    Um die Rolle bestimmter Proteine für die Signalweiterleitung in einer
+	    Nervenzelle zu verstehen, sollen der Aufbau einer Nervenzelle sowie der
+	    Prozess der Signalweiterleitung genauer betrachtet werden.
+	    
+	    Die grundlegende Funktionseinheit des Nervensystems ist die
+	    Nervenzelle, auch Neuron genannt.
+        \clearpage
+        \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+        	\centering % Zentriert das Bild horizontal
+        	\includegraphics[width=0.8\textwidth]{NEU1bild.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
+        	\caption{ Aufbau einer Nervenzelle \parencite{MediKarriere2024}} % Die Bildunterschrift
+        	\label{fig:NEU1} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+        \end{figure}
+        
+        Ein Neuron besteht aus einem Zellkörper (Soma), welcher das Zellplasma,
+        den Zellkern sowie weitere typische Zellorganellen enthält. Von ihm
+        gehen Dendriten, verzweigte Fortsätze des Neurons, aus, die der
+        Aufnahme eingehender Signale anderer Neuronen dienen. Sie leiten Signale
+        elektrisch zum Zellkörper weiter. Am Übergang zum Axon, dem Axonhügel,
+        werden die eingehenden Signale summiert. Überschreitet das
+        Membranpotential dort einen bestimmten Schwellenwert, entsteht ein
+        Aktionspotential. Dieses wird entlang des Axons bis zu den synaptischen
+        Endigungen weitergeleitet. An den synaptischen Endigungen wird das
+        ankommende Aktionspotential in ein chemisches Signal umgewandelt, indem
+        Neurotransmitter in den synaptischen Spalt ausgeschüttet werden. Auf
+        diese Weise wird die Information auf eine nachgeschaltete Nerven-,
+        Muskel- oder Drüsenzelle
+        übertragen.\footcite[S.~1082--1083]{Markl1997}
+        
+        Ein Aktionspotential ist eine ein bis zwei Millisekunden anhaltende,
+        markante Änderung des Membranpotentials der
+        Zellmembran.\footcite{Hircin2007}
+        Das Membranpotential ist die elektrische Spannung, die zwischen der
+        Außen- und Innenseite der Zellmembran, aufgrund von
+        Ladungsunterschieden,
+        besteht.\footcite{AntwerpesMembranpotential2006}
+        Alle Zellen bilden ein solches Membranpotential aus, jedoch können
+        Neuronen ihr Membranpotential aktiv verändern. Man bezeichnet sie daher
+        auch als erregbare Zellen. Im Ruhezustand weist die Membran der
+        Nervenzelle ein negatives Ruhepotential auf, das ca.\
+        $-70$~Millivolt (mV) beträgt. Wird am Axonhügel der Zelle durch das
+        Summieren der eingehenden Signale ein bestimmter Schwellenwert
+        überschritten, welcher in der Regel bei $-55$~mV liegt, kommt es zur
+        Öffnung spannungsgesteuerter Natriumionenkanäle. Der darauffolgende
+        Einstrom von positiv geladenen Natriumionen in das Zellinnere führt zu
+        einer Depolarisation, also einer Verschiebung des Membranpotentials in
+        den positiven Bereich. Diese Depolarisation bewirkt die Öffnung weiterer
+        Natriumionenkanäle, wodurch das Innere der Zelle rasant positiver wird.
+        Dieser Vorgang folgt dem Prinzip der positiven Rückkopplung. Während
+        sich die spannungsgesteuerten Natriumionenkanäle bei einer
+        Depolarisation sehr schnell öffnen, öffnen sich die
+        spannungsgesteuerten Kaliumionenkanäle erst zeitlich verzögert.
+        Infolgedessen strömen Kaliumionen aus dem Zellinneren in den
+        extrazellulären Raum. Da die Natriumionenkanäle bereits wieder
+        geschlossen sind, führt der Ausstrom der Kaliumionen zur Repolarisation
+        der Membran und stellt das ursprüngliche, negative Ruhepotential wieder
+        her.\footcite[S.~1087--1089]{Markl1997}
+        
+        Das Aktionspotential breitet sich anschließend entlang des Axons aus.
+        Das Axon ist häufig von einer Myelinscheide umgeben, die im peripheren
+        Nervensystem aus Schwann-Zellen gebildet wird. Die Myelinscheide ist in
+        regelmäßigen Abständen durch Ranvier-Schnürringe unterbrochen
+        (siehe Abbildung \ref{fig:salaNBG}). Die spannungsgesteuerten Natrium- und
+        Kaliumionenkanäle sind dabei überwiegend an den Ranvier-Schnürringen
+        konzentriert. Eine Depolarisation, die durch ein Aktionspotential an
+        einem Ranvier-Schnürring ausgelöst wurde, breitet sich im Zellplasma
+        aus und führt auch am nächsten Ranvier-Schnürring zur Öffnung
+        spannungsgesteuerter Natriumionenkanäle. Dort wird nach dem zuvor
+        beschriebenen Prinzip erneut ein Aktionspotential ausgelöst.
+        
+        % ── Abbildung 3 ausgelassen ──────────────────────────────────
+        % Abbildung 3: Saltatorische Erregungsweiterleitung
+        % Quelle: \cite[S.~1091]{Markl1997}
+        % ─────────────────────────────────────────────────────────────
+        \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+        	\centering % Zentriert das Bild horizontal
+        	\includegraphics[width=0.8\textwidth]{abbildungen/SaltatorischeNBG.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+        	\caption{Saltatorische Erregungsweiterleitung \parencite{MarklBild1997b}
+        	} % Die Bildunterschrift
+        	\label{fig:salaNBG} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+        \end{figure}
+        
+        Das Aktionspotential wird also durch die spannungsgesteuerten
+        Ionenkanäle sequenziell neu generiert und so über das Axon bis zu den
+        synaptischen Endigungen weitergeleitet, wobei die spannungsgesteuerten
+        Kaliumionenkanäle für die Repolarisation verantwortlich sind. Dies
+        bezeichnet man als saltatorische
+        Erregungsleitung.\footcite[S.~1090--1091]{Markl1997}
+        
+        Trifft ein Aktionspotential an der präsynaptischen Endigung ein, kommt
+        es zur Depolarisation der Membran, was zur Öffnung
+        spannungsgesteuerter Calciumionenkanäle führt. Der folgende Einstrom von
+        Calciumionen führt zur Fusion der synaptischen Vesikel mit der Membran
+        und zur Freisetzung von Neurotransmittern in den synaptischen Spalt.
+        
+        % ── Abbildung 4 ausgelassen ──────────────────────────────────
+        % Abbildung 4: Aufbau und Funktionsweise einer chemischen Synapse
+        % Quelle: \cite{DocCheckSynapse2026}
+        % ─────────────────────────────────────────────────────────────
+        \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+        	\centering % Zentriert das Bild horizontal
+        	\includegraphics[width=0.8\textwidth]{abbildungen/chemsynapseNBG.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+        	\caption{Aufbau und Funktionsweise einer chemischen Synapse \parencite{DocCheckSynapseBild2026}
+        	} % Die Bildunterschrift
+        	\label{fig:chemNNBG} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+        \end{figure}
+        
+        Spannungsabhängige Kaliumionenkanäle des Typs Kv1 spielen eine wichtige
+        Rolle bei der Repolarisation der Membran. Sie begrenzen auch hier die
+        Dauer des Aktionspotentials und dadurch den Calciumioneneinstrom. So
+        beeinflussen sie indirekt die Menge an freigesetzten Neurotransmittern.
+        Je nach Art der freigesetzten Neurotransmitter unterscheidet man
+        erregende und hemmende Synapsen. Zum Beispiel ist Glutamat ein wichtiger
+        erregender (exzitatorischer) Transmitter. Für den Transport von Glutamat
+        in die synaptischen Vesikel ist das Vesikelprotein VGlut1 (Vesikulärer
+        Glutamat-Transporter~1) verantwortlich. Daher dient VGlut1 als Marker
+        für exzitatorische Synapsen. Das Protein VGat (Vesikulärer
+        GABA/Glyzin-Transporter) hingegen transportiert inhibitorische
+        Neurotransmitter wie Gammaaminobuttersäure (GABA) in die Vesikel und ist
+        somit ein Marker für hemmende
+        Synapsen.\footcite[S.~1092]{Markl1997}
+
+% ── Abbildung 6 ausgelassen ──────────────────────────────────
+% Abbildung 6: Domänenorganisation von Caspr2
+% Quelle: \cite{Canali2018}
+% ─────────────────────────────────────────────────────────────
+
+    \section{Immunologische Grundlagen}
+    \textbf{Kushagr Sinha}
+    
+Bei den autoimmunen Enzephalitiden kann man schon am Namen erkennen, dass es sich hier um eine autoimmune Krankheit handelt. Was eine autoimmune Krankheit ist, wie diese entsteht sowie die wichtigsten Grundlagen dazu, werden in diesem Kapitel erklärt.
+
+\subsection{Prinzipien der Immunabwehr}
+
+Das Immunsystem des menschlichen Körpers ist ebenso wie das Nervensystem äußerst komplex. Seine Hauptaufgabe besteht darin, den Körper vor Viren, Bakterien und anderen körperfremden Stoffen zu schützen.\footcite{Smith1999}
+
+Die Abwehr des Immunsystems wird in zwei Systeme aufgeteilt:
+\begin{itemize}
+	\item das angeborene (unspezifische) Immunsystem
+	\item das adaptive (spezifische) Immunsystem
+\end{itemize}
+
+Das angeborene Immunsystem wirkt im Falle eines Krankheitserregers als erstes, am schnellsten und unspezifisch, also ohne Erkennung spezifischer Antigene, indem es auf allgemein charakteristische Strukturen der Erreger reagiert.\footcite{MSDImmunsystem2026}
+
+Das adaptive Immunsystem hingegen reagiert langsamer als das angeborene, wirkt aber spezifisch gegen die Antigene der Erreger. Außerdem bildet es ein immunologisches Gedächtnis, um beim Wiederauftreten des Pathogens dieses schneller und besser bekämpfen zu können. Die zwei wichtigsten Zellen dabei sind die T-Lymphozyten und die B-Lymphozyten.\footcite{MSDImmunsystem2026}
+
+T-Lymphozyten übernehmen vorwiegend regulatorische und zellvermittelte Funktionen. T-Helferzellen koordinieren die Immunantwort, indem sie durch die Ausschüttung von Zytokinen die Aktivierung anderer Immunzellen steuern. Zytotoxische T-Zellen sind hingegen in der Lage, virusinfizierte oder entartete Körperzellen gezielt zu zerstören. Die präzise Zusammenarbeit dieser verschiedenen Zelltypen ermöglicht eine effektive und kontrollierte Immunabwehr.
+
+B-Lymphozyten spielen eine entscheidende Rolle bei der humoralen Immunantwort. Nach Aktivierung durch Antigenkontakt und Unterstützung durch T-Helferzellen differenzieren sie sich zu Plasmazellen, die große Mengen spezifischer Antikörper produzieren. Antikörper sind Proteine, die meist der Klasse der Immunglobuline G (IgG) angehören und eine charakteristische Y-förmige Struktur besitzen (siehe Abildung \ref{fig:yfigure}). Die variablen Regionen an den Enden der Antikörper ermöglichen eine hochspezifische Bindung an Antigene. Durch diese Bindung können Krankheitserreger neutralisiert oder für andere Immunzellen markiert werden.\footcite{DocCheckLymphozyt, doccheck_igg}
+\clearpage
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.91\textwidth]{abbildungen/IGGPI.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Y- Form der Antiköper \parencite{doccheck_iggbild}} % Die Bildunterschrift
+	\label{fig:yfigure} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+Damit beide Systeme miteinander kommunizieren können, gibt es dendritische Zellen. Diese gelten als Vermittler zwischen dem angeborenen und dem adaptiven Immunsystem. Sie erfüllen diese Aufgabe, indem sie Antigeninformationen von Erregern aufnehmen und diese dann an ihrer Oberfläche präsentieren. Dadurch werden Lymphozyten aktiviert, was wiederum zu einer spezifischen Immunantwort führt.\footcite{UniHeidelbergImmunologie2026}
+
+Innerhalb der Immunglobuline der Klasse G (IgG) gibt es vier Subklassen (IgG1 bis IgG4), die sich in ihrer Funktion unterscheiden. Während IgG1 und IgG3 oft Entzündungen durch das sogenannte Komplementsystem verstärken, nimmt IgG4 eine Sonderrolle ein: Es ist weniger entzündlich, neigt aber dazu, Bindungen zwischen Proteinen direkt zu blockieren.\footcite{doccheck_igg, AntwerpesIgG4}
+
+\clearpage
+
+\subsection{Mechanismen fehlgeleiteter Immunabwehr}
+
+Ein zentrales Merkmal eines funktionierenden Immunsystems ist die Fähigkeit zur Selbsttoleranz. Das bedeutet, dass körpereigene Strukturen unter normalen Bedingungen nicht als Ziel einer Immunreaktion erkannt werden. Diese Eigenschaft ist entscheidend, um autoimmune Prozesse zu verhindern.\footcite{Smith1999}
+
+Passiert bei der immunologischen Selbsttoleranz ein Fehler, greift das Immunsystem fälschlicherweise körpereigene Strukturen an. Dieser Vorgang wird als Autoimmunität bezeichnet. Erst wenn eine solche Reaktion zu messbaren Schäden an Organen oder Geweben führt und klinische Symptome aufweist, spricht man von einer Autoimmunerkrankung.\footcite{Fernandez2026}
+
+T- und B-Zellen entstehen beide im Knochenmark, durchlaufen jedoch bei ihrer Entwicklung spezifische Kontrollmechanismen, um eine Autoimmunität zu verhindern. Sie durchlaufen zunächst im Thymus bzw. im Knochenmark eine zentrale Toleranz, bei der geprüft wird, ob sie auf körpereigene Antigene reagieren. Ist dies der Fall, werden sie eliminiert.\footcite{DocCheckLymphozyt}
+
+Versagen die Toleranzmechanismen oder machen sie einen Fehler, sodass ein selbstreaktiver Lymphozyt überlebt und autoaggressive T-Zellen sowie Autoantikörper bildet, greift ein zusätzlicher Regulationsprozess ein, nämlich die periphere Toleranz. Hierbei unterdrücken regulatorische T-Zellen mithilfe von hemmenden Botenstoffen die Aktivierung solcher schädlicher Zellen oder lösen ihren Zelltod aus. Darüber hinaus kann die Zelle, wenn keine Entzündung vorliegt und somit keine kostimulatorischen Signale erhält, in einen Zustand der Inaktivität (Anergie) versetzt werden und somit keine Reaktion auslösen.\footcite{Macian2004}
+
+Zentral für die Entstehung der CASPR2-Enzephalitis ist ein Versagen der immunologischen Kontrollmechanismen: Selbstreaktive B-Zellen bilden Autoantikörper, die überwiegend zur IgG4-Subklasse gehören. Diese Antikörper gelangen über die Blut-Hirn-Schranke, eine normalerweise selektive Barriere zwischen Blutkreislauf und Gehirn, die das Eindringen schädlicher Stoffe verhindert, in das zentrale Nervensystem. Dort richten sie sich gegen das Protein CASPR2. Da IgG4-Antikörper kaum entzündliche Reaktionen auslösen, kommt es nicht zu einer direkten Zerstörung von Nervengewebe. Stattdessen beeinträchtigen sie die Funktion der Nervenzellen, indem sie die Stabilität von Kaliumkanälen stören. Die Folge ist eine erhöhte neuronale Erregbarkeit, die charakteristisch für die Erkrankung ist.\footcite{Patterson2018}
+        
+        
+        
+\chapter{Die Wirkung von Caspr2 am Axon und der Synapse}
+\textbf{Johanna Hoppe}
+
+Bei der beschriebenen Form der Erregungsleitung entlang des Axons
+spielen neben den spannungsgesteuerten Ionenkanälen, die den Ionenstrom
+ermöglichen, auch weitere Proteine eine entscheidende Rolle.
+
+Bereits 1999 wurde das Protein Contactin-associated
+protein~2 (Caspr2) in den angrenzenden Bereichen der axonalen Schnürringe, den
+juxtaparanodalen Bereichen,
+beschrieben\footcite{Poliak1999} und seitdem weiter erforscht. Caspr2
+ist ein Typ-I-Transmembranprotein, also ein integrales Protein, welches
+die Zellmembran nur einmal durchquert, und gehört zur
+Neurexin-Superfamilie. Diese ist eine Gruppe von
+Transmembranmolekülen, die Zell-Zell-Kontakte vermitteln und
+spezialisierte membranöse Domänen
+erzeugen.\footcites{HaklaiTopper2010}{CellSignaling2026}
+
+Caspr2 ist am myelinisierten Axon unter anderem mit Contactin2
+Bestandteil eines Proteinkomplexes, welcher in Abbildung \ref{fig:cmyelin} dargestellt
+ist. Dieser lokalisiert und verankert spannungsgesteuerte
+Kalium-Ionenkanäle des Typs Kv1 in der Axonmembran. Dabei interagiert
+Caspr2 extrazellulär mit Contactin2, welches wie Caspr2 als
+Zelladhäsionsprotein wirkt. Dadurch trägt der Komplex entscheidend zur
+räumlichen Organisation der myelinisierten Axonmembran und zur
+Aufrechterhaltung einer effizienten saltatorischen
+Erregungsweiterleitung (siehe Kapitel~2.1.2) bei. Eine Störung dieser
+Interaktion kann die korrekte Clusterbildung und somit die Funktion der
+Kv1-Kanäle beeinträchtigen und zu neurologischen Symptomen wie in
+Kapitel~4.1 beschrieben wird,
+führen.\footcite{VanSonderenNatRev2016}
+\clearpage
+% ── Abbildung 5 ausgelassen ──────────────────────────────────
+% Abbildung 5: Caspr2 am myelinisierten Axon
+% Quelle: \cite{VanSonderenNatRev2016}
+% ─────────────────────────────────────────────────────────────
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.91\textwidth]{abbildungen/caspr2myelinWCA.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{  Caspr2 am myelinisierten Axon \parencite{SonderenBild2017}} % Die Bildunterschrift
+	\label{fig:cmyelin} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+Zudem ist bekannt, dass Caspr2 während der Embryonalentwicklung
+bedeutsam ist und dort für die korrekte Verzweigung der Dendriten, die
+Ausbildung dendritischer Spines und das Axonwachstum mitverantwortlich
+ist. Fehlt Caspr2 durch eine genetische Veränderung, kann die
+Entwicklung der Nervenzellen beeinträchtigt sein. Eine Caspr2-Mutation
+wird beispielsweise auch mit Erkrankungen wie der
+Autismus-Spektrum-Störung oder Aufmerksamkeits-/Hyperaktivitätsstörung
+(ADHS) in Verbindung
+gebracht.\footcite{Canali2018}
+
+Neuere Studien zeigen, dass Caspr2 nicht nur am Axon lokalisiert ist,
+sondern auch an Synapsen vorkommt, was bisher jedoch deutlich weniger
+erforscht ist. Kv1-Kanäle sind bereits sicher an den präsynaptischen
+Membranen bekannt und sind dort an der Freisetzung von
+Neurotransmittern beteiligt (siehe Kapitel~2.1.2). Bereits 2008 konnten
+Caspr2 und Contactin-2 biochemisch an synaptischen Membranen
+nachgewiesen werden.\footcite{Bakkaloglu2008}
+In einer weiteren Studie aus dem Jahr 2015 wurde mithilfe von
+Immunfärbungen eine Überlappung von Caspr2 mit synaptischen Markern
+erregender und hemmender Synapsen gezeigt. Dabei wurden die Marker
+VGlut für exzitatorische, und Gad65 für inhibitorische Synapsen,
+verwendet. Diese gelten als spezifische Markerproteine für den
+jeweiligen Synapsentyp. Unter anderem durch solche Ergebnisse geht man
+davon aus, dass Caspr2 auch an präsynaptischen Membranen
+vorliegt.\footcite{Pinatel2015}
+
+Die Funktion von Caspr2 an der Synapse ist bislang nicht vollständig
+geklärt, ähnelt jedoch vermutlich der am Axon. Caspr2 bildet auch hier
+einen Protein-Komplex mit weiteren Molekülen wie Contactin-2. Wie
+dieser genau aufgebaut ist, ist jedoch noch unklar. Angenommen wird,
+dass dieser Komplex analog zum myelinisierten Axon die Kv1-Kanäle
+stabilisiert und lokalisiert. Darüber hinaus könnte der
+Caspr2-Contactin-2-Komplex an der Organisation synaptischer Strukturen
+beteiligt sein, indem er die Verbindung von Prä- und Postsynapse
+stabilisiert. Die Anordnung des Proteinkomplexes sowie die Organisation
+der einzelnen Domänen von Caspr2 ist wahrscheinlich eine andere als am
+Axon, da es sich hier um andere Zelltypen handelt. Weiterhin ist zu
+beachten, dass der synaptische Spalt kleiner ist als der extrazelluläre
+Raum zwischen Axon und Gliazelle. Entsprechend existieren
+unterschiedliche Hypothesen zur Organisation und Funktion von Caspr2 an
+der Synapse.\footcite{Canali2018}
+
+Eine dieser Hypothesen ist in Abbildung \ref{fig:domänenc} dargestellt. Teil~A zeigt die
+Struktur und Zelladhäsionsfunktion von Caspr2 an den juxtaparanodalen
+Bereichen, wobei TAG-1 (Transient Axonal Glycoprotein-1) eine
+alternative Bezeichnung für Contactin-2 ist. Teil~B stellt den Aufbau
+von Caspr2 mit seinen verschiedenen Domänen dar. Darunter sind die
+Discoidin-Domäne (F58C) und die Laminin-Domänen (L1--L4), welche im
+späteren Verlauf der Arbeit erneut aufgegriffen werden. Teil~C
+veranschaulicht zwei mögliche Anordnungen des Proteins an der Synapse:
+zum einen eine vertikale Orientierung, die das Protein annehmen könnte,
+sowie eine mögliche horizontale Orientierung der Domänen. Je nachdem,
+wie das Protein ausgerichtet ist, wird seine Funktion unterschiedlich
+beeinflusst, da beispielsweise andere Interaktionen mit weiteren
+Proteinen möglich sind.\footcite{Canali2018}
+% ── Abbildung 6 ausgelassen ──────────────────────────────────
+% Abbildung 6: Domänenorganisation von Caspr2
+% Quelle: \cite{Canali2018}
+% ─────────────────────────────────────────────────────────────
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.91\textwidth]{abbildungen/Domänencaspr2WCA.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Domänenorganisation von Caspr2 \parencite{CanaliBild2018}} % Die Bildunterschrift
+	\label{fig:domänenc} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+\chapter{Autoimmune Enzephalitis und CASPR2}
+\textbf{Helene Becker}
+    \section{Definition und Krankheitsbild}
+    Als Enzephalitis wird eine Entzündung des Gehirns bezeichnet.
+    Je nach Ursache und Ausprägung der Symptome werden verschiedene Arten
+    von Enzephalitiden unterschieden.
+    
+    Enzephalitiden werden meist ausgelöst, indem ein Virus das Hirn direkt
+    infiziert oder ein Virus, ein Impfstoff oder etwas anderes die Entzündung
+    auslöst. Als Folge einer Viruserkrankung kann so beispielsweise eine
+    epidemische oder eine sporadische Enzephalitis entstehen. Ebenfalls kann
+    (aus einer Virusinfektion, aus einer Impfung mit bestimmten Impfstoffen
+    oder aus der Reaktion von T-Zellen auf einen Tumor) eine sogenannte
+    autoimmune Enzephalitis (AE) hervorgehen.\footcite{Klein2026}
+    Bei der AE handelt es sich um eine Autoimmunerkrankung, bei der es zur
+    fehlgeleiteten Immunabwehr gegen körpereigene neuronale Strukturen
+    kommt.\footcites{Klein2026}{Fernandez2026}
+    Dabei werden AK gegen Antigene körpereigener Gewebe durch das
+    Immunsystem hergestellt, jene werden dann als sogenannte aAK
+    bezeichnet. Eine solche Autoimmunreaktion kann zu neuronalen
+    Entzündungen und Gewebeschäden führen.\footcite{Fernandez2026}
+    
+    Der Begriff der AE beschreibt nicht eine konkrete Erkrankung, sondern
+    eine Gruppe von Erkrankungen, die sich in verschiedenen Bereichen des
+    ZNS und PNS ausbilden. Jede
+    einzelne wird an Hand der auslösenden aAK charakterisiert, wodurch es zu
+    einem breiten Spektrum klinischer Symptome der AE kommt, die von
+    Wesensänderungen und kognitiven Störungen über epileptische Anfälle und
+    Bewegungsstörungen bis hin zu vegetativen und Bewusstseinsstörungen
+    führen können.\footcite[S.~525]{Heine2022}
+    
+    AE werden in zwei Hauptformen unterschieden. Paraneoplastische
+    Enzephalitiden werden durch aAK, sogenannte onkoneurale AK, gegen
+    intrazelluläre Zielstrukturen ausgelöst und sind meist Tumor-assoziiert,
+    wohingegen aAK gegen neuronale Oberflächenantigene eine sogenannte
+    nicht-paraneoplastische Enzephalitis auslösen können und eher selten mit
+    Tumoren assoziiert sind. Eines dieser neuronalen Oberflächenantigene ist
+    Caspr2.\footcite[S.~526--528]{Heine2022}
+    
+    Generell verlaufen AE in der Regel zunächst subakut bis chronisch. Über
+    den Langzeitverlauf von AE wurden bisher nur wenige Daten erhoben. Je
+    nach Zeitpunkt der Diagnosestellung und des Therapiebeginns kommt es bei
+    nicht-paraneoplastischen AE allerdings meist zur vollständigen oder
+    teilweisen Erholung.\footcite[S.~533]{Heine2022}
+    Kurz nach der Akutphase sind die Genesungschancen für Patienten zwar am
+    höchsten, dennoch lassen sich noch nach mehreren Jahren Verbesserungen
+    der kognitiven Fähigkeiten
+    verzeichnen.\footcite[S.~534]{Heine2022}
+    Paraneoplastische Enzephalitiden hingegen sind meist Tumor-assoziiert,
+    sprechen daher selten auf immunwirksame Behandlungen an und erzeugen oft
+    schwere und bleibende neurologische
+    Ausfallerscheinungen.\footcite{UniHeidelbergAE2026}
+    
+    Da sich diese Arbeit mit der Caspr2-AE auseinandersetzt, ist
+    im Folgenden zunächst von nicht-paraneoplastischen Enzephalitiden
+    die Rede.
+    
+    Zur Diagnostik einer AE hilft die Zuordnung erhobener Befunde, aus der
+    klinischen Analyse der Symptome und möglicher Syndrome,
+    Magnetresonanztomographie (MRT), Liquoranalyse,
+    Elektroenzephalogramm (EEG) und Antikörperdiagnostik in Kategorien. Im
+    von Graus et al.\ (2016) veröffentlichten Diagnosealgorithmus wird ein
+    praktischer klinischer Ansatz mit einer solchen Kategorisierung in sieben
+    Kategorien vorgestellt, der zu einer zügigen Diagnostik und Therapie
+    führen soll.\footcite[S.~394]{Graus2016}
+    
+    Wie in Abbildung \ref{fig:AE1} zu erkennen ist, sollte, sobald der Verdacht einer AE
+    besteht, eine Diagnostik auf zugrundeliegende aAK initiiert werden. Dies
+    sollte in Abhängigkeit von klinischen Syndromen und Zusatzbefunden, wie
+    bspw.\ MRT-Veränderungen, Entzündungswerte im Liquor, geschehen. Zwar
+    kann die Diagnose einer AE ohne Nachweis von AK bei AE-typischen
+    Veränderungen im Liquor, MRT und EEG sowie dem zusätzlichen Ausschluss
+    wichtiger Differentialdiagnosen gestellt werden, allerdings führt erst
+    der Nachweis von aAK zu einer sicheren
+    Diagnose.\footcites[S.~394]{Graus2016}{GenerateNet2026}
+    
+    \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+    	\centering % Zentriert das Bild horizontal
+    	\includegraphics[width=0.85\textwidth]{AE1bild.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+    	\caption{ Vereinfachter schematischer Ablauf der Diagnose und
+    		Differentialdiagnose autoimmuner
+    		Enzephalitiden. \parencite{GenerateNetBild2026}} % Die Bildunterschrift
+    	\label{fig:AE1} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+    \end{figure}
+    
+    \clearpage
+    Die Therapie von AE sollte auch ohne bestätigten Antikörpernachweis
+    frühestmöglich beginnen, um die weitere Entzündung des Gehirns durch das
+    Immunsystem zu verhindern. Dabei ist die Therapie in zwei Bereiche mit
+    verschiedenen Therapiemöglichkeiten unterteilt. Die Erstlinientherapie,
+    bspw.\ mit hochdosierten Steroiden, dient zunächst der Abschwächung der
+    Immunreaktion. Meist wird bei nicht-paraneoplastischen AE die Therapie
+    durch die standardisierte Gabe von Rituximab erweitert, um eventuelle
+    Rückfälle zu verhindern, da dies mit der Erstlinientherapie nicht möglich
+    ist. Um die Erkrankung langfristig unter Kontrolle zu bekommen, ist eine
+    weitere Therapie mit Rituximab, Methotrexat oder Azathioprin
+    sinnvoll/notwendig. Zusätzlich zu einer Immuntherapie wird eine
+    symptomatische Behandlung, zum Beispiel mit Antiepileptika oder
+    Antipsychotika, empfohlen. Es werden ebenfalls nichtmedikamentöse
+    Maßnahmen, wie Physiotherapie oder neurologische Rehabilitation, zur
+    Förderung der funktionalen Fähigkeiten im Alltag
+    angeraten.\footcite[S.~533]{Heine2022}
+    Einerseits, weil sich bei einzelnen AE auch nach mehreren Jahren
+    Verbesserungen von kognitiven Funktionen erkennen
+    lassen\footcite[S.~534]{Heine2022}, andererseits weil selbst nach einer
+    Verbesserung der Symptomatik ein Rückfall nicht auszuschließen
+    ist.\footcite[S.~11]{Lancaster2015}
+    
+    
+    AE werden nach den auslösenden aAK charakterisiert und benannt. Die
+    Caspr2-Enzephalitis wird durch die anti-Caspr2-aAK ausgelöst. Sie geht
+    häufig einher mit bestimmten Symptomen und Syndromen, die jedoch von
+    Patient zu Patient variieren.\footcite[S.~525--526]{VanSonderen2016}
+    
+    Dazu zählen:
+    \begin{itemize}
+    	\item Übererregbarkeit des PNS:
+    	\begin{itemize}
+    		\item Neuromyotonie
+    		\item neuropathische Schmerzen, sowie Gelenk-, Muskel- und
+    		Brustschmerzen
+    	\end{itemize}
+    	\item limbische Enzephalitis
+    	\item Morvan-Syndrom [Kombination aus neuropsychiatrischen Symptomen
+    	(Schlafstörung, kognitive Defizite), autonomer
+    	Funktionsstörung und Neuromyotonie]
+    	\item Gewichtsverlust\footcites[S.~523; 526]{VanSonderen2016}%
+    	[S.~527; 530]{Heine2022}
+    \end{itemize}
+    
+    Die meisten nicht-paraneoplastischen AE gehen deutlich seltener mit
+    Tumoren einher als paraneoplastische AE, so auch die
+    Caspr2-Enzephalitis. Ist dies dennoch der Fall, dann handelt es sich
+    meist um Thymome.\footcite[S.~527; 530]{Heine2022}
+    
+    Es lässt sich feststellen, dass überwiegend ältere Männer von der
+    Caspr2-Enzephalitis betroffen sind, wobei das durchschnittliche Alter zum
+    Zeitpunkt des Auftretens der Symptome 66~Jahre
+    betrug.\footcite[S.~522--523; 526]{VanSonderen2016}
+    
+    \section{Wirkungsweise der Anti-Caspr2-Autoantikörper}
+    
+    Die Anti-Caspr2-aAK, die die Caspr2-Enzephalitis auslösen, binden an die
+    extrazellulären Domänen von Caspr2 auf der Oberfläche von Nervenzellen.
+    Sie binden insbesondere an die Discoidin- und
+    Laminin-1-Domänen.\footcite[S.~6]{Olsen2015}
+    
+    AK werden im Allgemeinen je nach ihrer Effektorfunktion in vier
+    Immunglobulin-Subklassen (IgG1--4)
+    unterschieden.\footcite{Mitrevski}
+    Die AK der Klasse IgG4 lösen kaum Entzündungsreaktionen aus, sondern
+    blockieren die Funktionen der Zielstrukturen, sodass beispielsweise die
+    Bindung von Antigenen an andere Antigene verhindert
+    wird.\footcite{AntwerpesIgG4}
+    Die IgG1-AK sind mit verstärkten Entzündungsreaktionen und
+    Komplementaktivierung assoziiert.\footcite{Mitrevski}
+    
+    Der Test auf IgG4 ist in der Studie von van~Sondern et~al.\ (2016) in
+    100\,\% der Fälle, in denen die Caspr2-Enzephalitis auftrat, positiv
+    ausgefallen. 63\,\% der Testergebnisse lieferten ein positives Ergebnis
+    bei der IgG-Klasse IgG1. 19~Patientinnen und Patienten wurden bezüglich
+    der IgG-Klasse der AK
+    getestet.\footcite[S.~524]{VanSonderen2016}
+    Die Rückfallquote scheint ebenfalls hoch zu sein. In der klinischen
+    Forschung von van~Sondern et~al.\ (2016) liegt sie bei 25\,\%, wobei die
+    Rückfälle bis zu sieben Jahren nach Auftreten der Erkrankung eingetreten
+    sind.\footcite[S.~524]{VanSonderen2016}
+    
+    Dabei sind die Anti-Caspr2-aAK nicht für eine geminderte Expression von
+    Caspr2 an der Zelloberfläche verantwortlich. Caspr2 wird durch die aAK
+    funktionell blockiert, sodass es nicht mehr mit Contactin2 interagieren
+    kann.\footcite[S.~6--7]{Patterson2018}
+    Die Kaliumkanäle (Kv1.1/1.2), die normalerweise durch den Komplex in den
+    juxtaparanodalen Regionen der Axone verankert sind, verlieren ihre
+    räumliche
+    Organisation.\footcites{Mitrevski}[S.~8]{Patterson2018}
+    (Eine solche Auflösung von Proteinkomplexen wird auch als
+    De-Clustering bezeichnet.)
+    Wie in Kapitel~2.1.2 beschrieben, sind Kaliumkanäle für die
+    Repolarisation nach einem Aktionspotential essenziell. Bei gestörter
+    Verankerung kommt es zu axonaler Hyperexzitabilität, die Neuronen werden
+    also zu lange
+    erregt.\footcite[S.~525--526]{VanSonderen2016}
+    Dies erklärt die Symptome Neuromyotonie, Übererregbarkeit und
+    neuropathische Schmerzen aus Kapitel~4.1. Während die axonale Pathophysiologie gut verstanden ist,
+    ist die Wirkung von Anti-Caspr2-aAK an den Synapsen noch wenig
+    charakterisiert.
+
+\chapter{Material und methodisches Vorgehen}
+\textbf{Johanna Hoppe}
+    \section{Erklärung der Methode}
+    Ein zentrales Verfahren dieser Arbeit ist die
+    Immunhistochemie. Dies ist eine histologische Methode, mit der
+    spezifische Zellstrukturen, beispielsweise Proteine, sichtbar gemacht
+    werden. Diese Markierung basiert auf der Bindung von Antikörpern an ihre
+    Zielstruktur und somit auf der Antigen-Antikörper-Reaktion (siehe
+    Kapitel~2.2). Eine spezielle Form der Immunhistochemie ist die
+    Immunfluoreszenz mit indirekten Färbungen, welche in den folgenden
+    Untersuchungen verwendet wird.\footcite{LeicaIHC2026}
+    
+    Im ersten Schritt der immunhistologischen Färbung wird ein
+    Primärantikörper auf die Zellstrukturen gegeben. Dieser bindet
+    spezifisch an das Zielantigen (siehe Abbildung \ref{fig:immnuofMMV}). Dabei unterscheidet man
+    zwischen polyklonalen und monoklonalen Antikörpern. Polyklonale
+    Antikörper binden an verschiedene Epitope des Antigens, da sie eine
+    Mischung mehrerer Antikörper darstellen, während monoklonale Antikörper
+    spezifisch an ein einzelnes Epitop binden. Sie werden von nur einer
+    Zelllinie produziert, die auf einen einzigen B-Lymphozyten
+    zurückgeht.\footcites{DocCheckMonoklonal}{DocCheckIHC}
+    
+    Im nächsten Schritt bindet der Sekundärantikörper spezifisch an den
+    verwendeten Primärantikörper. Zudem ist dieser mit einem Farbstoff
+    gekoppelt, welcher unter dem Fluoreszenzmikroskop farbig sichtbar ist.
+    Daher spricht man von einem fluoreszenzbasierten Detektionssystem. Durch
+    den Nachweis des fluoreszierenden Antikörpers können somit die
+    untersuchten Proteine dargestellt und beispielsweise ihre Lokalisation
+    untersucht werden (siehe Abbildung \ref{fig:immnuofMMV}).\footcite{DocCheckIHC}
+    \clearpage
+    % ── Abbildung 7 ausgelassen ──────────────────────────────────
+    % Abbildung 7: Prinzip der indirekten Immunfluoreszenz (rechts)
+    % Quelle: \cite{LeicaMicrosystems2026}
+    % ─────────────────────────────────────────────────────────────
+    \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+    	\centering % Zentriert das Bild horizontal
+    	\includegraphics[width=0.91\textwidth]{abbildungen/immunoflurosenzMMV.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+    	\caption{ Prinzip der indirekten Immunfluoreszenz (rechts)\parencite{LeicaMicrosystems2026}} % Die Bildunterschrift
+    	\label{fig:immnuofMMV} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+    \end{figure}
+    
+    
+    
+    Für optimale Färbungsergebnisse ist darauf zu achten, die Fixierung der
+    Zellen optimal sicherzustellen, geeignete Antikörper sorgfältig
+    auszuwählen und unspezifische Hintergrundfärbungen zu minimieren.
+    Letzteres wird unter anderem durch gründliche Waschschritte und
+    geeignete Blockierungsschritte erreicht. Zudem müssen Negativkontrollen
+    durchgeführt werden, um unspezifische Bindungen der Antikörper
+    auszuschließen. Auf diese Weise können die Auswertungen aussagekräftig
+    und präzise durchgeführt
+    werden.\footcite{LeicaIHC2026}
+    
+    Um eine Kolokalisation zweier Proteine bei der mikroskopischen
+    Auswertung beurteilen zu können, müssen diese in einer Probe durch eine
+    Doppelfärbung sichtbar gemacht werden. Dazu werden zwei verschiedene,
+    jeweils proteinspezifische Primärantikörper eingesetzt. Dabei ist zu
+    beachten, dass diese aus zwei unterschiedlichen Spezies stammen. Die
+    Sekundärantikörper sind jeweils spezifisch gegen die Spezies des
+    Primärantikörpers gerichtet, weshalb die Wahl von zwei
+    unterschiedlichen Spezies die eindeutige Zuordnung der Signale
+    ermöglicht und Kreuzreaktionen vermeidet. Zudem muss bei einer
+    Doppelfärbung beachtet werden, dass die an die Sekundärantikörper
+    gekoppelten Fluoreszenzfarbstoffe sich ausreichend unterscheiden, damit
+    es zu keiner Überlagerung der Signale kommt. Dies bedeutet, dass die
+    Spektren, in denen die Farbstoffe fluoreszieren, nicht stark überlappen
+    dürfen. Diese Spektren ergeben sich aus der jeweiligen Anregungs- und
+    Emissionswellenlänge.\footcite{Hackenberg}
+    \section{Begründung der Methodenwahl}
+    \section{Material}
+
+\chapter{Durchführung der praktischen Untersuchungen}
+\textbf{Kushagr Sinha}
+
+
+Der experimentelle Teil lässt sich in zwei Versuche gliedern:
+
+\begin{enumerate}
+	\item \textbf{Lokalisation von Caspr2 an Synapsen:} Das Ziel war es,
+	die Caspr2-Proteine sowohl an erregenden als auch an
+	hemmenden Synapsen zu lokalisieren.
+	\item \textbf{Einfluss von Caspr2-Antikörpern auf die
+		Protein-Interaktion:} Spezifisch wurde untersucht, ob die
+	Interaktion zum Protein Contactin-2 durch Caspr2-AK, gerichtet
+	gegen die Discoidin- sowie Laminin1-Domänen, gestört wird.
+\end{enumerate}
+
+Um die Experimente beginnen zu können, wurden zunächst
+Gehirnzellenkulturen, spezifisch Hippocampus-Neuronkulturen, benötigt. Dafür
+werden aus einer trächtigen Maus die Embryonen entnommen, dekapitiert
+und die Zellen aus der Hippocampus-Region des Gehirns entnommen.
+
+Die Zelldichte ist so hoch, dass sie zu Ungenauigkeiten führen würde. Daher wurden die Zellen voneinander getrennt und verdünnt. Dafür
+werden sie erst enzymatisch mit Trypsin behandelt, welches das Gewebe
+lockert, damit diese beim Triturieren nicht zerquetscht werden.
+Triturieren bezeichnet in diesem Zusammenhang das mechanische Vereinzeln
+von Zellen durch Auf- und Abpipettieren der Gewebestücke.
+
+Danach werden diese mit einer Zellsuspensionslösung versetzt und auf die
+gewünschte Zelldichte verdünnt (ca.\ 20.000~Zellen/cm$^2$). Jetzt
+werden die Zellen auf Deckgläschen verteilt, welche vorher mit
+Poly-D-Lysin beschichtet wurden, um eine haftende Oberfläche für die
+Zellen zu schaffen. Damit die Zellen dann auch ein neuronales Netzwerk
+ausbilden, werden diese mit einem Neurobasal-Medium (NB), welches
+Nährstoffe und Wachstumsfaktoren enthält, versetzt und anschließend 14~Tage
+inkubiert.
+
+
+% ────────────────────────────────────────────────────────────
+\section{Untersuchung zur Lokalisation von Caspr2 an Synapsen}
+% ────────────────────────────────────────────────────────────
+
+Der gesamte Prozess zur Herstellung der Proben dauerte drei Tage.
+Insgesamt wurden elf Proben hergestellt (siehe Tabelle~\ref{tab:proben}), welche
+in verschiedene Versuchsgruppen unterteilt wurden. Am ersten Tag
+befanden sich die Neuronzellen noch im NB, weswegen sie noch gewaschen,
+also auf- und abpipettiert, werden mussten (siehe Abbildung \ref{fig:waschV}).
+% (siehe Bild ?)
+Dies wurde immer mit PBS (Phosphat-gepufferte Salzlösung) gemacht. Das
+PBS wurde benutzt, da es eine isotonische, nicht-toxische Lösung ist,
+die den pH-Wert stabilisiert und die Zellen schont.
+
+Nachdem die Zellen dreimal gewaschen wurden, wurde ein Puffer~B1
+aufgetragen, welcher aus 10\%iger BSA-Lösung (Rinderserumalbumin) und
+10\%iger NDS-Lösung (normales Eselserum) bestand und als
+Blockierungslösung diente. Ihr Zweck ist es, unspezifische
+Bindungsstellen auf den Deckgläschen und in den Zellen zu besetzen. Dies
+stellt sicher, dass die später hinzugefügten AK nur an ihre spezifischen
+Zielproteine binden und kein störendes Hintergrundleuchten verursachen.
+
+Nach einer Stunde Einwirkzeit wurde der Puffer~B1 abpipettiert und die
+ersten Primärantikörper (Caspr2 bzw.\ der Kontrollantikörper)
+hinzugefügt. Diese wurden anschließend über Nacht bei ungefähr vier Grad
+inkubiert.
+
+% ── Bild 1 ausgelassen ───────────────────────────────────────
+
+\begin{table}[htbp]
+	\centering
+	
+	\label{tab:proben}
+	\begin{tabular}{c l c l c l}
+		\toprule
+		\textbf{Nr.} & \textbf{Färbung} &
+		\textbf{Nr.} & \textbf{Färbung} &
+		\textbf{Nr.} & \textbf{Färbung} \\
+		\midrule
+		(1)  & Caspr2 + VGlut1 &
+		(5)  & Caspr2 + VGat   &
+		(9)  & Control + VGlut1 \\
+		(2)  & Caspr2 + VGlut1 &
+		(6)  & Caspr2 + VGat   &
+		(10) & Control + VGat \\
+		(3)  & Caspr2 + VGlut1 &
+		(7)  & Caspr2 + VGat   &
+		(11) & negative control (nur SEK1+2) \\
+		(4)  & Caspr2 + VGlut1 &
+		(8)  & Caspr2 + VGat   &
+		& \\
+		\bottomrule
+	\end{tabular}
+	\caption{Übersicht der elf Proben und ihrer Versuchsgruppen.}
+\end{table}
+\clearpage
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{abbildungen/waschvorgangDPU.jpeg}
+	\caption{Vorgang des Waschen \parencite{eigenAu6.1}}
+	\label{fig:waschV}
+\end{figure}
+Am zweiten Tag wurden die Deckgläschen in eine Feuchtekammer
+transferiert. Dies ist notwendig, damit die geringen Mengen an
+Antikörperlösung während der Einwirkzeit nicht verdunsten. Die Kammer
+bestand aus einer Plastikbox mit angefeuchteten Papiertüchern als
+Untergrund (siehe Abbildung \ref{fig:fKammer}).
+% (siehe Bild 2)
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{abbildungen/fkammerDPU.jpeg}
+	\caption{Feuchtekammer \parencite{eigenAu6.2}}
+	\label{fig:fKammer}
+\end{figure}
+
+Nach sechsmaligem Waschen mit PBS wurden die ersten
+Sekundärantikörper, nämlich AF647@sheep, dazugegeben. Bei der
+Bezeichnung des Antikörpers wird angegeben: an erster Stelle, dass
+dieser bei einer Wellenlänge von 647~nm leuchtet, und als Zweites, in
+welchem Tier er gezüchtet wurde, also Schaf (sheep), passend zum ersten
+Primärantikörper (Caspr2). Diese Lösung wurde nach zwei Stunden wieder
+sechsmal abgewaschen.
+
+Um die Zellen für die zweiten Primärantikörper besser zugänglich zu
+machen, wurde eine Pufferlösung~B2 hergestellt. Diese bestand aus der
+B1-Lösung und zusätzlich Triton. Das Triton dient dazu, kleine Löcher
+in die Zellmembran zu machen, damit die VGlut/VGat-Antikörper auch in
+das Innere der Synapse gelangen und binden können. Diese wurden nach der
+Puffer-Behandlung hinzugefügt und erneut über Nacht bei 4\,°C gelagert.
+
+Am dritten Tag wurde die Lösung wieder sechsmal mit PBS abgewaschen, und
+es folgte die Zugabe der zweiten Sekundärantikörper, CF488@gp (leuchtet
+grün und ist gerichtet gegen Meerschweinchen-AK) gegen VGlut- und
+VGat-AK. Nach zwei Stunden wurde sechsmal abgewaschen.
+
+Anschließend wurde DAPI hinzugefügt, eine Lösung, die den Zellkern
+verfärbt, damit die Zellen unter dem Mikroskop besser erkannt werden
+können.
+
+Diese wurde dann dreimal gewaschen. Zehn Minuten lang wurden die
+Präparate dann mit einer 4\%igen PFA-Lösung fixiert. Fixieren bedeutet,
+die Proteine chemisch zu stabilisieren und die Zelle in ihrem aktuellen
+Zustand \glqq einzufrieren\grqq{}, damit sie über Monate hinweg
+mikroskopiert werden kann. Nach einem letzten Waschschritt waren die
+Präparate fertig für die Auswertung.
+
+\section{Untersuchung zur Einfluss von Caspr2-Antikörpern auf die
+	Protein-Interaktion}
+
+\chapter{Ergebnisse und Auswertung}
+\textbf{Helene Becker}
+%    \section{Auswertung der Ergebnisse}
+%    \section{Darlegung der Ergebnisse}
+\section{Kolokalisation von Caspr2 mit VGat und VGlut}
+
+% ── Abbildung 1 (Boxplot) ausgelassen ───────────────────────
+% Abb. 1: Colokalisationsfläche von Caspr2 mit synaptischen
+%         Markern VGlut und VGat (SIM und WF)
+% ─────────────────────────────────────────────────────────────
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.8\textwidth]{abbildungen/colokflächemarkerKCVV.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Colokalisationsfläche von Caspr2 mit synaptischen
+		         Markern VGlut und VGat \parencite{eigenAu7.1}} % Die Bildunterschrift
+	\label{fig:coflma} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+% ── Abbildung 2 (Mann-Whitney U-Test Screenshot) ausgelassen ─
+% Abb. 2: Mann-Whitney U-Test von SIM in OriginPro 2019
+% 
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.91\textwidth]{abbildungen/mwutestmarkerKCVV.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{ Mann-Whitney U-Test von SIM in OriginPro 2019 auf die synaptischen Markern VGlut und VGat \parencite{eigenAu7.2}} % Die Bildunterschrift
+	\label{fig:mwutma} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+Zur Untersuchung der synaptischen Lokalisation von Caspr2 wurden die
+synaptischen Marker VGat und VGlut angefärbt. VGat dient als Marker für
+inhibitorische Synapsen und VGlut als Marker für exzitatorische Synapsen.
+Anhand Structured Illumination Microscopy (SIM) und Wide Field (WF)
+wurden die Färbungen analysiert und die Kolokalisation wurde als Fläche 
+in $\mu\text{m}^2$ bestimmt. Die Daten wurden mittels Shapiro-Wilk-Test
+auf Normalverteilung geprüft. Diese lag nicht vor, weshalb anschließend
+der nichtparametrische Mann-Whitney U-Test verwendet wurde.
+
+Die SIM-Daten in Abbildung \ref{fig:coflma} zeigen bei beiden Markern eine geringe Anzahl und
+Größe der Kolokalisationsflächen. Der Medianwert bei VGat und VGlut liegt
+jeweils bei etwa $1\,\mu\text{m}^2$. Die mittleren 50\,\% der VGat-Werte
+liegen im Bereich von ca.\ $0{,}5$--$2\,\mu\text{m}^2$, die VGlut-Analyse
+ergab lediglich einen Wert. Die Streuung der SIM-Daten ist gering.
+
+Die WF-Daten weisen eine größere Streuung auf. Hier liegt der Median der
+VGat- und VGlut-Daten in etwa bei
+$1{,}5$--$2\,\mu\text{m}^2$. Zudem treten zahlreiche Extrema auf. Sie
+erreichen Werte von über $10\,\mu\text{m}^2$, teils liegen sie im Bereich
+von ca.\ $40$--$95\,\mu\text{m}^2$.
+
+In beiden Gruppen liegen die meisten Werte im niedrigen Bereich,
+gleichzeitig kommt es zum Auftreten einzelner hoher Werte. Der
+statistische Vergleich mittels Mann-Whitney U-Test (siehe Abbildung \ref{fig:mwutma}) zeigt
+im SIM-Datensatz keinen signifikanten Unterschied zwischen VGat und VGlut
+($p = 0{,}257$, n.\,s.).
+\clearpage
+\section{Kolokalisation von Caspr2 und Contactin-2 nach der
+	Behandlung mit verschiedenen Antikörpern}
+	
+	% ── Abbildung 3 (Boxplot Discoidin/Laminin) ausgelassen ──────
+	% Abb. 3: Einfluss von Anti-Caspr2-aAK gegen die Discoidin-
+	%         bzw. Laminin-Domäne von Caspr2 auf die Kolokalisation
+	%         mit Contactin-2
+	% ─────────────────────────────────────────────────────────────
+	\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+		\centering % Zentriert das Bild horizontal
+		\includegraphics[width=0.91\textwidth]{abbildungen/aAKstatKCVV.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
+		\caption{Einfluss von Anti-Caspr2-aAK gegen die Discoidin- bzw. Laminin-Domäne
+			von Caspr2 auf die Kolokalisation mit Contactin-2 \parencite{eigenAu7.3}} % Die Bildunterschrift
+		\label{fig:aAKstat} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+	\end{figure}
+	
+	% ── Abbildung 4 (Mann-Whitney U-Test Screenshot) ausgelassen ─
+	% Abb. 4: Mann-Whitney U-Test in OriginPro 2019
+	% ─────────────────────────────────────────────────────────────
+	\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+		\centering % Zentriert das Bild horizontal
+		\includegraphics[width=0.91\textwidth]{abbildungen/mwutestaAK.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+		\caption{Mann-Whitney U-Test von SIM in OriginPro 2019 auf der Einfluss von Anti-Caspr2-aAK \parencite{eigenAu7.4}} % Die Bildunterschrift
+		\label{fig:mwutaAK} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+	\end{figure}
+	Zur Untersuchung des Effekts der Anti-Caspr2-aAK auf die Interaktion
+	zwischen Caspr2 und Contactin-2 wurden Neuronenkulturen von Mäusen
+	entweder mit AK gegen die Discoidin- oder die Laminin-Domäne von Caspr2
+	behandelt. Die Kolokalisation wurde mittels SIM analysiert.
+	
+	Bei der Überprüfung der Werte mittels Shapiro-Wilk-Tests lag keine
+	Normalverteilung vor, daher erfolgte erneut ein Vergleich zwischen den
+	Gruppen mittels Mann-Whitney U-Test.
+	
+	Die Kolokalisationsflächen in Abbildung \ref{fig:aAKstat} weisen in beiden Gruppen ähnliche
+	Wertebereiche auf. Bei den Antikörpern, die an die Discoidin-Domäne
+	binden, liegt der Median bei ca.\ $1{,}8\,\mu\text{m}^2$, die mittleren
+	50\,\% der Werte liegen in etwa zwischen
+	$1{,}4$--$2{,}5\,\mu\text{m}^2$ und es liegt ein Wert außerhalb des
+	Hauptbereichs bei rund $5\,\mu\text{m}^2$.
+	
+	Die Verteilung der Laminin-Werte ist stärker gestreut. Es liegen mehr
+	Kolokalisationsflächen vor. Der Median der Laminin-Werte liegt bei
+	$1{,}6\,\mu\text{m}^2$. Die mittleren 50\,\% der Werte liegen im
+	Vergleich zu den Discoidin-Werten in einem geringeren Bereich. Der
+	Bereich reicht von etwa $1{,}2$--$2{,}2\,\mu\text{m}^2$.
+	
+	Der Mann-Whitney U-Test (siehe Abbildung \ref{fig:mwutaAK}) zeigt keinen signifikanten
+	Unterschied zwischen den Werten von AK, die an die Discoidin- oder
+	Laminin-Domäne binden.
+\clearpage
+%Um die Lokalisation zu bestimmen, wurde jeweils Caspr2 und vesikuläre
+%GABA-Transporter (VGat) oder vesikuläre Glutamattransporter (VGlut)
+%angefärbt. VGat dient dabei als Marker für inhibitorische Synapsen und
+%VGlut als Marker für exzitatorische Synapsen. Mittels Bestimmung der
+%Kolokalisationsfläche der fluoreszierenden Farbstoffe lässt sich
+%ermitteln, an welcher Synapsenart Caspr2 vorwiegend vorliegt.
+%
+%In Abb.~1 ist jeweils die Größe einzelner sowie die Anzahl an
+%Kolokalisationsflächen ($\mu\text{m}^2$) von Caspr2 mit den
+%Synapsenmarkern VGat (schwarz) und VGlut (rot) bei den
+%Mikroskopieverfahren Structured Illumination Microscopy (SIM) und Wide
+%Field (WF) dargestellt.
+%
+%Die durchschnittliche Kolokalisationsfläche von VGat ist bei der
+%SIM-Mikroskopie ähnlich groß wie die VGlut-Kolokalisationsfläche und
+%liegt bei ca.\ $1\,\mu\text{m}^2$. Die Kolokalisationsflächen von Caspr2
+%und VGat sind teils größer und es wurden deutlich mehr
+%Kolokalisationsflächen gefunden. Bei der VGlut-Analyse findet sich
+%lediglich ein Wert.
+%% Anmerkung: Färbung hat nicht sonderlich gut funktioniert – 
+%%            Fehlerbetrachtung einfügen.
+%
+%Bei der WF-Mikroskopie lässt sich eine starke Streuung der Größe der
+%Kolokalisationsflächen von VGat und Caspr2 finden. Des Weiteren liegen
+%teilweise sehr große Kolokalisationsflächen vor. Der Median der
+%VGat-Kolokalisation ist minimal höher als der der VGlut-Kolokalisation,
+%beide liegen im Bereich von ca.\
+%$1{,}5$--$2\,\mu\text{m}^2$. Die Größen der
+%VGlut-Kolokalisationsflächen liegen im moderaten Bereich und weisen eine
+%geringere Streuung als bei VGat auf. Sowohl bei der WF- als auch bei der
+%SIM-Mikroskopie ist die Anzahl an Kolokalisationsflächen bei VGat
+%erkennbar höher.
+%
+%Die erhöhte Anzahl an VGat-Kolokalisation ist im Kontext zu sehen. Die
+%Synapsendichte an inhibitorischen Synapsen könnte in den Aufnahmen größer
+%gewesen sein als die der exzitatorischen Synapsen. Die Mediane der
+%Flächengrößen sind annähernd gleich.
+\chapter{Diskussion}
+
+\chapter{Fazit und Ausblick}
+
+\chapter{Anhang}
+
+\chapter{Literaturverzeichnis}
+%\nocite{*}
+\printbibliography[heading=none , notkeyword={bild}]
+%% Manuelle Formatierung mit hängendem Einzug (sieht professionell aus)
+%\setlength{\parindent}{0pt} % Kein Einzug der ersten Zeile
+%\setlength{\parskip}{6pt}   % Abstand zwischen den Einträgen
+%Reichert, Heinrich (2000): \textit{Neurobiologie.} 2. Aufl. Stuttgart / New York: Thieme.
+%
+%Sell, Josephine (2023): \textit{Zelluläre Pathomechanismen von humanen Autoantikörpern gegen LGI1 und GABAB-Rezeptoren bei autoimmunen Enzephalitiden.} 1. Aufl. Jena: Friederich-Schiller-Universität Jena, Universitätsklinikum Jena.
+%
+%Joppien, Saskia / Maier, Sarah Lena / Wendling, Danielle Sabina (2011): \textit{BASICS Experimentelle Doktorarbeit.} 1. Aufl. München: Urban \& Fischer Verlag.
+%
+%
+%Mulisch, Maria / Welsch, Ulrich (Hrsg.), (2010): \textit{Romeis Mikroskopische Technik.} 18. Aufl. Heidelberg: Spektrum Akademischer Verlag.
+%
+%
+%
+% van Sonderen, Agnes / Petit-Pedrol, Mar / Dalmau, Josep / Titulaer, Maarten J. (2016): \textit{The value of LGI1, Caspr2 and voltage-gated potassium channel antibodies in encephalitis.} In: Nature Reviews Neurology, Advance Online Publication, S. 1--12.
+%
+%
+%Lehrbuch (Markl (1997): S. )
+%Markl, Jürgen (Original englisch von: Campbell, Neil A.) (1997): Biologie. ?. Spektrum Akademischer Verlag Heidelberg. Berlin
+%
+%(Westphalen/DocCheck Flexikon (03.01.2026))
+%Graf von Westphalen, Georg et al. In: DocCheck Flexikon - Nervensystem. \url{https://flexikon.doccheck.com/de/Nervensystem}
+%[Abrufdatum: 03.01.2026].
+%
+%(Freedman/MSD Manuals (03.01.2026))
+%Freedman, Mark (2025): Rückenmark. \url{https://www.msdmanuals.com/de/heim/störungen-der-hirn-rückenmarks-und-nervenfunktion/biologie-des-nervensystems/rückenmark}
+%[Abrufdatum 03.01.2026].
+%
+%(Högelmann/DocCheck Flexikon (03.01.2026))
+%Högelmann, Astrid et al. In: DocCheck Flexikon - Hippocampus. \url{https://flexikon.doccheck.com/de/Hippocampus}
+%[Abrufdatum 03.01.2026].
+%
+%(Cell Signaling Technololgy (10.01.2026))
+%Cell Signal Technology. Caspr2 Antikörper \#3731. Hintergrung. \url{https://www.cellsignal.com/products/primary-antibodies/caspr2-antibody/3731}
+%[Abrufdatum 10.01.2026].
+%
+%(Saint-Martin/PubMed (10.01.2026))
+%Saint-Martin, Margaux et al. (2019): Impact of anti-CASPR2 autoantibodies from patients with autoimmune encephalitis on CASPR2/TAG-1 interaction and Kv1 expression. \url{https://pubmed.ncbi.nlm.nih.gov/31176559/}
+%[Abrufdatum 10.01.2026].
+%
+%
+%(Freedman2/MSD Manuals (03.01.2026))
+%Freedman, Mark (2025): Nerven. \url{https://www.msdmanuals.com/de/heim/störungen-der-hirn-rückenmarks-und-nervenfunktion/biologie-des-nervensystems/nerven}
+%[Abrufdatum 03.01.2026].
+%
+%(Hircin/DocCheck Flexikon (10.01.2026))
+%Hircin, Emrah et al. In: DocCheck Flexikon - Aktionspotential. \url{https://flexikon.doccheck.com/de/Aktionspotential}
+%[Abrufdatum 10.01.2026].
+%
+%(Antwerpes/DockCheck Flexikon (10.01.2026))
+%Antwerpes, Frank et al. In: DocCheck Flexikon - Membranpotential. \url{https://flexikon.doccheck.com/de/Membranpotential}
+%[Abrufdatum 10.01.2026].
+%
+%(Haklai-Topper/PubMed Central (12.01.2026))
+%Haklai-Topper, Liat (2010): The Neurexin superfamily of Caenorhabditis elegans. \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12414531/}
+%[Abrufdatum 12.01.2026].
+%
+%Macian et al. (2004):
+%Macian, Fernando / García-Cozar, Francisco / Im, Seon-Hee / et al. (2004): T cell anergy. In: Investigación clínica, 45.1, S. 1–2. \url{https://pubmed.ncbi.nlm.nih.gov/15023415/}
+%[Abrufdatum 14.01.2026].
+%
+%Wikipedia2026:
+%Autoimmunerkrankung (14. Januar 2026). In: Wikipedia – Die freie Enzyklopädie. \url{https://de.wikipedia.org/wiki/Autoimmunerkrankung}
+%[Abrufdatum 14.01.2026].
+%
+%DocCheckLymphozyt:
+%Lymphozyt (14. Januar 2026). In: DocCheck Flexikon. \url{https://flexikon.doccheck.com/de/Lymphozyt}
+%[Abrufdatum 14.01.2026].
+%
+%MSD Gesundheit (12.01.2026):
+%MSD Gesundheit. Definition und häufigste Formen. \url{https://www.msd-gesundheit.ch/de/immunologie/Definition-und-h%C3%A4ufigste-Formen}
+%[Abrufdatum 14.01.2026].
+%
+%MSD Manuals Autoimmunerkrankungen(12.01.2026):
+%MSD Manuals. Autoimmunerkrankungen. \url{https://www.msdmanuals.com/de/heim/immunst%C3%B6rungen/allergische-reaktionen-und-andere-hypersensitivit%C3%A4tsst%C3%B6rungen/autoimmunerkrankungen}
+%[Abrufdatum 14.01.2026].
+%
+%MSD Manuals Immunsystem(12.01.2026):
+%MSD Manuals. Überblick über das Immunsystem. \url{https://www.msdmanuals.com/de/profi/immunologie-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem}
+%[Abrufdatum 14.01.2026].
+%
+%UniHeidelbergImmunologie2026:
+%Universitätsklinikum Heidelberg. Übersicht Sektion Molekulare Immunologie. \url{https://www.klinikum.uni-heidelberg.de/immunologie/forschung/sektion-molekulare-immunologie/uebersicht}
+%[Abrufdatum 14.01.2026].
+%
+%
+%Klein/MSD Manual (10.01.2026):
+%MSD Manual. Gehirnentzündung (Enzephalitis).
+%\url{https://www.msdmanuals.com/de/heim/störungen-der-hirn-rückenmarks-und-nervenf
+%unktion/infektionen-des-gehirns/gehirnentzündung-enzephalitis#Arten-der-Enzephalit
+%is_v26247328_de} [Abrufdatum: 10.01.2026]
+%
+%Fernandez/MSD Manual (10.01.2026):
+%MSD Manual. Autoimmunerkrankungen.
+%\url{https://www.msdmanuals.com/de/heim/immunstörungen/allergische-reaktionen-undandere-hypersensitivitätsstörungen/autoimmunerkrankungen?_gl=1*1gp4ebm*_up*
+%MQ..*_ga*MTE2NzI1MzQ4Ni4xNzY3OTQ1NDYz*_ga_CJ792HFYYC*czE3Njc5NDU
+%0NjMkbzEkZzAkdDE3Njc5NDU0NjMkajYwJGwwJGgw} [Abrufdatum: 10.01.2026]
+%
+%Heine (2022):
+%Heine, Josephine / Duchow, Ankelien / Rust, Rebekka / Paul, Friedemann / Prüß,
+%Harald / Finke, Carsten (2022): Autoimmunenzephalitis - ein Update.
+%\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC9748390/} [Abrufdatum: 15.12.2025]
+%
+%Graus (2016):
+%Graus, Francesc et al. (2016): A clinical approach to diagnosis of autoimmune
+%encephalitis.
+%\url{https://www.thelancet.com/action/showPdf?pii=S1474-4422%2815%2900401-9}
+%[Abrufdatum: 10.01.2026]
+%
+%Universitätsklinikum Heidelberg (10.01.2026):
+%Universitätsklinikum Heidelberg. Autoimmunenzephalitis.
+%\url{https://www.klinikum.uni-heidelberg.de/erkrankungen/autoimmunenzephalitis-202062
+%#:~:text=Die%20Therapie%20erfolgt%20stufenweise.,das%20Immunsystem%20län
+%gerfristig%20herabregulieren%20(sog.} [Abrufdatum: 10.01.2026]
+%
+%Generate Net (10.01.2026):
+%Generate Net. Wie werden verschiedene Krankheitsbilder diagnostiziert?.
+%\url{https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert
+%.html} [Abrufdatum: 10.01.2026]
+%
+%Lancaster (2015):
+%Lancaster, Eric (2015): The Diagnosis and Treatment of Autoimmune Encephalitis.
+%\url{https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1} [Abrufdatum:
+%10.01.2026]
+%
+%van Sondern (2016):
+%van Sondern, Agnes / Arino, Helena et al. (2016): The clinical spectrum of Caspr2
+%antibody-associated disease. \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/}
+%[Abrufdatum: 10.01.2026]
+
+\chapter{Bildquellenverzeichnis}
+\begin{refcontext}[sorting=bylabel]
+	\printbibliography[heading=none, env=bildliste, keyword=bild]
+\end{refcontext}
+
+
+%Abbildung 2.1: medi-karriere.de: Grafik eines Neurons. Oktober 2024. Zit. nach Medi-Karriere. \url{https://www.medi-karriere.de/wp-content/uploads/2024/10/Grafik-Neuron-2-e1730282985666.jpg} [Abrufdatum 14.01.2026].
+%
+%Abbildung 2.2: sofatutor.net: Phagozytose. 2024. Zit. nach sofatutor. \url{https://images.cdn.sofatutor.net/content_images/images/22218/original/Phagozytose.svg?1744379262} [Abrufdatum 14.01.2026].
+%
+%Abbildung 3.1: generate-net.de: Klinischer Verdacht auf immunvermittelte Encephalitis. 2024. Zit. nach Generate-Net. \url{https://generate-net.de/files/grafiken/Klinischer%20Verdacht%20auf%20immunvermittelte%20Encephalitis.png} [Abrufdatum 14.01.2026].
+
+\end{document}

@@ -1,0 +1,29 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Motivation und Zielsetzung}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Grundlagen}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Neurobiologische Grundlagen}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Aufbau und Funktion des Nervensystems}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Signalweiterleitung am Axon und synaptische Signalübertragung}{5}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Immunologische Grundlagen}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Prinzipien der Immunabwehr}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Mechanismen fehlgeleiteter Immunabwehr}{12}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Die Wirkung von Caspr2 am Axon und der Synapse}{13}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Autoimmune Enzephalitis und CASPR2}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Definition und Krankheitsbild}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Wirkungsweise der Anti-Caspr2-Autoantikörper}{22}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Material und methodisches Vorgehen}{24}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Erklärung der Methode}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Begründung der Methodenwahl}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Material}{29}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Durchführung der praktischen Untersuchungen}{30}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Untersuchung zur Lokalisation von Caspr2 an Synapsen}{31}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Untersuchung zum Einfluss von humanen Caspr2-Antikörpern auf die Protein-Interaktion mit Contactin-2}{34}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Ergebnisse und Auswertung}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Kolokalisation von Caspr2 mit VGat und VGlut}{37}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Kolokalisation von Caspr2 und Contactin-2 nach der Behandlung mit verschiedenen Antikörpern}{42}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Diskussion}{44}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{45}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Anhang}{46}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Literaturverzeichnis}{47}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Bildquellenverzeichnis}{51}{chapter.12}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
