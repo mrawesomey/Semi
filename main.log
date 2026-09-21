@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  21 SEP 2026 18:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  22 SEP 2026 00:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1323,14 +1323,19 @@ File: abbildungen/fkammerDPU.jpeg Graphic file (type bmp)
 ] [34] [35] [36]
 File: abbildungen/objektträgerDPU.png Graphic file (type bmp)
 <abbildungen/objektträgerDPU.png>
-) [37
+ [37
 
 ]
+Overfull \hbox (155.41928pt too wide) in paragraph at lines 185--195
+ [][] 
+ []
+
+) [38] [39]
 \openout2 = `kapitel/Ergebnisse_und_Auswertung.aux'.
 
  (kapitel/Ergebnisse_und_Auswertung.tex
 chapter 7.
-[38
+[40
 
 
 
@@ -1358,21 +1363,21 @@ er-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39] [40] [41] [42]
+[41] [42] [43] [44]
 File: abbildungen/aAKstatKCVV.jpg Graphic file (type bmp)
 <abbildungen/aAKstatKCVV.jpg>
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43
+[45
 
-] [44])
+] [46])
 \openout2 = `kapitel/Diskussion.aux'.
 
  (kapitel/Diskussion.tex
 chapter 8.
-) [45
+) [47
 
 
 
@@ -1383,7 +1388,7 @@ chapter 8.
 
  (kapitel/Fazit_und_Ausblick.tex
 chapter 9.
-) [46
+) [48
 
 
 
@@ -1393,7 +1398,7 @@ chapter 9.
 
  (kapitel/Anhang.tex
 chapter 10.
-) [47
+) [49
 
 
 
@@ -1404,7 +1409,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[48
+[50
 
 
 
@@ -1420,17 +1425,17 @@ Overfull \hbox (33.525pt too wide) in paragraph at lines 44--44
 tationsschrift“. Diss. München: Ludwig-Maximilians-
  []
 
-[49]
+[51]
 Overfull \hbox (0.37907pt too wide) in paragraph at lines 44--44
 [][]$\OMS/cmsy/m/n/12 ^^O$ \TU/lmr/m/n/12 Oxford Instruments (2025b). \TU/lmr/m
 /it/12 Structured Illumination Microscopy and 3D SIM Ima-
  []
 
-[50] [51]
+[52] [53]
 chapter 12.
-[52
+[54
 
-] [53] (main.aux (kapitel/Motivation_und_Zielsetzung.aux)
+] [55] (main.aux (kapitel/Motivation_und_Zielsetzung.aux)
 (kapitel/Grundlagen.aux) (kapitel/Wirkung.aux)
 (kapitel/Autoimmune_Enzephalitis_und_CASPR2.aux)
 (kapitel/Material_und_methodisches_Vorgehen.aux) (kapitel/Durchführung.aux)
@@ -1440,26 +1445,17 @@ chapter 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29719 strings out of 409617
- 602823 string characters out of 5774012
- 1958191 words of memory out of 5000000
- 51371 multiletter control sequences out of 15000+600000
+ 29728 strings out of 409617
+ 603064 string characters out of 5774012
+ 1959191 words of memory out of 5000000
+ 51380 multiletter control sequences out of 15000+600000
  567119 words of font info for 89 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  108i,10n,127p,11229b,5833s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (56 pages).
+Output written on main.pdf (58 pages).

@@ -410,6 +410,57 @@
       \verb https://www.msdmanuals.com/de/profi/immunologie-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem
       \endverb
     \endentry
+    \entry{Dunn2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cd848d28aea059a5ef4f5e9ff6745eb0}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={Kenneth\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ada3d59f973339b30ae7286483e447b}{%
+           family={Kamocka},
+           familyi={K\bibinitperiod},
+           given={Malgorzata\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23e80ca4f20525fa0ac4387d414c96af}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f114c783c790edcd49b78a205f32ce2}
+      \strng{fullhash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{bibnamehash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{authorbibnamehash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{authornamehash}{8f114c783c790edcd49b78a205f32ce2}
+      \strng{authorfullhash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Cell Physiology}
+      \field{number}{4}
+      \field{title}{A Practical Guide to Evaluating Colocalization in Biological Microscopy}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{300}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{C723\bibrangedash C742}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \endverb
+    \endentry
     \entry{Fernandez2026}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1049d85db062e19334592fcdd972dc2f}{%
@@ -3106,6 +3157,57 @@
       \endverb
       \verb{url}
       \verb https://www.msdmanuals.com/de/profi/immunologie-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem
+      \endverb
+    \endentry
+    \entry{Dunn2011}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cd848d28aea059a5ef4f5e9ff6745eb0}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={Kenneth\bibnamedelima W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ada3d59f973339b30ae7286483e447b}{%
+           family={Kamocka},
+           familyi={K\bibinitperiod},
+           given={Malgorzata\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23e80ca4f20525fa0ac4387d414c96af}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f114c783c790edcd49b78a205f32ce2}
+      \strng{fullhash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{bibnamehash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{authorbibnamehash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \strng{authornamehash}{8f114c783c790edcd49b78a205f32ce2}
+      \strng{authorfullhash}{4f6233a8052fa3b3eccdc75f183f7092}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Cell Physiology}
+      \field{number}{4}
+      \field{title}{A Practical Guide to Evaluating Colocalization in Biological Microscopy}
+      \field{urlday}{21}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{300}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \field{pages}{C723\bibrangedash C742}
+      \range{pages}{-1}
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
       \endverb
     \endentry
     \entry{eigenAu6.1}{misc}{}
