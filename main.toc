@@ -18,12 +18,12 @@
 \contentsline {chapter}{\numberline {6}Durchführung der praktischen Untersuchungen}{30}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Untersuchung zur Lokalisation von Caspr2 an Synapsen}{31}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Untersuchung zum Einfluss von humanen Caspr2-Antikörpern auf die Protein-Interaktion mit Contactin-2}{34}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Ergebnisse und Auswertung}{37}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Kolokalisation von Caspr2 mit VGat und VGlut}{37}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Kolokalisation von Caspr2 und Contactin-2 nach der Behandlung mit verschiedenen Antikörpern}{42}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Diskussion}{44}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{45}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Anhang}{46}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Literaturverzeichnis}{47}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Bildquellenverzeichnis}{51}{chapter.12}%
+\contentsline {chapter}{\numberline {7}Ergebnisse und Auswertung}{38}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Kolokalisation von Caspr2 mit VGat und VGlut}{38}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Kolokalisation von Caspr2 und Contactin-2 nach der Behandlung mit verschiedenen Antikörpern}{43}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Diskussion}{45}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{46}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Anhang}{47}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Literaturverzeichnis}{48}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Bildquellenverzeichnis}{52}{chapter.12}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

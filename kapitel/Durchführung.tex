@@ -71,34 +71,34 @@ inkubiert.
 \clearpage
 \begin{table}[htbp]
 	\centering
-	\caption{Übersicht der elf Proben und ihrer Versuchsgruppen.}
+	\caption{Übersicht der elf Proben des ersten Versuches.}
 	\label{tab:proben}
-	\begin{tabular}{c l c l c l}
+	\setlength{\tabcolsep}{3pt} % Verringert den seitlichen Abstand in den Zellen
+	\begin{tabularx}{\textwidth}{c >{\raggedright\arraybackslash}X c >{\raggedright\arraybackslash}X c >{\raggedright\arraybackslash}X}
 		\toprule
 		\textbf{Nr.} & \textbf{Färbung} &
 		\textbf{Nr.} & \textbf{Färbung} &
 		\textbf{Nr.} & \textbf{Färbung} \\
 		\midrule
-		(1)  & Caspr2 + VGlut1 &
-		(5)  & Caspr2 + VGat   &
-		(9)  & Kontrolle + VGlut1 \\
-		(2)  & Caspr2 + VGlut1 &
-		(6)  & Caspr2 + VGat   &
+		(1) & Caspr2 + VGlut1 &
+		(5) & Caspr2 + VGat &
+		(9) & Kontrolle + VGlut1 \\
+		(2) & Caspr2 + VGlut1 &
+		(6) & Caspr2 + VGat &
 		(10) & Kontrolle + VGat \\
-		(3)  & Caspr2 + VGlut1 &
-		(7)  & Caspr2 + VGat   &
+		(3) & Caspr2 + VGlut1 &
+		(7) & Caspr2 + VGat &
 		(11) & Negativkontrolle (nur SEK1+2) \\
-		(4)  & Caspr2 + VGlut1 &
-		(8)  & Caspr2 + VGat   &
+		(4) & Caspr2 + VGlut1 &
+		(8) & Caspr2 + VGat &
 		& \\
 		\bottomrule
-	\end{tabular}
-	
+	\end{tabularx}
 \end{table}
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.8\textwidth]{abbildungen/waschvorgangDPU.jpeg}
+	\includegraphics[width=0.75\textwidth]{abbildungen/waschvorgangDPU.jpeg}
 	\caption{Vorgang des Fixierens und Waschens \parencite{eigenAu6.1}}
 	\label{fig:waschV}
 \end{figure}
@@ -145,52 +145,65 @@ Präparate fertig für die Auswertung.
 \section{Untersuchung zum Einfluss von humanen Caspr2-Antikörpern auf die Protein-Interaktion mit Contactin-2}
 
 Im zweiten Versuchsteil wurde untersucht, ob die Bindung von humanen Caspr2-Antikörpern (aus Patientenseren) die Interaktion zwischen Caspr2 und dem Bindungspartner Contactin-2 beeinträchtigt oder blockiert.
-Der Ablauf gliederte sich erneut in mehrere aufeinanderfolgende Tage und Aufbereitungsschritte.
+Der Ablauf gliederte sich erneut in drei Tage mit mehreren Aufbereitungsschritten.
 
-Am ersten Tag der Färbung wurden die Neuronen auf den Deckgläschen zunächst dreimal kurz bei 37\,°C mit erwärmtem Neurobasal-Medium gewaschen. Anschließend wurden die Zellen für 20~Minuten bei Raumtemperatur mit einer 4\,\%igen PFA-Lösung behandelt, um sie in ihrem aktuellen Zustand zu fixieren und chemisch zu stabilisieren. Nach der Fixierung folgte ein dreimaliger Waschschritt mit PBS für jeweils 5~Minuten, um Reste des Fixiermittels gründlich zu entfernen.
+%
 
-Zur Vermeidung unspezifischer Antikörperbindungen wurden die Präparate danach für eine Stunde bei Raumtemperatur mit dem Puffer B1 inkubiert. Dieser bestand aus einer Mischung aus 10\,\%iger BSA-Lösung und 10\,\%igem NGS (normales Ziegenserum / Normal Goat Serum) in PBS. Das NGS blockiert, genau wie das NDS im vorherigen Versuch, die freien Bindungsstellen auf der Oberfläche.
+%Der erste Tag der Färbungen fing damit an dass die noch lebenden Zellen mit den zuvor erwähnten humanen AK behandelt wurden. DAbei gab es 2 verschieden ARten, eine die daen Laminin1 Domänene angegriffen ahben und die anderen die den Discoidin Domäne angegriffen haebn. Damit entstanden insgesamt 12 PRoben wie in Tabelle \ref{tab:proben2} zu sehen sind.
+
+%Zu Beginn wurden die benötigten Neurobasal-Medien vorbereitet und auf 37 °C erwärmt. Für die Behandlung der Neuronenkulturen wurden drei verschiedene Ansätze hergestellt. Für die Discoidin gerichteten AK wurden 20 µl Discoidin mit 2600 µl Neurobasal-Medium versetzt. Für die Laminin-Bedingung wurden 17,93 µl Laminin mit 2600 µl Neurobasal-Medium gemischt. Als Kontrolle wurden 10,83 µl MGO-53 mit 1300 µl Neurobasal-Medium angesetzt. Anschließend wurden die entsprechenden Ansätze zu den Neuronenkulturen gegeben. Die Kulturen wurden für 24 Stunden bei 37 °C inkubiert.
+
+
+Zu Beginn des ersten Tages des Versuches wurde zur Vorbereitung Neurobasal-Medium auf 37 \,°C erwärmt. Damit konnten die verschiedenen benötigten Ansätze mit humanen monoklonalen Caspr2-Antikörpern gegen Discoidin oder Laminin-1 hergestellt werden. Außerdem gab es noch einen Kontroll-Antikörper, mgo-53, mit demselben Ziel wie im ersten Versuch genannt.
+
+ Als diese Primär-Antikörper mit dem Neurobasal-Medium auf die benötigte Konzentration verdünnt wurden, wurden jeweils 500 µl in jedes Well getropft. Anschließend wurden sie bei 37 \,°C 24 Stunden lang inkubiert. Damit entstanden insgesamt 12 Proben, wie in Tabelle \ref{tab:proben2} zu sehen ist.
 
 \begin{table}[htbp]
 	\centering
-	\caption{Übersicht der elf Proben und ihrer Versuchsgruppen.}
+	\caption{Übersicht der zwölf Proben des zweiten Versuches.}
 	\label{tab:proben2}
-	\begin{tabular}{c l c l c l}
+	\setlength{\tabcolsep}{3pt} % Verringert den seitlichen Abstand in den Zellen
+	\begin{tabularx}{\textwidth}{c >{\raggedright\arraybackslash}X c >{\raggedright\arraybackslash}X c >{\raggedright\arraybackslash}X}
 		\toprule
 		\textbf{Nr.} & \textbf{Färbung} &
 		\textbf{Nr.} & \textbf{Färbung} &
 		\textbf{Nr.} & \textbf{Färbung} \\
 		\midrule
-		(1)  & Caspr2 + VGlut1 &
-		(5)  & Caspr2 + VGat   &
-		(9)  & Kontrolle + VGlut1 \\
-		(2)  & Caspr2 + VGlut1 &
-		(6)  & Caspr2 + VGat   &
-		(10) & Kontrolle + VGat \\
-		(3)  & Caspr2 + VGlut1 &
-		(7)  & Caspr2 + VGat   &
-		(11) & Negativkontrolle (nur SEK1+2) \\
-		(4)  & Caspr2 + VGlut1 &
-		(8)  & Caspr2 + VGat   &
-		& \\
+		(1) & Discoidin + Contactin-2 &
+		(5) & Laminin1 + Contactin-2 &
+		(9) & Control + Contactin-2 \\
+		(2) & Discoidin + Contactin-2 &
+		(6) & Laminin1 + Contactin-2 &
+		(10) & Control + Contactin-2 \\
+		(3) & Discoidin + Contactin-2 &
+		(7) & Laminin1 + Contactin-2 &
+		(11) & negative control (nur SEK1+2) \\
+		(4) & Discoidin + Contactin-2 &
+		(8) & Laminin1 + Contactin-2 &
+		(12) & negative control (nur SEK1+2) \\
 		\bottomrule
-	\end{tabular}
-	
+	\end{tabularx}
 \end{table}
+Am zweiten Tag der Färbung wurden die Neuronen auf den Deckgläschen zunächst dreimal kurz bei 37\,°C mit erwärmtem Neurobasal-Medium gewaschen. Anschließend wurden die Zellen für 20~Minuten bei Raumtemperatur mit einer 4\,\%igen PFA-Lösung behandelt, um sie in ihrem aktuellen Zustand zu fixieren und chemisch zu stabilisieren. Nach der Fixierung folgte ein dreimaliger Waschschritt mit PBS für jeweils 5~Minuten, um Reste des Fixiermittels gründlich zu entfernen.
+
+Zur Vermeidung unspezifischer Antikörperbindungen wurden die Präparate danach für eine Stunde bei Raumtemperatur mit dem Puffer B1 inkubiert. Dieser bestand aus einer Mischung aus 10\,\%iger BSA-Lösung und 10\,\%igem NGS (normales Ziegenserum / Normal Goat Serum) in PBS. Das NGS blockiert, genau wie das NDS im vorherigen Versuch, die freien Bindungsstellen auf der Oberfläche.
 
 
-Da die Zellen bereits mit humanen Caspr2-Antikörpern behandelt worden waren, folgte im nächsten Schritt direkt die Zugabe des ersten Sekundärantikörpers. Hierfür wurde der Puffer SEK1, bestehend aus 1\,\% BSA, 1\,\% NGS und dem Antikörper CF640R\@hu, aufgetragen und für 2~Stunden bei Raumtemperatur inkubiert. Der Antikörper CF640R\@hu ist spezifisch gegen humane Antikörper gerichtet und trägt den Fluoreszenzfarbstoff CF640R (Emissionswellenlänge im fernroten Bereich bei ca.~640\,nm), wodurch die gebundenen Caspr2-Antikörper sichtbar gemacht werden.
+
+
+Da die Zellen bereits mit humanen Caspr2-Antikörpern behandelt worden waren, folgte im nächsten Schritt direkt die Zugabe des ersten Sekundärantikörpers. Hierfür wurde der Puffer SEK1, bestehend aus 1\,\% BSA, 1\,\% NGS und dem Antikörper CF640R@hu, aufgetragen und für 2~Stunden bei Raumtemperatur inkubiert. Der Antikörper CF640R@hu ist spezifisch gegen humane Antikörper gerichtet und trägt den Fluoreszenzfarbstoff CF640R (Emissionswellenlänge im fernroten Bereich bei ca.~640\,nm), wodurch die gebundenen Caspr2-Antikörper sichtbar gemacht werden.
 
 Nach Ablauf der Inkubationszeit wurden die Deckgläschen sechsmal für jeweils 5~Minuten mit PBS gewaschen. Danach wurde der Puffer PRIM2 aufgetragen, welcher den gegen Contactin-2 gerichteten Primärantikörper (in Kaninchen gezüchtet) sowie 1\,\% BSA und 1\,\% NGS enthielt. Die Inkubation erfolgte über Nacht bei 4\,°C in der Feuchtekammer.
 
-Am darauffolgenden Tag wurden die Proben erneut sechsmal für jeweils 5~Minuten mit PBS gewaschen, um ungebundene Contactin-2-Antikörper zu entfernen. Im Anschluss wurde der zweite Sekundärantikörper über den Puffer SEK2 (1\,\% BSA, 1\,\% NGS und CF568\@rb) hinzugegeben. Dieser Antikörper bindet spezifisch an Kaninchen-Antikörper und fluoresziert durch den Farbstoff CF568 in roter Farbe. Die Inkubationszeit betrug zwei Stunden bei Raumtemperatur.
+Am darauffolgenden Tag wurden die Proben erneut sechsmal für jeweils 5~Minuten mit PBS gewaschen, um ungebundene Contactin-2-Antikörper zu entfernen. Im Anschluss wurde der zweite Sekundärantikörper über den Puffer SEK2 (1\,\% BSA, 1\,\% NGS und CF568@rb) hinzugegeben. Dieser Antikörper bindet spezifisch an Kaninchen-Antikörper und fluoresziert durch den Farbstoff CF568 in roter Farbe. Die Inkubationszeit betrug zwei Stunden bei Raumtemperatur.
 
 Nach erneutem sechsmaligem Waschen mit PBS wurde für 5~Minuten DAPI hinzugefügt. DAPI diente wieder als Orientierungshilfe bei der Mikroskopie. Nach drei kurzen Waschschritten mit PBS wurden die Präparate nochmals für 10~Minuten bei Raumtemperatur mit einer 4\,\%igen PFA-Lösung nachfixiert, um die gebildeten Antikörper-Protein-Komplexe dauerhaft zu stabilisieren.
-
-Nach drei finalen kurzen Waschschritten mit PBS wurden die Deckgläschen schließlich mit dem Eindeckmedium Fluoromount auf Objektträgern eingedeckt (siehe Abbildung \ref{fig:objtr}). Fluoromount schützt das Präparat vor dem Austrocknen und verhindert das Ausbleichen der Fluoreszenzfarbstoffe, sodass die Proben mithilfe des SIM-Mikroskops ausgewertet werden können.
+\clearpage
+Nach drei finalen kurzen Waschschritten mit PBS wurden die Deckgläschen, aus dem ersten Versuch sowie dem zweiten Versuch, schließlich mit dem Eindeckmedium Fluoromount auf Objektträgern eingedeckt (siehe Abbildung \ref{fig:objtr}). Fluoromount schützt das Präparat vor dem Austrocknen und verhindert das Ausbleichen der Fluoreszenzfarbstoffe, sodass die Proben mithilfe des SIM-Mikroskops ausgewertet werden können.
 \begin{figure}[h]
 	\centering
 	\includegraphics[width=1\textwidth]{abbildungen/objektträgerDPU.png}
 	\caption{Feuchtekammer \parencite{eigenAu6.3}}
 	\label{fig:objtr}
 \end{figure}
+
