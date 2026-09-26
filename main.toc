@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {2.1.1}Signalweiterleitung am Axon und synaptische Signalübertragung}{3}{subsection.2.1.1}%
 \contentsline {section}{\numberline {2.2}Immunologische Grundlagen}{8}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Prinzipien der Immunabwehr}{8}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Mechanismen fehlgeleiteter Immunabwehr}{11}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Mechanismen fehlgeleiteter Immunabwehr}{10}{subsection.2.2.2}%
 \contentsline {chapter}{\numberline {3}Die Wirkung von Caspr2 am Axon und der Synapse}{12}{chapter.3}%
 \contentsline {chapter}{\numberline {4}Autoimmune Enzephalitis und CASPR2}{16}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Definition und Krankheitsbild}{16}{section.4.1}%
