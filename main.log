@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  26 SEP 2026 13:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  26 SEP 2026 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1147,50 +1147,37 @@ chapter 1.
 
  (kapitel/Grundlagen.tex
 chapter 2.
-(kapitel/Neurobiologische_Grundlagen.tex [3
-
-
-
-
-]
+(kapitel/Neurobiologische_Grundlagen.tex
 File: ./abbildungen/NEU1bild.jpg Graphic file (type bmp)
 <./abbildungen/NEU1bild.jpg>
- [4
+ [3
 
-] [5]
+
+
+
+] [4]
 File: abbildungen/APbild.jpg Graphic file (type bmp)
 <abbildungen/APbild.jpg>
+ [5]
 File: abbildungen/SaltatorischeNBG.png Graphic file (type bmp)
 <abbildungen/SaltatorischeNBG.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6
-
-]
+ [6]
 File: abbildungen/chemsynapseNBG.png Graphic file (type bmp)
 <abbildungen/chemsynapseNBG.png>
- [7]) (kapitel/Immunologische_Grundlagen.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+ [7
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+])
+(kapitel/Immunologische_Grundlagen.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
 [8
 
-] [9]
+]
 File: abbildungen/IGGPI.jpg Graphic file (type bmp)
 <abbildungen/IGGPI.jpg>
- [10
-
-])) [11
-
-]
+ [9] [10])) [11]
 \openout2 = `kapitel/Wirkung.aux'.
 
  (kapitel/Wirkung.tex
@@ -1475,6 +1462,11 @@ chapter 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
