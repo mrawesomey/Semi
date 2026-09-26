@@ -495,40 +495,6 @@
       \verb https://www.msdmanuals.com/de/heim/immunst%C3%B6rungen/allergische-reaktionen-und-andere-hypersensitivit%C3%A4tsst%C3%B6rungen/autoimmunerkrankungen
       \endverb
     \endentry
-    \entry{Freedman2025Rueckenmark}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=40ceb48c02b3863c5335c2738adba97b}{%
-           family={Freedman},
-           familyi={F\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{fullhash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{bibnamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authorbibnamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authornamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authorfullhash}{40ceb48c02b3863c5335c2738adba97b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rückenmark}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/biologie-des-nervensystems/r%C3%BCckenmark
-      \endverb
-      \verb{url}
-      \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/biologie-des-nervensystems/r%C3%BCckenmark
-      \endverb
-    \endentry
     \entry{GenerateNet2026}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=afa2e46ad6c26fecee20ae8f430f0962}{%
@@ -560,69 +526,6 @@
       \endverb
       \verb{url}
       \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
-      \endverb
-    \endentry
-    \entry{Westphalen2004}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e4c262bb1d12572c5ae2f61ed5c4ce73}{%
-           family={Graf\bibnamedelimb von\bibnamedelima Westphalen},
-           familyi={G\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim W\bibinitperiod},
-           given={Georg},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=254cf749816a76f0e88bf0243986d74e}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Isabel},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
-           given={Natascha},
-           giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=ab64f0195d04be75c512f800d14d27de}{%
-           family={Güler},
-           familyi={G\bibinitperiod},
-           given={Ibrahim},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4511815be619a3194d56238ec1261227}
-      \strng{fullhash}{dd4cc036d52f61e1ce61e647a699eb7e}
-      \strng{bibnamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authorbibnamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authornamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authorfullhash}{dd4cc036d52f61e1ce61e647a699eb7e}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Nervensystem}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2004}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://flexikon.doccheck.com/de/Nervensystem
-      \endverb
-      \verb{url}
-      \verb https://flexikon.doccheck.com/de/Nervensystem
       \endverb
     \endentry
     \entry{Graus2016}{article}{}
@@ -1126,69 +1029,6 @@
       \endverb
       \verb{url}
       \verb https://flexikon.doccheck.com/de/Aktionspotential
-      \endverb
-    \endentry
-    \entry{Hoegemann2006}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=8a6b6e440f58989b169a4d89a98649ec}{%
-           family={Högemann},
-           familyi={H\bibinitperiod},
-           given={Astrid},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
-           family={Antwerpes},
-           familyi={A\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=47ca7f50052ec931cc10e45b182f7ba5}{%
-           family={Adamec},
-           familyi={A\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
-           given={Natascha},
-           giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{fullhash}{50fecd34b379fa96ea517755dd116182}
-      \strng{bibnamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authorbibnamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authornamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authorfullhash}{50fecd34b379fa96ea517755dd116182}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Hippocampus}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://flexikon.doccheck.com/de/Hippocampus
-      \endverb
-      \verb{url}
-      \verb https://flexikon.doccheck.com/de/Hippocampus
       \endverb
     \endentry
     \entry{Klein2026}{online}{}
@@ -2044,41 +1884,6 @@
       \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
       \endverb
     \endentry
-    \entry{MarklBild1997a}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Spektrum Akademischer Verlag}%
-      }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{2}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.1)}
-      \field{note}{S.~1105}
-      \field{title}{Biologie}
-      \field{year}{1997}
-      \keyw{bild}
-    \endentry
     \entry{MediKarriere2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5dd21dc756a5a4c374abc59caf572177}{%
@@ -2100,7 +1905,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.2)}
+      \field{label}{(Abbildung 2.1)}
       \field{title}{Neuron: Aufbau und Funktion}
       \field{urlday}{13}
       \field{urlmonth}{8}
@@ -2112,6 +1917,42 @@
       \endverb
       \verb{url}
       \verb https://www.medi-karriere.de/wiki/neuron/
+      \endverb
+      \keyw{bild}
+    \endentry
+    \entry{DocCheckAPBIld}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=835f4888514c5a353281e8c6052729f6}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Jannik},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{fullhash}{835f4888514c5a353281e8c6052729f6}
+      \strng{bibnamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authorbibnamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authornamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authorfullhash}{835f4888514c5a353281e8c6052729f6}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 2.2)}
+      \field{title}{Grafik zum ablauf eines Aktionspotentials}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.doccheck.com/de/detail/photos/20984-aktionspotential
+      \endverb
+      \verb{url}
+      \verb https://www.doccheck.com/de/detail/photos/20984-aktionspotential
       \endverb
       \keyw{bild}
     \endentry
@@ -2136,10 +1977,10 @@
       \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
       \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
       \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{3}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3405,40 +3246,6 @@
       \verb https://www.msdmanuals.com/de/heim/immunst%C3%B6rungen/allergische-reaktionen-und-andere-hypersensitivit%C3%A4tsst%C3%B6rungen/autoimmunerkrankungen
       \endverb
     \endentry
-    \entry{Freedman2025Rueckenmark}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=40ceb48c02b3863c5335c2738adba97b}{%
-           family={Freedman},
-           familyi={F\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{fullhash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{bibnamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authorbibnamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authornamehash}{40ceb48c02b3863c5335c2738adba97b}
-      \strng{authorfullhash}{40ceb48c02b3863c5335c2738adba97b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Rückenmark}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/biologie-des-nervensystems/r%C3%BCckenmark
-      \endverb
-      \verb{url}
-      \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/biologie-des-nervensystems/r%C3%BCckenmark
-      \endverb
-    \endentry
     \entry{GenerateNet2026}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=afa2e46ad6c26fecee20ae8f430f0962}{%
@@ -3506,69 +3313,6 @@
       \verb https://generate-net.de/wie-werden-die-verschiedenen-krankheitsbilder-diagnostiziert.html
       \endverb
       \keyw{bild}
-    \endentry
-    \entry{Westphalen2004}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e4c262bb1d12572c5ae2f61ed5c4ce73}{%
-           family={Graf\bibnamedelimb von\bibnamedelima Westphalen},
-           familyi={G\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim W\bibinitperiod},
-           given={Georg},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=254cf749816a76f0e88bf0243986d74e}{%
-           family={Keller},
-           familyi={K\bibinitperiod},
-           given={Isabel},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
-           given={Natascha},
-           giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=ab64f0195d04be75c512f800d14d27de}{%
-           family={Güler},
-           familyi={G\bibinitperiod},
-           given={Ibrahim},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{4511815be619a3194d56238ec1261227}
-      \strng{fullhash}{dd4cc036d52f61e1ce61e647a699eb7e}
-      \strng{bibnamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authorbibnamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authornamehash}{4511815be619a3194d56238ec1261227}
-      \strng{authorfullhash}{dd4cc036d52f61e1ce61e647a699eb7e}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Nervensystem}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2004}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://flexikon.doccheck.com/de/Nervensystem
-      \endverb
-      \verb{url}
-      \verb https://flexikon.doccheck.com/de/Nervensystem
-      \endverb
     \endentry
     \entry{Graus2016}{article}{}
       \name{author}{28}{}{%
@@ -4109,69 +3853,6 @@
       \endverb
       \keyw{bild}
     \endentry
-    \entry{Hoegemann2006}{online}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=8a6b6e440f58989b169a4d89a98649ec}{%
-           family={Högemann},
-           familyi={H\bibinitperiod},
-           given={Astrid},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
-           family={Antwerpes},
-           familyi={A\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=47ca7f50052ec931cc10e45b182f7ba5}{%
-           family={Adamec},
-           familyi={A\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
-           given={Natascha},
-           giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
-           family={Reh},
-           familyi={R\bibinitperiod},
-           given={Fabienne},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{fullhash}{50fecd34b379fa96ea517755dd116182}
-      \strng{bibnamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authorbibnamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authornamehash}{1b77d6a58aba2180e48fbf3d7050b200}
-      \strng{authorfullhash}{50fecd34b379fa96ea517755dd116182}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Hippocampus}
-      \field{urlday}{3}
-      \field{urlmonth}{1}
-      \field{urlyear}{2026}
-      \field{year}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://flexikon.doccheck.com/de/Hippocampus
-      \endverb
-      \verb{url}
-      \verb https://flexikon.doccheck.com/de/Hippocampus
-      \endverb
-    \endentry
     \entry{MediKarriere2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5dd21dc756a5a4c374abc59caf572177}{%
@@ -4193,7 +3874,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.2)}
+      \field{label}{(Abbildung 2.1)}
       \field{title}{Neuron: Aufbau und Funktion}
       \field{urlday}{13}
       \field{urlmonth}{8}
@@ -4402,7 +4083,7 @@
       \field{title}{Biologie}
       \field{year}{1997}
     \endentry
-    \entry{MarklBild1997a}{book}{}
+    \entry{MarklBild1997b}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
            family={Markl},
@@ -4427,41 +4108,6 @@
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.1)}
-      \field{note}{S.~1105}
-      \field{title}{Biologie}
-      \field{year}{1997}
-      \keyw{bild}
-    \endentry
-    \entry{MarklBild1997b}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Spektrum Akademischer Verlag}%
-      }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{3}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -5326,6 +4972,42 @@
       \endverb
       \verb{url}
       \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \endverb
+      \keyw{bild}
+    \endentry
+    \entry{DocCheckAPBIld}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=835f4888514c5a353281e8c6052729f6}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Jannik},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{fullhash}{835f4888514c5a353281e8c6052729f6}
+      \strng{bibnamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authorbibnamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authornamehash}{835f4888514c5a353281e8c6052729f6}
+      \strng{authorfullhash}{835f4888514c5a353281e8c6052729f6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 2.2)}
+      \field{title}{Grafik zum ablauf eines Aktionspotentials}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.doccheck.com/de/detail/photos/20984-aktionspotential
+      \endverb
+      \verb{url}
+      \verb https://www.doccheck.com/de/detail/photos/20984-aktionspotential
       \endverb
       \keyw{bild}
     \endentry

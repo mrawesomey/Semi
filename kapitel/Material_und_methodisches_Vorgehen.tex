@@ -1,8 +1,9 @@
-\chapter{Material und methodisches Vorgehen}
+\chapter{Material}
 \textbf{Johanna Hoppe}
-\section{Erklärung der Methode}
+%\section{Erklärung der Methode}
 
-Indirekte Immunfluoreszenz
+\section{Indirekte Immunfluoreszenz}
+
 Ein zentrales Verfahren dieser Arbeit ist die
 Immunhistochemie. Dies ist eine histologische Methode, mit der
 spezifische Zellstrukturen, beispielsweise Proteine, sichtbar gemacht
@@ -29,7 +30,7 @@ Daher spricht man von einem fluoreszenzbasierten Detektionssystem. Durch
 den Nachweis des fluoreszierenden Antikörpers können somit die
 untersuchten Proteine dargestellt und beispielsweise ihre Lokalisation
 untersucht werden (siehe Abbildung \ref{fig:immnuofMMV}).\footcite{DocCheckIHC}
-\clearpage
+
 % ── Abbildung 7 ausgelassen ──────────────────────────────────
 % Abbildung 7: Prinzip der indirekten Immunfluoreszenz BILD NOCH ZUSCHNEIDEN
 % Quelle: \cite{LeicaMicrosystems2026}
@@ -37,7 +38,7 @@ untersucht werden (siehe Abbildung \ref{fig:immnuofMMV}).\footcite{DocCheckIHC}
 \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
 	\centering % Zentriert das Bild horizontal
 	\includegraphics[width=0.91\textwidth]{abbildungen/immunoflurosenzMMV.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
-	\caption{ Prinzip der indirekten Immunfluoreszenz (rechts)\parencite{LeicaMicrosystems2026}} % Die Bildunterschrift
+	\caption{ Prinzip der indirekten Immunfluoreszenz \parencite{LeicaMicrosystems2026}} % Die Bildunterschrift
 	\label{fig:immnuofMMV} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 \end{figure}
 
@@ -80,16 +81,15 @@ Caspr2 sowohl an erregenden als auch an hemmenden Synapsen lokalisiert ist und
 ob Antikörper gegen Caspr2 die Kolokalisation von Caspr2 und Contacin-2
 beeinflussen.
 
-Mikroskopieverfahren 
+\section{Mikroskopieverfahren}
+
 Zur mikroskopischen Auswertung der Proben wurden die Methoden Widefield
 Fluorescence Microscopy (WF) und Structured Illumination Microscopy (SIM)
 angewendet.
 Die Widefield Fluorescence Microscopy ist ein fluoreszenzmikroskopisches
 Verfahren, bei dem das gesamte betrachtete Sichtfeld gleichzeitig mit Anregungslicht
 beleuchtet wird. Dabei werden Fluorophore in der Probe durch Licht einer geeigneten
-Wellenlänge angeregt. Nach der Anregung emittieren sie Licht mit einer anderen,
-meist längeren Wellenlänge.
-Eine zentrale Komponente der WF-Mikroskopie ist der dichroitische Spiegel (oder
+Wellenlänge angeregt. Nach der Anregung emittieren sie Licht mit einer längeren Wellenlänge. Dies ist darauf zurückzuführen, dass ein Teil der aufgenommenen Energie in Form von Schwingung oder Wärme an die Umgebung abgegeben wird. Dadurch steht für die Lichtemission weniger Energie zur Verfügung, wodurch das emittierte Licht eine geringere Wellenlänge als das Anregungslicht aufweist. Eine zentrale Komponente der WF-Mikroskopie ist der dichroitische Spiegel (oder
 Strahlteiler). Dieser befindet sich zwischen Lichtquelle und Mikroskopobjektiv und
 erfüllt eine wichtige Trennfunktion. Das Anregungslicht wird vom Strahlteiler in
 Richtung Probe reflektiert, während das von den Fluorophoren emittierte Licht den
@@ -102,19 +102,21 @@ ausgesendete Fluoreszenzlicht und bildet dieses auf einer Kamera ab.
 \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
 	\centering % Zentriert das Bild horizontal
 	\includegraphics[width=0.91\textwidth]{abbildungen/WFMMV.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
-	\caption{ muss noch was sagen \parencite{ibidiWFMBild}} % Die Bildunterschrift
+	\caption{ Widefield Fluorescence Microsopy \parencite{ibidiWFMBild}} % Die Bildunterschrift
 	\label{fig:WFBild} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 \end{figure}
+
 Die Structured Illumination Microscopy (SIM) ist eine Methode der
 Fluoreszenzmikroskopie, mit der die Auflösung eines Lichtmikroskops verbessert
 werden kann. Im Gegensatz zur WF-Mikroskopie wird die Probe nicht gleichmäßig,
 sondern mit einem definierten, regelmäßigen Streifenmuster beleuchtet. Dieses
 Muster entsteht durch die Interferenz von Laserstrahlen, die mithilfe eines
 Beugungsgitters erzeugt werden.  
+
 \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
 	\centering % Zentriert das Bild horizontal
 	\includegraphics[width=0.91\textwidth]{abbildungen/SIMMMV.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
-	\caption{ muss noch was sagen \parencite{OxInstSIMBild}} % Die Bildunterschrift
+	\caption{ Structured Illumination Microscopy \parencite{OxInstSIMBild}} % Die Bildunterschrift
 	\label{fig:SIMBild} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 \end{figure}
 Sehr kleine Strukturen weisen hohe räumliche Frequenzen auf. Diese liegen
@@ -128,28 +130,20 @@ erscheint diese Wechselwirkung zwischen dem bekannten Beleuchtungsmuster und
 den Strukturen der Probe als sogenanntes Moiré-Muster.
 Um möglichst viele Informationen über die Probe zu erhalten, wird das
 Beleuchtungsmuster in verschiedene Richtungen gedreht und verschoben. Bei der
-2D-SIM werden dafür typischerweise neun Einzelaufnahmen und bei der 3D-SIM 15
-Einzelaufnahmen aufgenommen. (Haben wir 2 oder 3d gemacht?)
+2D-SIM werden dafür typischerweise neun Einzelaufnahmen aufgenommen.
 Anschließend werden die Einzelaufnahmen mithilfe von Softwares zu einem Bild
 verarbeitet.
 
 Neben der WF Mikroskopie wurde die SIM Mikroskopie eingesetzt, da die höhere
 räumliche Auflösung der SIM Mikroskopie für die Fragestellungen der Arbeit von
 Bedeutung ist. Die Wide Field Mikroskopie ermöglicht zwar eine Darstellung der
-fluoreszenzmarkierten Proteine, weshalb sie sich grundsätzlich zur Untersuchung der
-Proben eignet. Jedoch kommt es bei sehr kleinen oder dicht beieinander liegenden
-
-Strukturen dazu, dass sich ihre Fluoreszenzsignale nicht eindeutig voneinander
-unterscheiden lassen. Zudem findet bei der WF Mikroskopie keine optische
-Schnittbildung statt, da nicht nur eine bestimmte Ebene angeregt wird, sondern auch
-Fluorophore anderer Ebenen fluoreszieren. Dies ist bei der Untersuchung der
-Kolokalisation zu beachten, da eine scheinbare Überlagerung von Signalen nicht
+fluoreszenzmarkierten Proteine, weshalb sie sich grundsätzlich zur Untersuchung der Proben eignet. Jedoch kommt es bei sehr kleinen oder dicht beieinander liegenden Strukturen dazu, dass sich ihre Fluoreszenzsignale nicht eindeutig voneinander unterscheiden lassen, da die Ränder verschwommen erscheinen können. Dies ist bei der Untersuchung der Kolokalisation zu beachten, da eine scheinbare Überlagerung von Signalen nicht
 zwangsläufig einer tatsächlichen räumlichen Übereinstimmung der untersuchten
 Strukturen entspricht. Durch den Einsatz der SIM Mikroskopie können die
 fluoreszenzmarkierten Strukturen detaillierter dargestellt und die
 Kolokalisationsflächen dadurch genauer untersucht werden. Die zusätzliche
 Verwendung der Wide Field Mikroskopie ermöglicht einen größeren Überblick mit
-schneller Aufnahmegeschwindigkeit über die Zellproben.\footcite{oxinstSIM}
-\section{Begründung der Methodenwahl}
-können wir glaub weg machen und lieber den einzelnen Methoden Kapitelchen geben evt
-\section{Material}
+schneller Aufnahmegeschwindigkeit über die Zellproben. Bei beiden Methoden ist jedoch zu beachten, dass in dreidimensionalen Strukturen auch Zellteile tieferer Ebenen fluoreszieren können. \footcite{oxinstSIM}
+%\section{Begründung der Methodenwahl}
+%können wir glaub weg machen und lieber den einzelnen Methoden Kapitelchen geben evt
+%\section{Material}
