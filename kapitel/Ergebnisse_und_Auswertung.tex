@@ -7,8 +7,8 @@
 Zur Untersuchung der synaptischen Lokalisation von Caspr2 wurden die
 synaptischen Marker VGat und VGlut angefärbt. VGat dient als Marker für
 inhibitorische Synapsen und VGlut als Marker für exzitatorische Synapsen.
-Anhand Structured Illumination Microscopy (SIM) und Wide Field (WF)
-wurden die Färbungen analysiert und die Kolokalisation wurde als überlappende Fläche von Caspr2 und dem jeweiligen synaptischen Marker in $\mu\text{m}^2$ bestimmt. Die Daten wurden mittels Shapiro-Wilk-Test auf Normalverteilung geprüft. Die Normlverteilung ist die symmmetrische Verteilung der Werte in glockenform. Diese Normalverteilung lag nicht vor, weshalb anschließend der nichtparametrische Mann-Whitney U-Test verwendet wurde. Also ein Test, der nicht an eine bestimmte Verteilung von Daten, wie zum Beispiel die Normalverteilung, gebunden ist.
+Mittels Structured Illumination Microscopy (SIM) und Wide Field (WF)
+wurden die Färbungen aufgenommen und die Fläche der Strukturen sowie deren Überlappung wurde mithilfe von IMARIS (siehe Kapitel 6.3) analysiert. Die Kolokalisationsflächen wurden in $\mu\text{m}^2$ bestimmt und anschließend mittels Shapiro-Wilk-Test auf Normalverteilung geprüft. Die Normlverteilung ist die symmmetrische Verteilung der Werte in Glockenform. Diese Normalverteilung lag nicht vor, weshalb anschließend der nichtparametrische Mann-Whitney U-Test verwendet wurde. Also ein Test, der nicht an eine bestimmte Verteilung von Daten, wie zum Beispiel die Normalverteilung, gebunden ist.
 
 Die SIM-Daten in Abbildung \ref{fig:coflma} zeigen bei beiden Markern eine geringe Anzahl und
 Größe der Kolokalisationsflächen. Der Medianwert bei VGat und VGlut liegt
@@ -20,7 +20,7 @@ Die WF-Daten weisen eine größere Streuung auf. Hier liegt der Median der VGat-
 erreichen Werte von über $10\,\mu\text{m}^2$, teils liegen sie im Bereich
 von ca.\ $40$--$95\,\mu\text{m}^2$.
 
-Die ist auf den Unterschied der Verfahren bzgl. der Auflösung zurückzuführen. WF dient häufig dem Aufnehmen von Übersichtsbildern von Strukturen und weißt eine geringere Auflösung auf (siehe Abbildung \ref{fig:WFnerv}). SIM (siehe Abbildung \ref{fig:SIMnerv}) besitzt aufgrund der strukturierten Beleuchtung eine höhere Auflösung. Daher ist für die Auswertung der Versuchsergebnisse im Folgenden die SIM-Methode von Bedeutung. Durch die höhere Auflösung liefert diese eine bessere Trennung von überlagerten Signalen und kann daher als genauer und relevanter für die Ergebnisauswertung angesehen werden. 
+Die ist auf den Unterschied der Verfahren bzgl. ihrer Auflösung zurückzuführen. WF dient häufig dem Aufnehmen von Übersichtsbildern von Strukturen und weißt eine geringere Auflösung auf (siehe Abbildung \ref{fig:WFnerv}). SIM (siehe Abbildung \ref{fig:SIMnerv}) besitzt aufgrund der strukturierten Beleuchtung eine höhere Auflösung. Dadurch liefert es eine bessere Trennung von überlagerten Signalen und kann daher als genauer angesehen werden. Da allerdings der SIM-Datensatz für VGlut lediglich einen Wert liefert, wurde die statistische Analyse mit den WF-Daten durchgeführt. 
 
 In beiden Gruppen liegen die meisten Werte im niedrigen Bereich,
 gleichzeitig kommt es zum Auftreten einzelner hoher Werte. Der
@@ -34,24 +34,30 @@ Mittels Mann-Whitney U-Test konnte kein Nachweis für ein bevorzugtes Vorhandens
 % Abb. 1: Colokalisationsfläche von Caspr2 mit synaptischen
 %         Markern VGlut und VGat (SIM und WF)
 % ─────────────────────────────────────────────────────────────
+%\textbf{also diese beiden Bilder bitte zusammen fügen!(siehe Email):
+%	und dann musst du noch mal schauen, ob das am ende mit den ganzen Bildquellen hinhaut}
+%\textbf{und hier kommt dann noch abbildung 7.2 aus der mail hin}
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.8\textwidth]{abbildungen/WFNervEuA.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Aufnahme einer Nervenzelle mittels Wide-Field (WF) (A, C) und Structured-Illumination-Microscopy (SIM) (B, D) in 63x-Vergrößerung. Die fluoreszierenden Strukturen zeigen Caspr2 (magenta) und Zellkern (blau). Außerdem in grün: VGat (A, B) und VGlut (C, D) \parencite{eigenAu7.1}} % Die Bildunterschrift
+	\label{fig:WFnerv} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.8\textwidth]{abbildungen/SIMNervEuA.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Aufnahme einer Nervenzelle der Kontrollprobe mit VGat (A) und VGlut (B) mittels Structured-Illumination-Microscopy (SIM) in 63x-Vergrößerung. Die fluoreszierenden Strukturen zeigen mgo53 (magenta), VGat/VGlut (grün) und Zellkern (blau). \parencite{eigenAu7.2}} % Die Bildunterschrift
+	\label{fig:SIMnerv} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
+
 \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
 	\centering % Zentriert das Bild horizontal
 	\includegraphics[width=0.8\textwidth]{abbildungen/colokflächemarkerKCVV.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
 	\caption{Colokalisationsfläche von Caspr2 mit synaptischen
-		Markern VGlut und VGat \parencite{eigenAu7.1}} % Die Bildunterschrift
+		Markern VGlut und VGat \parencite{eigenAu7.3}} % Die Bildunterschrift
 	\label{fig:coflma} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
-\end{figure}
-\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
-	\centering % Zentriert das Bild horizontal
-	\includegraphics[width=0.8\textwidth]{abbildungen/WFNervEuA.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
-	\caption{Wide-Field-(WF)-Aufnahme einer Nervenzelle. Die fluoreszierenden Strukturen zeigen Caspr2 (magenta), VGat (grün) und einen Zellkern (blau) \parencite{eigenAu7.2}} % Die Bildunterschrift
-	\label{fig:WFnerv} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
-\end{figure}
-\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
-	\centering % Zentriert das Bild horizontal
-	\includegraphics[width=0.8\textwidth]{abbildungen/SIMNervEuA.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
-	\caption{Structured-Illumination-Microscopie-(SIM)-Aufnahme einer Nervenzelle. Die fluoreszierenden Strukturen zeigen Caspr2 (magenta), VGat (grün) und einen Zellkern (blau) \parencite{eigenAu7.3}} % Die Bildunterschrift
-	\label{fig:SIMnerv} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 \end{figure}
 % ── Abbildung 2 (Mann-Whitney U-Test Screenshot) ausgelassen ─
 % Abb. 2: Mann-Whitney U-Test von SIM in OriginPro 2019
@@ -66,7 +72,7 @@ Mittels Mann-Whitney U-Test konnte kein Nachweis für ein bevorzugtes Vorhandens
 Zur Untersuchung des Effekts der Anti-Caspr2-aAK auf die Interaktion
 zwischen Caspr2 und Contactin-2 wurden Neuronenkulturen von Mäusen
 entweder mit AK gegen die Discoidin- oder die Laminin-Domäne von Caspr2
-behandelt. Mittels SIM wurden hochauflösende Aufnahmen der Synapsen gemacht. Die Kolokalisationsflächen wurden mittels IMARIS analysiert.
+behandelt. Mittels WF wurden Aufnahmen der Synapsen gemacht. Die Kolokalisationsflächen wurden mittels IMARIS (siehe Kapitel 6.3) in $\mu\text{m}^2$ bestimmt.
 
 Bei der Überprüfung der Werte mittels Shapiro-Wilk-Tests lag keine
 Normalverteilung vor, daher erfolgte erneut ein Vergleich zwischen den
@@ -87,19 +93,27 @@ Bereich reicht von etwa $1{,}2$--$2{,}2\,\mu\text{m}^2$.
 Der Mann-Whitney U-Test zeigt keinen signifikanten
 Unterschied zwischen den Werten von AK, die an die Discoidin- oder
 Laminin-Domäne binden ($p = 0{,}386$, n.\,s.).
-
-Der Mann-Whitney U-Test liefert keinen statistischen Nachweis für einen unterschiedlichen Effekt der AK-Gruppen. Eine mögliche Tendenz ist aufgrund vermehrter Einzelwerte und einer größeren Streuung der Werte in den Proben der Laminin-AK zu vermuten. Dennoch lässt sich hier keine eindeutige Aussage treffen.
+Dher liefert der Mann-Whitney U-Test keinen statistischen Nachweis für einen unterschiedlichen Effekt der AK-Gruppen. Eine mögliche Tendenz ist aufgrund vermehrter Einzelwerte und einer größeren Streuung der Werte in den Proben der Laminin-AK zu vermuten. Dennoch lässt sich hier keine fundierte Aussage treffen.
 
 % ── Abbildung 3 (Boxplot Discoidin/Laminin) ausgelassen ──────
 % Abb. 3: Einfluss von Anti-Caspr2-aAK gegen die Discoidin-
 %         bzw. Laminin-Domäne von Caspr2 auf die Kolokalisation
 %         mit Contactin-2
 % ─────────────────────────────────────────────────────────────
+
+%\textbf{hiervor kommt dann die neue Abbildung 7.4 aus der Mail hin und die Statistik ist dann abbildung 7.5}
+\begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
+	\centering % Zentriert das Bild horizontal
+	\includegraphics[width=0.91\textwidth]{abbildungen/discSIM.png} % Lädt das Bild, skaliert es auf 80% der Textbreite
+	\caption{Aufnahme der Discoidin-Färbung (A) und der Laminin-Färbung (B) mittels Structured-Illumination-Microscopy (SIM) in 63x-Vergrößerung. Die fluoreszierenden Strukturen zeigen Caspr2 (magenta), Contactin2 (orange) und Zellkern (blau). \parencite{eigenAu7.4}} % Die Bildunterschrift
+	\label{fig:discSIM} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
+\end{figure}
+
 \begin{figure}[h] % [h] versucht, das Bild hier zu platzieren (hier), [t] für oben, [b] für unten
 	\centering % Zentriert das Bild horizontal
 	\includegraphics[width=0.91\textwidth]{abbildungen/aAKstatKCVV.jpg} % Lädt das Bild, skaliert es auf 80% der Textbreite
 	\caption{Einfluss von Anti-Caspr2-aAK gegen die Discoidin- bzw. Laminin-Domäne
-		von Caspr2 auf die Kolokalisation mit Contactin-2 \parencite{eigenAu7.4}} % Die Bildunterschrift
+		von Caspr2 auf die Kolokalisation mit Contactin-2 \parencite{eigenAu7.5}} % Die Bildunterschrift
 	\label{fig:aAKstat} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 \end{figure}
 
@@ -113,7 +127,7 @@ Der Mann-Whitney U-Test liefert keinen statistischen Nachweis für einen untersc
 %	\label{fig:mwutaAK} % Ein Label für Querverweise (z.B. "siehe Abbildung \ref{fig:beispielbild}")
 %\end{figure}
  
-\clearpage
+%\clearpage
 %Um die Lokalisation zu bestimmen, wurde jeweils Caspr2 und vesikuläre
 %GABA-Transporter (VGat) oder vesikuläre Glutamattransporter (VGlut)
 %angefärbt. VGat dient dabei als Marker für inhibitorische Synapsen und
