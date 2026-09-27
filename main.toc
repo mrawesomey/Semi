@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {6.3}Mikroskopieren und Bildanalyse}{36}{section.6.3}%
 \contentsline {chapter}{\numberline {7}Ergebnisse und Auswertung}{39}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Kolokalisation von Caspr2 mit VGat und VGlut}{39}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Kolokalisation von Caspr2 und Contactin-2 nach der Behandlung mit verschiedenen Antikörpern}{44}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Kolokalisation von Caspr2 und Contactin-2 nach der Behandlung mit pathogenen Antikörpern}{44}{section.7.2}%
 \contentsline {chapter}{\numberline {8}Diskussion}{47}{chapter.8}%
 \contentsline {chapter}{\numberline {9}Fazit und Ausblick}{52}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Anhang}{53}{chapter.10}%

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  27 SEP 2026 01:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  27 SEP 2026 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1238,28 +1238,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [18] [19] [20
 
 ]
-Overfull \hbox (2.35252pt too wide) in paragraph at lines 139--143
+Overfull \hbox (2.35252pt too wide) in paragraph at lines 137--141
 []\TU/lmr/m/n/12 Es lässt sich feststellen, dass überwiegend ältere Männer von 
 der Caspr2-Enzephalitis
  []
 
 
-Overfull \hbox (0.93102pt too wide) in paragraph at lines 146--150
+Overfull \hbox (0.93102pt too wide) in paragraph at lines 144--148
 \TU/lmr/m/n/12 Oberfläche von Nervenzellen. Sie binden insbesondere an die Disc
 oidin- und Laminin-
  []
 
-[21])
-Underfull \hbox (badness 10000) in paragraph at lines 166--16
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--16
-
- []
-
-[22]
+[21]) [22]
 \openout2 = `kapitel/Material_und_methodisches_Vorgehen.aux'.
 
  (kapitel/Material_und_methodisches_Vorgehen.tex
@@ -1338,12 +1328,12 @@ chapter 7.
 File: abbildungen/WFNervEuA.jpg Graphic file (type bmp)
 <abbildungen/WFNervEuA.jpg>
 
-Underfull \hbox (badness 1226) in paragraph at lines 43--43
+Underfull \hbox (badness 1226) in paragraph at lines 44--44
 [][][]\TU/lmr/m/n/12 Aufnahme einer Nervenzelle mittels Wide-Field (WF) (A, C)
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 43--43
+Underfull \hbox (badness 1297) in paragraph at lines 44--44
 \TU/lmr/m/n/12 und Structured-Illumination-Microscopy (SIM) (B, D) in 63x-
  []
 
@@ -1364,7 +1354,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: abbildungen/discSIM.png Graphic file (type bmp)
 <abbildungen/discSIM.png>
 
-Underfull \hbox (badness 2707) in paragraph at lines 108--108
+Underfull \hbox (badness 2707) in paragraph at lines 109--109
 \TU/lmr/m/n/12 (B) mittels Structured-Illumination-Microscopy (SIM) in 63x-
  []
 
@@ -1396,7 +1386,12 @@ File: abbildungen/selltest.png Graphic file (type bmp)
 ] [49]
 File: abbildungen/lamininübersicht.png Graphic file (type bmp)
 <abbildungen/lamininübersicht.png>
- [50
+
+Underfull \hbox (badness 1112) in paragraph at lines 39--39
+[][][]\TU/lmr/m/n/12 Übersichtsaufnahme der Laminin-Färbung mittels WF in 20x-
+ []
+
+[50
 
 ]) [51]
 \openout2 = `kapitel/Fazit_und_Ausblick.aux'.
@@ -1465,10 +1460,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29938 strings out of 409617
- 606419 string characters out of 5774012
- 1957191 words of memory out of 5000000
- 51584 multiletter control sequences out of 15000+600000
+ 29936 strings out of 409617
+ 606389 string characters out of 5774012
+ 1955191 words of memory out of 5000000
+ 51582 multiletter control sequences out of 15000+600000
  567119 words of font info for 89 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  108i,18n,127p,11229b,5833s stack positions out of 10000i,1000n,20000p,200000b,200000s

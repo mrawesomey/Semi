@@ -1229,179 +1229,6 @@
       \verb https://flexikon.doccheck.com/de/Aktionspotential
       \endverb
     \endentry
-    \entry{VanHoof2024}{article}{}
-      \name{author}{22}{}{%
-        {{un=0,uniquepart=base,hash=567622fd2d692b21e95c58cc76af7edc}{%
-           family={Hoof},
-           familyi={H\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=79e9a14e82d1500bf83eb7e7731c5816}{%
-           family={Kreye},
-           familyi={K\bibinitperiod},
-           given={Jakob},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79032e27518c4b301ad925abcf28b10d}{%
-           family={Cordero-Gómez},
-           familyi={C\bibinithyphendelim G\bibinitperiod},
-           given={César},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d092a529f73f6dfb09b6d321f7499a0c}{%
-           family={Hoffmann},
-           familyi={H\bibinitperiod},
-           given={Julius},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=72278c11aa04f97cb19152f9cc27a63c}{%
-           family={Momsen\bibnamedelima Reincke},
-           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a51d7bb37283b86535352c93d90fa01d}{%
-           family={Sánchez-Sendin},
-           familyi={S\bibinithyphendelim S\bibinitperiod},
-           given={Elisa},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2b29d231496423e310c0a11a9c59c070}{%
-           family={Duong},
-           familyi={D\bibinitperiod},
-           given={Sophie\bibnamedelima L.},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9b9a7598953d9b644a288ef8233de67c}{%
-           family={Upadhya},
-           familyi={U\bibinitperiod},
-           given={Manoj},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5cdb389ffb225f79a1e1bf546d9c5188}{%
-           family={Dhangar},
-           familyi={D\bibinitperiod},
-           given={Divya},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3de73da88bdac4dd051bfe1f634e3511}{%
-           family={Michór},
-           familyi={M\bibinitperiod},
-           given={Paulina},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=63939ed54a80ad64c9858f2503c85ad8}{%
-           family={Woodhall},
-           familyi={W\bibinitperiod},
-           given={Gavin\bibnamedelima L.},
-           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb5435608c6381a94053734fcd225062}{%
-           family={Küpper},
-           familyi={K\bibinitperiod},
-           given={Maraike},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0180b7393e607ed9ea283e4096c491f}{%
-           family={Oder},
-           familyi={O\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2e5bb77d4a2569ff5a3791adc402ced5}{%
-           family={Kuchling},
-           familyi={K\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=82760e28a7dea56e4965fb9b5c0edafa}{%
-           family={Koch},
-           familyi={K\bibinitperiod},
-           given={Stefan\bibnamedelima Paul},
-           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d8597d01e884594d37dc18d55e859188}{%
-           family={Mueller},
-           familyi={M\bibinitperiod},
-           given={Susanne},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f2c5e407b0881d0b98cf82c3096ac856}{%
-           family={Boehm-Sturm},
-           familyi={B\bibinithyphendelim S\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=38f9e069d184540d829acee980fc4610}{%
-           family={Kries},
-           familyi={K\bibinitperiod},
-           given={Jens\bibnamedelima Peter},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0,
-           prefix={von},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=b071d5467fac554f9ca8743da324b4e6}{%
-           family={Finke},
-           familyi={F\bibinitperiod},
-           given={Carsten},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d1a3f196d95288e59a12bb81867683e4}{%
-           family={Kirschstein},
-           familyi={K\bibinitperiod},
-           given={Timo},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=82d14cd0f4d521eeda298d62ba1f87fe}{%
-           family={Wright},
-           familyi={W\bibinitperiod},
-           given={Sukhvir\bibnamedelima K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cadcb4114fe48218450e52db66f24705}{%
-           family={Prü{ss}},
-           familyi={P\bibinitperiod},
-           given={Harald},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{fullhash}{bf1fcab96b9b8aa239ff49708fb11dee}
-      \strng{bibnamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authorbibnamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authornamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authorfullhash}{bf1fcab96b9b8aa239ff49708fb11dee}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Brain, Behavior, and Immunity}
-      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2026}
-      \field{volume}{122}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \field{pages}{266\bibrangedash 278}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1016/j.bbi.2024.08.027
-      \endverb
-      \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
-      \endverb
-      \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
-      \endverb
-    \endentry
     \entry{Klein2026}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6cae2bcfa4af172e3d12c4d7fbc136ed}{%
@@ -2241,6 +2068,176 @@
       \endverb
       \verb{url}
       \verb https://www.klinikum.uni-heidelberg.de/immunologie/forschung/sektion-molekulare-immunologie/uebersicht
+      \endverb
+    \endentry
+    \entry{VanHoof2024}{article}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=658bd9185545d258fc34dee3b491d89b}{%
+           family={{van Hoof}},
+           familyi={v\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79e9a14e82d1500bf83eb7e7731c5816}{%
+           family={Kreye},
+           familyi={K\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79032e27518c4b301ad925abcf28b10d}{%
+           family={Cordero-Gómez},
+           familyi={C\bibinithyphendelim G\bibinitperiod},
+           given={César},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d092a529f73f6dfb09b6d321f7499a0c}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72278c11aa04f97cb19152f9cc27a63c}{%
+           family={Momsen\bibnamedelima Reincke},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a51d7bb37283b86535352c93d90fa01d}{%
+           family={Sánchez-Sendin},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b29d231496423e310c0a11a9c59c070}{%
+           family={Duong},
+           familyi={D\bibinitperiod},
+           given={Sophie\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b9a7598953d9b644a288ef8233de67c}{%
+           family={Upadhya},
+           familyi={U\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cdb389ffb225f79a1e1bf546d9c5188}{%
+           family={Dhangar},
+           familyi={D\bibinitperiod},
+           given={Divya},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3de73da88bdac4dd051bfe1f634e3511}{%
+           family={Michór},
+           familyi={M\bibinitperiod},
+           given={Paulina},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63939ed54a80ad64c9858f2503c85ad8}{%
+           family={Woodhall},
+           familyi={W\bibinitperiod},
+           given={Gavin\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5435608c6381a94053734fcd225062}{%
+           family={Küpper},
+           familyi={K\bibinitperiod},
+           given={Maraike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0180b7393e607ed9ea283e4096c491f}{%
+           family={Oder},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e5bb77d4a2569ff5a3791adc402ced5}{%
+           family={Kuchling},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82760e28a7dea56e4965fb9b5c0edafa}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Stefan\bibnamedelima Paul},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8597d01e884594d37dc18d55e859188}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2c5e407b0881d0b98cf82c3096ac856}{%
+           family={Boehm-Sturm},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38f9e069d184540d829acee980fc4610}{%
+           family={Kries},
+           familyi={K\bibinitperiod},
+           given={Jens\bibnamedelima Peter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=b071d5467fac554f9ca8743da324b4e6}{%
+           family={Finke},
+           familyi={F\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1a3f196d95288e59a12bb81867683e4}{%
+           family={Kirschstein},
+           familyi={K\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d14cd0f4d521eeda298d62ba1f87fe}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Sukhvir\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cadcb4114fe48218450e52db66f24705}{%
+           family={Prü{ss}},
+           familyi={P\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{fullhash}{b4f9e6b525ba0e9a7f6754decdb16c0f}
+      \strng{bibnamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authorbibnamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authornamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authorfullhash}{b4f9e6b525ba0e9a7f6754decdb16c0f}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain, Behavior, and Immunity}
+      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{122}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{266\bibrangedash 278}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.bbi.2024.08.027
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
       \endverb
     \endentry
     \entry{VanSonderen2016}{article}{}
@@ -4754,179 +4751,6 @@
       \endverb
       \keyw{bild}
     \endentry
-    \entry{VanHoof2024}{article}{}
-      \name{author}{22}{}{%
-        {{un=0,uniquepart=base,hash=567622fd2d692b21e95c58cc76af7edc}{%
-           family={Hoof},
-           familyi={H\bibinitperiod},
-           given={Scott},
-           giveni={S\bibinitperiod},
-           givenun=0,
-           prefix={van},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=79e9a14e82d1500bf83eb7e7731c5816}{%
-           family={Kreye},
-           familyi={K\bibinitperiod},
-           given={Jakob},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79032e27518c4b301ad925abcf28b10d}{%
-           family={Cordero-Gómez},
-           familyi={C\bibinithyphendelim G\bibinitperiod},
-           given={César},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d092a529f73f6dfb09b6d321f7499a0c}{%
-           family={Hoffmann},
-           familyi={H\bibinitperiod},
-           given={Julius},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=72278c11aa04f97cb19152f9cc27a63c}{%
-           family={Momsen\bibnamedelima Reincke},
-           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a51d7bb37283b86535352c93d90fa01d}{%
-           family={Sánchez-Sendin},
-           familyi={S\bibinithyphendelim S\bibinitperiod},
-           given={Elisa},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2b29d231496423e310c0a11a9c59c070}{%
-           family={Duong},
-           familyi={D\bibinitperiod},
-           given={Sophie\bibnamedelima L.},
-           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9b9a7598953d9b644a288ef8233de67c}{%
-           family={Upadhya},
-           familyi={U\bibinitperiod},
-           given={Manoj},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5cdb389ffb225f79a1e1bf546d9c5188}{%
-           family={Dhangar},
-           familyi={D\bibinitperiod},
-           given={Divya},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3de73da88bdac4dd051bfe1f634e3511}{%
-           family={Michór},
-           familyi={M\bibinitperiod},
-           given={Paulina},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=63939ed54a80ad64c9858f2503c85ad8}{%
-           family={Woodhall},
-           familyi={W\bibinitperiod},
-           given={Gavin\bibnamedelima L.},
-           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cb5435608c6381a94053734fcd225062}{%
-           family={Küpper},
-           familyi={K\bibinitperiod},
-           given={Maraike},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e0180b7393e607ed9ea283e4096c491f}{%
-           family={Oder},
-           familyi={O\bibinitperiod},
-           given={Andreas},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2e5bb77d4a2569ff5a3791adc402ced5}{%
-           family={Kuchling},
-           familyi={K\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=82760e28a7dea56e4965fb9b5c0edafa}{%
-           family={Koch},
-           familyi={K\bibinitperiod},
-           given={Stefan\bibnamedelima Paul},
-           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d8597d01e884594d37dc18d55e859188}{%
-           family={Mueller},
-           familyi={M\bibinitperiod},
-           given={Susanne},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f2c5e407b0881d0b98cf82c3096ac856}{%
-           family={Boehm-Sturm},
-           familyi={B\bibinithyphendelim S\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=38f9e069d184540d829acee980fc4610}{%
-           family={Kries},
-           familyi={K\bibinitperiod},
-           given={Jens\bibnamedelima Peter},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0,
-           prefix={von},
-           prefixi={v\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=b071d5467fac554f9ca8743da324b4e6}{%
-           family={Finke},
-           familyi={F\bibinitperiod},
-           given={Carsten},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d1a3f196d95288e59a12bb81867683e4}{%
-           family={Kirschstein},
-           familyi={K\bibinitperiod},
-           given={Timo},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=82d14cd0f4d521eeda298d62ba1f87fe}{%
-           family={Wright},
-           familyi={W\bibinitperiod},
-           given={Sukhvir\bibnamedelima K.},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cadcb4114fe48218450e52db66f24705}{%
-           family={Prü{ss}},
-           familyi={P\bibinitperiod},
-           given={Harald},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{fullhash}{bf1fcab96b9b8aa239ff49708fb11dee}
-      \strng{bibnamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authorbibnamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authornamehash}{ae3d6dac341c15874c830571b36f9e60}
-      \strng{authorfullhash}{bf1fcab96b9b8aa239ff49708fb11dee}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Brain, Behavior, and Immunity}
-      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
-      \field{urlday}{27}
-      \field{urlmonth}{9}
-      \field{urlyear}{2026}
-      \field{volume}{122}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \field{pages}{266\bibrangedash 278}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1016/j.bbi.2024.08.027
-      \endverb
-      \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
-      \endverb
-      \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
-      \endverb
-    \endentry
     \entry{MediKarriere2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5dd21dc756a5a4c374abc59caf572177}{%
@@ -5980,6 +5804,176 @@
       \endverb
       \verb{url}
       \verb https://www.klinikum.uni-heidelberg.de/immunologie/forschung/sektion-molekulare-immunologie/uebersicht
+      \endverb
+    \endentry
+    \entry{VanHoof2024}{article}{}
+      \name{author}{22}{}{%
+        {{un=0,uniquepart=base,hash=658bd9185545d258fc34dee3b491d89b}{%
+           family={{van Hoof}},
+           familyi={v\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79e9a14e82d1500bf83eb7e7731c5816}{%
+           family={Kreye},
+           familyi={K\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79032e27518c4b301ad925abcf28b10d}{%
+           family={Cordero-Gómez},
+           familyi={C\bibinithyphendelim G\bibinitperiod},
+           given={César},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d092a529f73f6dfb09b6d321f7499a0c}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Julius},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72278c11aa04f97cb19152f9cc27a63c}{%
+           family={Momsen\bibnamedelima Reincke},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a51d7bb37283b86535352c93d90fa01d}{%
+           family={Sánchez-Sendin},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b29d231496423e310c0a11a9c59c070}{%
+           family={Duong},
+           familyi={D\bibinitperiod},
+           given={Sophie\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b9a7598953d9b644a288ef8233de67c}{%
+           family={Upadhya},
+           familyi={U\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cdb389ffb225f79a1e1bf546d9c5188}{%
+           family={Dhangar},
+           familyi={D\bibinitperiod},
+           given={Divya},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3de73da88bdac4dd051bfe1f634e3511}{%
+           family={Michór},
+           familyi={M\bibinitperiod},
+           given={Paulina},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63939ed54a80ad64c9858f2503c85ad8}{%
+           family={Woodhall},
+           familyi={W\bibinitperiod},
+           given={Gavin\bibnamedelima L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5435608c6381a94053734fcd225062}{%
+           family={Küpper},
+           familyi={K\bibinitperiod},
+           given={Maraike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0180b7393e607ed9ea283e4096c491f}{%
+           family={Oder},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e5bb77d4a2569ff5a3791adc402ced5}{%
+           family={Kuchling},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82760e28a7dea56e4965fb9b5c0edafa}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Stefan\bibnamedelima Paul},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8597d01e884594d37dc18d55e859188}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2c5e407b0881d0b98cf82c3096ac856}{%
+           family={Boehm-Sturm},
+           familyi={B\bibinithyphendelim S\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38f9e069d184540d829acee980fc4610}{%
+           family={Kries},
+           familyi={K\bibinitperiod},
+           given={Jens\bibnamedelima Peter},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=b071d5467fac554f9ca8743da324b4e6}{%
+           family={Finke},
+           familyi={F\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1a3f196d95288e59a12bb81867683e4}{%
+           family={Kirschstein},
+           familyi={K\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82d14cd0f4d521eeda298d62ba1f87fe}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Sukhvir\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cadcb4114fe48218450e52db66f24705}{%
+           family={Prü{ss}},
+           familyi={P\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{fullhash}{b4f9e6b525ba0e9a7f6754decdb16c0f}
+      \strng{bibnamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authorbibnamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authornamehash}{f77fa7000e7e0af2c7f335b7be6acb09}
+      \strng{authorfullhash}{b4f9e6b525ba0e9a7f6754decdb16c0f}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain, Behavior, and Immunity}
+      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{122}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{266\bibrangedash 278}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.bbi.2024.08.027
+      \endverb
+      \verb{urlraw}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \endverb
+      \verb{url}
+      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
       \endverb
     \endentry
     \entry{VanSonderen2016}{article}{}
