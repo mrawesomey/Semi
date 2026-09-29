@@ -2984,7 +2984,7 @@
       \field{year}{2026}
       \keyw{bild}
     \endentry
-    \entry{eigenAu7.1}{misc}{}
+    \entry{eigenAu6.4}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e3a7639c09392d71276d943d2c063192}{%
            family={{Eigene Aufnahme}},
@@ -3000,6 +3000,29 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{label}{(Abbildung 6.4)}
+      \field{year}{2026}
+      \keyw{bild}
+    \endentry
+    \entry{eigenAu7.1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3a7639c09392d71276d943d2c063192}{%
+           family={{Eigene Aufnahme}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{fullhash}{e3a7639c09392d71276d943d2c063192}
+      \strng{bibnamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
+      \field{extraname}{5}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3019,10 +3042,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{5}
+      \field{extradate}{6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3042,10 +3065,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{6}
+      \field{extradate}{7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3065,10 +3088,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{7}
+      \field{extradate}{8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3088,10 +3111,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{8}
+      \field{extradate}{9}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3111,10 +3134,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{9}
+      \field{extradate}{10}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3134,10 +3157,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradate}{10}
+      \field{extradate}{11}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3751,7 +3774,7 @@
       \field{year}{2026}
       \keyw{bild}
     \endentry
-    \entry{eigenAu7.1}{misc}{}
+    \entry{eigenAu6.4}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e3a7639c09392d71276d943d2c063192}{%
            family={{Eigene Aufnahme}},
@@ -3767,6 +3790,29 @@
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{label}{(Abbildung 6.4)}
+      \field{year}{2026}
+      \keyw{bild}
+    \endentry
+    \entry{eigenAu7.1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e3a7639c09392d71276d943d2c063192}{%
+           family={{Eigene Aufnahme}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{fullhash}{e3a7639c09392d71276d943d2c063192}
+      \strng{bibnamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
+      \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
+      \field{extraname}{5}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3786,10 +3832,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{5}
+      \field{extradate}{6}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3809,10 +3855,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{6}
+      \field{extradate}{7}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3832,10 +3878,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{7}
+      \field{extradate}{8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3855,10 +3901,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{8}
+      \field{extradate}{9}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3878,10 +3924,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{9}
+      \field{extradate}{10}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -3901,10 +3947,10 @@
       \strng{authorbibnamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authornamehash}{e3a7639c09392d71276d943d2c063192}
       \strng{authorfullhash}{e3a7639c09392d71276d943d2c063192}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{10}
+      \field{extradate}{11}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
