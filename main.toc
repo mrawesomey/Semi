@@ -2,7 +2,6 @@
 \contentsline {chapter}{\numberline {1}Motivation und Zielsetzung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Grundlagen}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Neurobiologische Grundlagen}{3}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Signalweiterleitung am Axon und synaptische Signalübertragung}{3}{subsection.2.1.1}%
 \contentsline {section}{\numberline {2.2}Immunologische Grundlagen}{8}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Prinzipien der Immunabwehr}{8}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Mechanismen fehlgeleiteter Immunabwehr}{10}{subsection.2.2.2}%

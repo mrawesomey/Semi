@@ -133,15 +133,12 @@
            given={Ibrahim},
            giveni={I\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
+        {{un=0,uniquepart=base,hash=0459436109b5dd72341e883cff1e8123}{%
+           family={{van den Höfel}},
+           familyi={v\bibinitperiod},
            given={Natascha},
            giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=ab10e402fa3ad08fa7142e833c09240f}{%
            family={Ruppert},
            familyi={R\bibinitperiod},
@@ -150,11 +147,11 @@
            givenun=0}}%
       }
       \strng{namehash}{097f84fc7810dc377a9b977938afb134}
-      \strng{fullhash}{410b718a453427fb8221dafa7d65a650}
+      \strng{fullhash}{509a66756648265d6d86416c3eb0563c}
       \strng{bibnamehash}{097f84fc7810dc377a9b977938afb134}
       \strng{authorbibnamehash}{097f84fc7810dc377a9b977938afb134}
       \strng{authornamehash}{097f84fc7810dc377a9b977938afb134}
-      \strng{authorfullhash}{410b718a453427fb8221dafa7d65a650}
+      \strng{authorfullhash}{509a66756648265d6d86416c3eb0563c}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -269,35 +266,187 @@
       \endverb
     \endentry
     \entry{Bakkaloglu2008}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=522f9d450a8119b33f4eb998d8125d5c}{%
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=63fae2556b107b64f6e3784d6d7d95a0}{%
            family={Bakkaloglu},
            familyi={B\bibinitperiod},
-           given={Baris},
+           given={Betul},
            giveni={B\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=44d1d065d1b39dea0e1d10febc2089c0}{%
+           family={O'Roak},
+           familyi={O\bibinitperiod},
+           given={Brian\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fbebd13ba4063067df4d950a78af7d6}{%
+           family={Louvi},
+           familyi={L\bibinitperiod},
+           given={Angeliki},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=191cc5e88ba44d2a6ce1f03cfe3187b7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Abha\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38ee6da4eeea29b4230f0620fd40982c}{%
+           family={Abelson},
+           familyi={A\bibinitperiod},
+           given={Jesse\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f3a498ed20124c9b47dbd3b958ba07}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77db9d882b31f9f7692439857388b308}{%
+           family={Chawarska},
+           familyi={C\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=541a9cb2f5e358efd62913bdd89d98f0}{%
+           family={Klin},
+           familyi={K\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7730cb938bf3ca954461f5255d2af1e}{%
+           family={Ercan-Sencicek},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={A.\bibnamedelimi Gulhan},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2022f569b2f20ff2300926ebbacb3d1}{%
+           family={Stillman},
+           familyi={S\bibinitperiod},
+           given={Althea\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1033a20c674b423097a232f25ece0826}{%
+           family={Tanriover},
+           familyi={T\bibinitperiod},
+           given={Gamze},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9ef6afdbaf8dc88b7100e46a74ba789}{%
+           family={Abrahams},
+           familyi={A\bibinitperiod},
+           given={Brett\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45c7b504c1dfb8f0b2f9094553b9c039}{%
+           family={Duvall},
+           familyi={D\bibinitperiod},
+           given={Jackie\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e61bcd089ffac888dfbe1ca90618e8f7}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Elissa\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22c2b9fbca6cb1ce0839c9a4745d4624}{%
+           family={Geschwind},
+           familyi={G\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe041ab73d69522eb8e38679b342e90}{%
+           family={Biederer},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db1b897f5df987a746036d941ec88750}{%
+           family={Gunel},
+           familyi={G\bibinitperiod},
+           given={Murat},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e69d91adde0ebaa769b329edf2bbef}{%
+           family={Lifton},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd6de693677bbb4150f92de9360093e8}{%
+           family={State},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{fullhash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{bibnamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authorbibnamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authornamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authorfullhash}{0690996aa1efe141cb277674e5b25feb}
+      \strng{namehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{fullhash}{75f09edcf5c219edd82e7f2703954307}
+      \strng{bibnamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authorbibnamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authornamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authorfullhash}{75f09edcf5c219edd82e7f2703954307}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Human Genetics}
+      \field{journaltitle}{The American Journal of Human Genetics}
       \field{number}{1}
       \field{title}{Molecular Cytogenetic Analysis and Resequencing of Contactin Associated Protein-Like 2 in Autism Spectrum Disorders}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{82}
       \field{year}{2008}
+      \field{urldateera}{ce}
       \field{pages}{165\bibrangedash 173}
       \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.ajhg.2007.09.017
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.ajhg.2007.09.017
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.ajhg.2007.09.017
+      \endverb
+    \endentry
+    \entry{Markl1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3723a13132c033a9fefd7278d0966133}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{fullhash}{3723a13132c033a9fefd7278d0966133}
+      \strng{bibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorbibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authornamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorfullhash}{3723a13132c033a9fefd7278d0966133}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Deutsche Übersetzung herausgegeben von Jürgen Markl}
+      \field{title}{Biologie}
+      \field{year}{1997}
     \endentry
     \entry{Canali2018}{article}{}
       \name{author}{2}{}{%
@@ -338,11 +487,14 @@
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/1179069518809666
+      \endverb
       \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \verb{url}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
     \endentry
     \entry{CellSignaling2026}{online}{}
@@ -399,9 +551,9 @@
       \field{labeltitlesource}{title}
       \field{title}{Überblick über das Immunsystem}
       \field{urlday}{14}
-      \field{urlmonth}{1}
+      \field{urlmonth}{6}
       \field{urlyear}{2026}
-      \field{year}{2024}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.msdmanuals.com/de/profi/immunologie-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem
@@ -454,11 +606,14 @@
       \field{urldateera}{ce}
       \field{pages}{C723\bibrangedash C742}
       \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1152/ajpcell.00462.2010
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \verb https://doi.org/10.1152/ajpcell.00462.2010
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \verb https://doi.org/10.1152/ajpcell.00462.2010
       \endverb
     \endentry
     \entry{Fernandez2026}{online}{}
@@ -722,11 +877,14 @@
       \field{urldateera}{ce}
       \field{pages}{391\bibrangedash 404}
       \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S1474-4422(15)00401-9
+      \endverb
       \verb{urlraw}
-      \verb https://www.thelancet.com/action/showPdf?pii=S1474-4422(15)00401-9
+      \verb https://doi.org/10.1016/S1474-4422(15)00401-9
       \endverb
       \verb{url}
-      \verb https://www.thelancet.com/action/showPdf?pii=S1474-4422(15)00401-9
+      \verb https://doi.org/10.1016/S1474-4422(15)00401-9
       \endverb
     \endentry
     \entry{Habib2025}{article}{}
@@ -921,10 +1079,10 @@
       \verb 10.1212/NXI.0000000000200423
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12202018/
+      \verb https://doi.org/10.1212/NXI.0000000000200423
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12202018/
+      \verb https://doi.org/10.1212/NXI.0000000000200423
       \endverb
     \endentry
     \entry{Hackenberg}{thesis}{}
@@ -954,7 +1112,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Dissertationsschrift}
+      \field{title}{Immunhistologische Charakterisierung des nickelinduzierten Kontaktekzems anhand von T-Zellinfiltrat, Adhäsionsmolekülen und Proliferations-/ Apoptosephänomenen}
       \field{type}{phdthesis}
       \field{urlday}{23}
       \field{urlmonth}{3}
@@ -1020,7 +1178,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene Expression Patterns}
-      \field{number}{1-2}
+      \field{number}{1}
       \field{title}{The Neurexin Superfamily of \textit{Caenorhabditis elegans}}
       \field{urlday}{12}
       \field{urlmonth}{1}
@@ -1030,11 +1188,14 @@
       \field{urldateera}{ce}
       \field{pages}{144\bibrangedash 150}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.gep.2010.10.008
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12414531/
+      \verb https://doi.org/10.1016/j.gep.2010.10.008
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12414531/
+      \verb https://doi.org/10.1016/j.gep.2010.10.008
       \endverb
     \endentry
     \entry{Heine2022}{article}{}
@@ -1089,21 +1250,24 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Der Nervenarzt}
-      \field{number}{5}
+      \field{number}{6}
       \field{title}{Autoimmunenzephalitis -- ein Update}
       \field{urlday}{15}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
-      \field{volume}{93}
+      \field{volume}{94}
       \field{year}{2022}
       \field{urldateera}{ce}
       \field{pages}{525\bibrangedash 537}
       \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00115-022-01411-1
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9748390/
+      \verb https://doi.org/10.1007/s00115-022-01411-1
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9748390/
+      \verb https://doi.org/10.1007/s00115-022-01411-1
       \endverb
     \endentry
     \entry{doccheck_igg}{online}{}
@@ -1291,15 +1455,18 @@
       \field{urlmonth}{1}
       \field{urlyear}{2026}
       \field{volume}{12}
-      \field{year}{2015}
+      \field{year}{2016}
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
+      \verb{doi}
+      \verb 10.3988/jcn.2016.12.1.1
+      \endverb
       \verb{urlraw}
-      \verb https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1
+      \verb https://doi.org/10.3988/jcn.2016.12.1.1
       \endverb
       \verb{url}
-      \verb https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1
+      \verb https://doi.org/10.3988/jcn.2016.12.1.1
       \endverb
     \endentry
     \entry{Macian2004}{article}{}
@@ -1312,80 +1479,51 @@
            given={Fernando},
            giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7ce77aca6e996940cc38037b7df0b9d}{%
-           family={García-Cózar},
-           familyi={G\bibinithyphendelim C\bibinitperiod},
-           given={Francisco},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
         {{un=0,uniquepart=base,hash=4751d62d855d99b7362100af7b6efb9d}{%
            family={Im},
            familyi={I\bibinitperiod},
            given={Seon-Hee},
            giveni={S\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7ce77aca6e996940cc38037b7df0b9d}{%
+           family={García-Cózar},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{045da5094fce31b40442c4fe62b48981}
-      \strng{fullhash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
-      \strng{bibnamehash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
-      \strng{authorbibnamehash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
+      \strng{fullhash}{c84473352a9736c9e4730edf71256404}
+      \strng{bibnamehash}{c84473352a9736c9e4730edf71256404}
+      \strng{authorbibnamehash}{c84473352a9736c9e4730edf71256404}
       \strng{authornamehash}{045da5094fce31b40442c4fe62b48981}
-      \strng{authorfullhash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
+      \strng{authorfullhash}{c84473352a9736c9e4730edf71256404}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Investigación Clínica}
-      \field{number}{1}
+      \field{journaltitle}{Current Opinion in Immunology}
+      \field{number}{2}
       \field{title}{{T} Cell Anergy}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
-      \field{volume}{45}
+      \field{volume}{16}
       \field{year}{2004}
       \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 2}
-      \range{pages}{2}
+      \field{pages}{209\bibrangedash 216}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.coi.2004.01.013
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/15023415/
+      \verb https://doi.org/10.1016/j.coi.2004.01.013
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/15023415/
+      \verb https://doi.org/10.1016/j.coi.2004.01.013
       \endverb
-    \endentry
-    \entry{Markl1997}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Spektrum Akademischer Verlag}%
-      }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{1}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Biologie}
-      \field{year}{1997}
     \endentry
     \entry{Mitrevski}{online}{}
       \name{author}{4}{}{%
@@ -1428,9 +1566,9 @@
       \field{labeltitlesource}{title}
       \field{title}{{CASPR2}-Antikörper-Enzephalitis}
       \field{urlday}{20}
-      \field{urlmonth}{3}
+      \field{urlmonth}{7}
       \field{urlyear}{2026}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://flexikon.doccheck.com/de/CASPR2-Antik%C3%B6rper-Enzephalitis
@@ -1585,19 +1723,19 @@
       \verb 10.1111/jnc.70388
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12926859/
+      \verb https://doi.org/10.1111/jnc.70388
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12926859/
+      \verb https://doi.org/10.1111/jnc.70388
       \endverb
     \endentry
     \entry{Olsen2015}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e2034ac401f606f9edfeb18d3a77517e}{%
+        {{un=0,uniquepart=base,hash=381225b1148947ae2d0ae0a42daf47cf}{%
            family={Olsen},
            familyi={O\bibinitperiod},
-           given={Abby},
-           giveni={A\bibinitperiod},
+           given={Abby\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=b401822045a3fc0c2ce323e119cc3725}{%
            family={Lai},
@@ -1624,12 +1762,12 @@
            giveni={E\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{fullhash}{72febca08ce0dfb77a953aa1cd63d1f1}
-      \strng{bibnamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authorbibnamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authornamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authorfullhash}{72febca08ce0dfb77a953aa1cd63d1f1}
+      \strng{namehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{fullhash}{405f37ddc3bc2d680c41f5fff2dfbd31}
+      \strng{bibnamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authorbibnamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authornamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authorfullhash}{405f37ddc3bc2d680c41f5fff2dfbd31}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -1638,7 +1776,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Neurology: Neuroimmunology \& Neuroinflammation}
       \field{number}{4}
-      \field{title}{{Caspr2} Autoantibodies Target Multiple Epitopes}
+      \field{title}{Caspr2 Autoantibodies Target Multiple Epitopes}
       \field{urlday}{20}
       \field{urlmonth}{3}
       \field{urlyear}{2026}
@@ -1647,11 +1785,14 @@
       \field{urldateera}{ce}
       \field{pages}{e127}
       \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1212/NXI.0000000000000127
+      \endverb
       \verb{urlraw}
-      \verb https://www.neurology.org/doi/10.1212/NXI.0000000000000127
+      \verb https://doi.org/10.1212/NXI.0000000000000127
       \endverb
       \verb{url}
-      \verb https://www.neurology.org/doi/10.1212/NXI.0000000000000127
+      \verb https://doi.org/10.1212/NXI.0000000000000127
       \endverb
     \endentry
     \entry{DocCheckMonoklonal}{online}{}
@@ -1785,30 +1926,79 @@
       \field{urldateera}{ce}
       \field{pages}{40\bibrangedash 51}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/ana.25120
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5876120/pdf/nihms930925.pdf
+      \verb https://doi.org/10.1002/ana.25120
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5876120/pdf/nihms930925.pdf
+      \verb https://doi.org/10.1002/ana.25120
       \endverb
     \endentry
     \entry{Pinatel2015}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b583739aab3f3e4ebf76a2a1c4979ea3}{%
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=36edd9b3383f296586ff72323484bcce}{%
            family={Pinatel},
            familyi={P\bibinitperiod},
-           given={Desdemona},
+           given={Delphine},
            giveni={D\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb0529d8365686af585858ca6c95e6aa}{%
+           family={Hivert},
+           familyi={H\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eb3dd82633c8ad50ab0a794eae68d36}{%
+           family={Boucraut},
+           familyi={B\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff5fee9043ed7e0299e668610429f052}{%
+           family={Saint-Martin},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Margaux},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39613629544cbafe90b1fd068f482c00}{%
+           family={Rogemond},
+           familyi={R\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19ebf35806fd56c2309e00f9782b92bd}{%
+           family={Zoupi},
+           familyi={Z\bibinitperiod},
+           given={Lida},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60f07c816136063372989138047cf4f6}{%
+           family={Karagogeos},
+           familyi={K\bibinitperiod},
+           given={Domna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1480d0855f61fbd2bcb5cc91d1e5b30c}{%
+           family={Honnorat},
+           familyi={H\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=273d795ce126f85177bd75e6585cec98}{%
+           family={Faivre-Sarrailh},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{fullhash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{bibnamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authorbibnamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authornamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authorfullhash}{c64242a01c9acaff4b4950ff9d110580}
+      \strng{namehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{fullhash}{6d720bfef8cfae16789722c036422499}
+      \strng{bibnamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authorbibnamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authornamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authorfullhash}{6d720bfef8cfae16789722c036422499}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -1825,11 +2015,14 @@
       \field{urldateera}{ce}
       \field{pages}{265}
       \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fncel.2015.00265
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/26217189/
+      \verb https://doi.org/10.3389/fncel.2015.00265
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/26217189/
+      \verb https://doi.org/10.3389/fncel.2015.00265
       \endverb
     \endentry
     \entry{Poliak1999}{article}{}
@@ -1912,11 +2105,14 @@
       \field{urldateera}{ce}
       \field{pages}{1037\bibrangedash 1047}
       \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/s0896-6273(00)81049-1
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/10624965/
+      \verb https://doi.org/10.1016/s0896-6273(00)81049-1
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/10624965/
+      \verb https://doi.org/10.1016/s0896-6273(00)81049-1
       \endverb
     \endentry
     \entry{MSDNeuromyothonie2024}{online}{}
@@ -1997,11 +2193,14 @@
       \field{urldateera}{ce}
       \field{pages}{661\bibrangedash 665}
       \range{pages}{5}
+      \verb{doi}
+      \verb 10.1289/ehp.99107s5661
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
+      \verb https://doi.org/10.1289/ehp.99107s5661
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
+      \verb https://doi.org/10.1289/ehp.99107s5661
       \endverb
     \endentry
     \entry{UniHeidelbergAE2026}{online}{}
@@ -2221,7 +2420,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Brain, Behavior, and Immunity}
-      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
+      \field{title}{Human Cerebrospinal Fluid Monoclonal {CASPR2} Autoantibodies Induce Changes in Electrophysiology, Functional {MRI}, and Behavior in Rodent Models}
       \field{urlday}{27}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
@@ -2234,16 +2433,16 @@
       \verb 10.1016/j.bbi.2024.08.027
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \verb https://doi.org/10.1016/j.bbi.2024.08.027
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \verb https://doi.org/10.1016/j.bbi.2024.08.027
       \endverb
     \endentry
     \entry{VanSonderen2016}{article}{}
       \true{moreauthor}
       \true{morelabelname}
-      \name{author}{2}{}{%
+      \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
            family={{van Sonderen}},
            familyi={v\bibinitperiod},
@@ -2256,13 +2455,19 @@
            given={Helena},
            giveni={H\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
+           family={Petit-Pedrol},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{fullhash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{bibnamehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{authorbibnamehash}{d723cdd8c445cc98fff4bf54e9189634}
+      \strng{fullhash}{981fe276ee16ad620c5981cfe1d4f96f}
+      \strng{bibnamehash}{981fe276ee16ad620c5981cfe1d4f96f}
+      \strng{authorbibnamehash}{981fe276ee16ad620c5981cfe1d4f96f}
       \strng{authornamehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{authorfullhash}{d723cdd8c445cc98fff4bf54e9189634}
+      \strng{authorfullhash}{981fe276ee16ad620c5981cfe1d4f96f}
       \field{sortinit}{v}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -2280,11 +2485,14 @@
       \field{urldateera}{ce}
       \field{pages}{521\bibrangedash 528}
       \range{pages}{8}
+      \verb{doi}
+      \verb 10.1212/WNL.0000000000002917
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
+      \verb https://doi.org/10.1212/WNL.0000000000002917
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
+      \verb https://doi.org/10.1212/WNL.0000000000002917
       \endverb
     \endentry
     \entry{VanSonderenNatRev2016}{article}{}
@@ -2329,19 +2537,24 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Reviews Neurology}
+      \field{number}{5}
       \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
       \field{urlday}{10}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
+      \field{volume}{13}
       \field{year}{2017}
       \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 12}
+      \field{pages}{290\bibrangedash 301}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nrneurol.2017.43
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
     \endentry
     \entry{Varea2015}{article}{}
@@ -2427,7 +2640,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
       \field{number}{19}
-      \field{title}{Synaptic abnormalities and cytoplasmic glutamate receptor aggregates in contactin associated protein-like 2/{Caspr2} knockout neurons}
+      \field{title}{Synaptic Abnormalities and Cytoplasmic Glutamate Receptor Aggregates in Contactin Associated Protein-Like 2/{Caspr2} Knockout Neurons}
       \field{urlday}{27}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
@@ -2440,10 +2653,10 @@
       \verb 10.1073/pnas.1423205112
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4434727/
+      \verb https://doi.org/10.1073/pnas.1423205112
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4434727/
+      \verb https://doi.org/10.1073/pnas.1423205112
       \endverb
     \endentry
     \entry{MediKarriere2024}{online}{}
@@ -2469,7 +2682,7 @@
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.1)}
       \field{title}{Neuron: Aufbau und Funktion}
-      \field{urlday}{13}
+      \field{urlday}{26}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2026}
@@ -2520,11 +2733,11 @@
     \endentry
     \entry{MarklBild1997b}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
+        {{un=0,uniquepart=base,hash=3723a13132c033a9fefd7278d0966133}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
@@ -2533,12 +2746,12 @@
       \list{publisher}{1}{%
         {Spektrum Akademischer Verlag}%
       }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
+      \strng{namehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{fullhash}{3723a13132c033a9fefd7278d0966133}
+      \strng{bibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorbibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authornamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorfullhash}{3723a13132c033a9fefd7278d0966133}
       \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -2548,7 +2761,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.3)}
-      \field{note}{S.~1091}
+      \field{note}{Deutsche Übersetzung herausgegeben von Jürgen Markl. S.~1091}
       \field{title}{Biologie}
       \field{year}{1997}
       \keyw{bild}
@@ -2668,15 +2881,24 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Reviews Neurology}
       \field{label}{(Abbildung 3.1)}
+      \field{number}{5}
       \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{13}
       \field{year}{2017}
-      \field{pages}{1\bibrangedash 12}
+      \field{urldateera}{ce}
+      \field{pages}{290\bibrangedash 301}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nrneurol.2017.43
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \keyw{bild}
     \endentry
@@ -2712,15 +2934,22 @@
       \field{journaltitle}{Journal of Experimental Neuroscience}
       \field{label}{(Abbildung 3.2)}
       \field{title}{{CNTNAP2} Heterozygous Missense Variants: Risk Factors for Autism Spectrum Disorder and/or Other Pathologies?}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{12}
       \field{year}{2018}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/1179069518809666
+      \endverb
       \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \verb{url}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \keyw{bild}
     \endentry
@@ -2765,11 +2994,14 @@
       \field{year}{2017}
       \field{pages}{839\bibrangedash 887}
       \range{pages}{49}
+      \verb{doi}
+      \verb 10.1152/physrev.00010.2016
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \verb https://doi.org/10.1152/physrev.00010.2016
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \verb https://doi.org/10.1152/physrev.00010.2016
       \endverb
       \keyw{bild}
     \endentry
@@ -2830,7 +3062,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.1)}
-      \field{title}{How to Prepare your Specimen for Immunofluorescence Microscopy}
+      \field{title}{How to Prepare Your Specimen for Immunofluorescence Microscopy}
       \field{urlday}{23}
       \field{urlmonth}{3}
       \field{urlyear}{2026}
@@ -3284,15 +3516,12 @@
            given={Ibrahim},
            giveni={I\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
-           family={Höfel},
-           familyi={H\bibinitperiod},
+        {{un=0,uniquepart=base,hash=0459436109b5dd72341e883cff1e8123}{%
+           family={{van den Höfel}},
+           familyi={v\bibinitperiod},
            given={Natascha},
            giveni={N\bibinitperiod},
-           givenun=0,
-           prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
-           prefixun=0}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=ab10e402fa3ad08fa7142e833c09240f}{%
            family={Ruppert},
            familyi={R\bibinitperiod},
@@ -3301,11 +3530,11 @@
            givenun=0}}%
       }
       \strng{namehash}{097f84fc7810dc377a9b977938afb134}
-      \strng{fullhash}{410b718a453427fb8221dafa7d65a650}
+      \strng{fullhash}{509a66756648265d6d86416c3eb0563c}
       \strng{bibnamehash}{097f84fc7810dc377a9b977938afb134}
       \strng{authorbibnamehash}{097f84fc7810dc377a9b977938afb134}
       \strng{authornamehash}{097f84fc7810dc377a9b977938afb134}
-      \strng{authorfullhash}{410b718a453427fb8221dafa7d65a650}
+      \strng{authorfullhash}{509a66756648265d6d86416c3eb0563c}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -3420,35 +3649,222 @@
       \endverb
     \endentry
     \entry{Bakkaloglu2008}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=522f9d450a8119b33f4eb998d8125d5c}{%
+      \name{author}{19}{}{%
+        {{un=0,uniquepart=base,hash=63fae2556b107b64f6e3784d6d7d95a0}{%
            family={Bakkaloglu},
            familyi={B\bibinitperiod},
-           given={Baris},
+           given={Betul},
            giveni={B\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=44d1d065d1b39dea0e1d10febc2089c0}{%
+           family={O'Roak},
+           familyi={O\bibinitperiod},
+           given={Brian\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fbebd13ba4063067df4d950a78af7d6}{%
+           family={Louvi},
+           familyi={L\bibinitperiod},
+           given={Angeliki},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=191cc5e88ba44d2a6ce1f03cfe3187b7}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Abha\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38ee6da4eeea29b4230f0620fd40982c}{%
+           family={Abelson},
+           familyi={A\bibinitperiod},
+           given={Jesse\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50f3a498ed20124c9b47dbd3b958ba07}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77db9d882b31f9f7692439857388b308}{%
+           family={Chawarska},
+           familyi={C\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=541a9cb2f5e358efd62913bdd89d98f0}{%
+           family={Klin},
+           familyi={K\bibinitperiod},
+           given={Ami},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7730cb938bf3ca954461f5255d2af1e}{%
+           family={Ercan-Sencicek},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={A.\bibnamedelimi Gulhan},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2022f569b2f20ff2300926ebbacb3d1}{%
+           family={Stillman},
+           familyi={S\bibinitperiod},
+           given={Althea\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1033a20c674b423097a232f25ece0826}{%
+           family={Tanriover},
+           familyi={T\bibinitperiod},
+           given={Gamze},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9ef6afdbaf8dc88b7100e46a74ba789}{%
+           family={Abrahams},
+           familyi={A\bibinitperiod},
+           given={Brett\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45c7b504c1dfb8f0b2f9094553b9c039}{%
+           family={Duvall},
+           familyi={D\bibinitperiod},
+           given={Jackie\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e61bcd089ffac888dfbe1ca90618e8f7}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Elissa\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22c2b9fbca6cb1ce0839c9a4745d4624}{%
+           family={Geschwind},
+           familyi={G\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe041ab73d69522eb8e38679b342e90}{%
+           family={Biederer},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db1b897f5df987a746036d941ec88750}{%
+           family={Gunel},
+           familyi={G\bibinitperiod},
+           given={Murat},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=71e69d91adde0ebaa769b329edf2bbef}{%
+           family={Lifton},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd6de693677bbb4150f92de9360093e8}{%
+           family={State},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{fullhash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{bibnamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authorbibnamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authornamehash}{0690996aa1efe141cb277674e5b25feb}
-      \strng{authorfullhash}{0690996aa1efe141cb277674e5b25feb}
+      \strng{namehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{fullhash}{75f09edcf5c219edd82e7f2703954307}
+      \strng{bibnamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authorbibnamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authornamehash}{9ea69d6836cf5c9620a7d97a54c0fdb4}
+      \strng{authorfullhash}{75f09edcf5c219edd82e7f2703954307}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of Human Genetics}
+      \field{journaltitle}{The American Journal of Human Genetics}
       \field{number}{1}
       \field{title}{Molecular Cytogenetic Analysis and Resequencing of Contactin Associated Protein-Like 2 in Autism Spectrum Disorders}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{82}
       \field{year}{2008}
+      \field{urldateera}{ce}
       \field{pages}{165\bibrangedash 173}
       \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.ajhg.2007.09.017
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.ajhg.2007.09.017
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.ajhg.2007.09.017
+      \endverb
+    \endentry
+    \entry{Markl1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3723a13132c033a9fefd7278d0966133}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{fullhash}{3723a13132c033a9fefd7278d0966133}
+      \strng{bibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorbibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authornamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorfullhash}{3723a13132c033a9fefd7278d0966133}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Deutsche Übersetzung herausgegeben von Jürgen Markl}
+      \field{title}{Biologie}
+      \field{year}{1997}
+    \endentry
+    \entry{MarklBild1997b}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3723a13132c033a9fefd7278d0966133}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Neil\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Spektrum Akademischer Verlag}%
+      }
+      \strng{namehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{fullhash}{3723a13132c033a9fefd7278d0966133}
+      \strng{bibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorbibnamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authornamehash}{3723a13132c033a9fefd7278d0966133}
+      \strng{authorfullhash}{3723a13132c033a9fefd7278d0966133}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{label}{(Abbildung 2.3)}
+      \field{note}{Deutsche Übersetzung herausgegeben von Jürgen Markl. S.~1091}
+      \field{title}{Biologie}
+      \field{year}{1997}
+      \keyw{bild}
     \endentry
     \entry{Canali2018}{article}{}
       \name{author}{2}{}{%
@@ -3489,11 +3905,14 @@
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/1179069518809666
+      \endverb
       \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \verb{url}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
     \endentry
     \entry{CanaliBild2018}{article}{}
@@ -3528,15 +3947,22 @@
       \field{journaltitle}{Journal of Experimental Neuroscience}
       \field{label}{(Abbildung 3.2)}
       \field{title}{{CNTNAP2} Heterozygous Missense Variants: Risk Factors for Autism Spectrum Disorder and/or Other Pathologies?}
+      \field{urlday}{14}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
       \field{volume}{12}
       \field{year}{2018}
+      \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 7}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1177/1179069518809666
+      \endverb
       \verb{urlraw}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \verb{url}
-      \verb https://journals.sagepub.com/doi/full/10.1177/1179069518809666
+      \verb https://doi.org/10.1177/1179069518809666
       \endverb
       \keyw{bild}
     \endentry
@@ -3612,11 +4038,14 @@
       \field{year}{2017}
       \field{pages}{839\bibrangedash 887}
       \range{pages}{49}
+      \verb{doi}
+      \verb 10.1152/physrev.00010.2016
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \verb https://doi.org/10.1152/physrev.00010.2016
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5539405/
+      \verb https://doi.org/10.1152/physrev.00010.2016
       \endverb
       \keyw{bild}
     \endentry
@@ -3643,9 +4072,9 @@
       \field{labeltitlesource}{title}
       \field{title}{Überblick über das Immunsystem}
       \field{urlday}{14}
-      \field{urlmonth}{1}
+      \field{urlmonth}{6}
       \field{urlyear}{2026}
-      \field{year}{2024}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://www.msdmanuals.com/de/profi/immunologie-allergien/biologie-des-immunsystems/%C3%BCberblick-%C3%BCber-das-immunsystem
@@ -3698,11 +4127,14 @@
       \field{urldateera}{ce}
       \field{pages}{C723\bibrangedash C742}
       \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1152/ajpcell.00462.2010
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \verb https://doi.org/10.1152/ajpcell.00462.2010
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC3074624/
+      \verb https://doi.org/10.1152/ajpcell.00462.2010
       \endverb
     \endentry
     \entry{eigenAu6.1}{misc}{}
@@ -4254,11 +4686,14 @@
       \field{urldateera}{ce}
       \field{pages}{391\bibrangedash 404}
       \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S1474-4422(15)00401-9
+      \endverb
       \verb{urlraw}
-      \verb https://www.thelancet.com/action/showPdf?pii=S1474-4422(15)00401-9
+      \verb https://doi.org/10.1016/S1474-4422(15)00401-9
       \endverb
       \verb{url}
-      \verb https://www.thelancet.com/action/showPdf?pii=S1474-4422(15)00401-9
+      \verb https://doi.org/10.1016/S1474-4422(15)00401-9
       \endverb
     \endentry
     \entry{Habib2025}{article}{}
@@ -4453,10 +4888,10 @@
       \verb 10.1212/NXI.0000000000200423
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12202018/
+      \verb https://doi.org/10.1212/NXI.0000000000200423
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12202018/
+      \verb https://doi.org/10.1212/NXI.0000000000200423
       \endverb
     \endentry
     \entry{Hackenberg}{thesis}{}
@@ -4486,7 +4921,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Dissertationsschrift}
+      \field{title}{Immunhistologische Charakterisierung des nickelinduzierten Kontaktekzems anhand von T-Zellinfiltrat, Adhäsionsmolekülen und Proliferations-/ Apoptosephänomenen}
       \field{type}{phdthesis}
       \field{urlday}{23}
       \field{urlmonth}{3}
@@ -4552,7 +4987,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Gene Expression Patterns}
-      \field{number}{1-2}
+      \field{number}{1}
       \field{title}{The Neurexin Superfamily of \textit{Caenorhabditis elegans}}
       \field{urlday}{12}
       \field{urlmonth}{1}
@@ -4562,11 +4997,14 @@
       \field{urldateera}{ce}
       \field{pages}{144\bibrangedash 150}
       \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.gep.2010.10.008
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12414531/
+      \verb https://doi.org/10.1016/j.gep.2010.10.008
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12414531/
+      \verb https://doi.org/10.1016/j.gep.2010.10.008
       \endverb
     \endentry
     \entry{Heine2022}{article}{}
@@ -4621,21 +5059,24 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Der Nervenarzt}
-      \field{number}{5}
+      \field{number}{6}
       \field{title}{Autoimmunenzephalitis -- ein Update}
       \field{urlday}{15}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
-      \field{volume}{93}
+      \field{volume}{94}
       \field{year}{2022}
       \field{urldateera}{ce}
       \field{pages}{525\bibrangedash 537}
       \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s00115-022-01411-1
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9748390/
+      \verb https://doi.org/10.1007/s00115-022-01411-1
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC9748390/
+      \verb https://doi.org/10.1007/s00115-022-01411-1
       \endverb
     \endentry
     \entry{doccheck_igg}{online}{}
@@ -4783,7 +5224,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 5.1)}
-      \field{title}{How to Prepare your Specimen for Immunofluorescence Microscopy}
+      \field{title}{How to Prepare Your Specimen for Immunofluorescence Microscopy}
       \field{urlday}{23}
       \field{urlmonth}{3}
       \field{urlyear}{2026}
@@ -4820,7 +5261,7 @@
       \field{labeltitlesource}{title}
       \field{label}{(Abbildung 2.1)}
       \field{title}{Neuron: Aufbau und Funktion}
-      \field{urlday}{13}
+      \field{urlday}{26}
       \field{urlmonth}{8}
       \field{urlyear}{2026}
       \field{year}{2026}
@@ -4931,15 +5372,18 @@
       \field{urlmonth}{1}
       \field{urlyear}{2026}
       \field{volume}{12}
-      \field{year}{2015}
+      \field{year}{2016}
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
+      \verb{doi}
+      \verb 10.3988/jcn.2016.12.1.1
+      \endverb
       \verb{urlraw}
-      \verb https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1
+      \verb https://doi.org/10.3988/jcn.2016.12.1.1
       \endverb
       \verb{url}
-      \verb https://www.thejcn.com/DOIx.php?id=10.3988/jcn.2016.12.1.1
+      \verb https://doi.org/10.3988/jcn.2016.12.1.1
       \endverb
     \endentry
     \entry{Macian2004}{article}{}
@@ -4952,115 +5396,51 @@
            given={Fernando},
            giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7ce77aca6e996940cc38037b7df0b9d}{%
-           family={García-Cózar},
-           familyi={G\bibinithyphendelim C\bibinitperiod},
-           given={Francisco},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
         {{un=0,uniquepart=base,hash=4751d62d855d99b7362100af7b6efb9d}{%
            family={Im},
            familyi={I\bibinitperiod},
            given={Seon-Hee},
            giveni={S\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7ce77aca6e996940cc38037b7df0b9d}{%
+           family={García-Cózar},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{045da5094fce31b40442c4fe62b48981}
-      \strng{fullhash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
-      \strng{bibnamehash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
-      \strng{authorbibnamehash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
+      \strng{fullhash}{c84473352a9736c9e4730edf71256404}
+      \strng{bibnamehash}{c84473352a9736c9e4730edf71256404}
+      \strng{authorbibnamehash}{c84473352a9736c9e4730edf71256404}
       \strng{authornamehash}{045da5094fce31b40442c4fe62b48981}
-      \strng{authorfullhash}{923042e7ed3fdc66bbef9e9e1ec88d5f}
+      \strng{authorfullhash}{c84473352a9736c9e4730edf71256404}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Investigación Clínica}
-      \field{number}{1}
+      \field{journaltitle}{Current Opinion in Immunology}
+      \field{number}{2}
       \field{title}{{T} Cell Anergy}
       \field{urlday}{14}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
-      \field{volume}{45}
+      \field{volume}{16}
       \field{year}{2004}
       \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 2}
-      \range{pages}{2}
+      \field{pages}{209\bibrangedash 216}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.coi.2004.01.013
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/15023415/
+      \verb https://doi.org/10.1016/j.coi.2004.01.013
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/15023415/
+      \verb https://doi.org/10.1016/j.coi.2004.01.013
       \endverb
-    \endentry
-    \entry{Markl1997}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Spektrum Akademischer Verlag}%
-      }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{1}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Biologie}
-      \field{year}{1997}
-    \endentry
-    \entry{MarklBild1997b}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8ea6f121e76a11acc5b990f44970f69f}{%
-           family={Markl},
-           familyi={M\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Spektrum Akademischer Verlag}%
-      }
-      \strng{namehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{fullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{bibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorbibnamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authornamehash}{8ea6f121e76a11acc5b990f44970f69f}
-      \strng{authorfullhash}{8ea6f121e76a11acc5b990f44970f69f}
-      \field{extraname}{2}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{label}{(Abbildung 2.3)}
-      \field{note}{S.~1091}
-      \field{title}{Biologie}
-      \field{year}{1997}
-      \keyw{bild}
     \endentry
     \entry{Mitrevski}{online}{}
       \name{author}{4}{}{%
@@ -5103,9 +5483,9 @@
       \field{labeltitlesource}{title}
       \field{title}{{CASPR2}-Antikörper-Enzephalitis}
       \field{urlday}{20}
-      \field{urlmonth}{3}
+      \field{urlmonth}{7}
       \field{urlyear}{2026}
-      \field{year}{2025}
+      \field{year}{2026}
       \field{urldateera}{ce}
       \verb{urlraw}
       \verb https://flexikon.doccheck.com/de/CASPR2-Antik%C3%B6rper-Enzephalitis
@@ -5296,19 +5676,19 @@
       \verb 10.1111/jnc.70388
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12926859/
+      \verb https://doi.org/10.1111/jnc.70388
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC12926859/
+      \verb https://doi.org/10.1111/jnc.70388
       \endverb
     \endentry
     \entry{Olsen2015}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=e2034ac401f606f9edfeb18d3a77517e}{%
+        {{un=0,uniquepart=base,hash=381225b1148947ae2d0ae0a42daf47cf}{%
            family={Olsen},
            familyi={O\bibinitperiod},
-           given={Abby},
-           giveni={A\bibinitperiod},
+           given={Abby\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=b401822045a3fc0c2ce323e119cc3725}{%
            family={Lai},
@@ -5335,12 +5715,12 @@
            giveni={E\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{fullhash}{72febca08ce0dfb77a953aa1cd63d1f1}
-      \strng{bibnamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authorbibnamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authornamehash}{f7d1053e857dc4c5abbad058edbb18b1}
-      \strng{authorfullhash}{72febca08ce0dfb77a953aa1cd63d1f1}
+      \strng{namehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{fullhash}{405f37ddc3bc2d680c41f5fff2dfbd31}
+      \strng{bibnamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authorbibnamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authornamehash}{9c06b6e306923a4e8fe0e5a741b728f9}
+      \strng{authorfullhash}{405f37ddc3bc2d680c41f5fff2dfbd31}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
@@ -5349,7 +5729,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Neurology: Neuroimmunology \& Neuroinflammation}
       \field{number}{4}
-      \field{title}{{Caspr2} Autoantibodies Target Multiple Epitopes}
+      \field{title}{Caspr2 Autoantibodies Target Multiple Epitopes}
       \field{urlday}{20}
       \field{urlmonth}{3}
       \field{urlyear}{2026}
@@ -5358,11 +5738,14 @@
       \field{urldateera}{ce}
       \field{pages}{e127}
       \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1212/NXI.0000000000000127
+      \endverb
       \verb{urlraw}
-      \verb https://www.neurology.org/doi/10.1212/NXI.0000000000000127
+      \verb https://doi.org/10.1212/NXI.0000000000000127
       \endverb
       \verb{url}
-      \verb https://www.neurology.org/doi/10.1212/NXI.0000000000000127
+      \verb https://doi.org/10.1212/NXI.0000000000000127
       \endverb
     \endentry
     \entry{DocCheckMonoklonal}{online}{}
@@ -5531,30 +5914,79 @@
       \field{urldateera}{ce}
       \field{pages}{40\bibrangedash 51}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/ana.25120
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5876120/pdf/nihms930925.pdf
+      \verb https://doi.org/10.1002/ana.25120
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC5876120/pdf/nihms930925.pdf
+      \verb https://doi.org/10.1002/ana.25120
       \endverb
     \endentry
     \entry{Pinatel2015}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b583739aab3f3e4ebf76a2a1c4979ea3}{%
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=36edd9b3383f296586ff72323484bcce}{%
            family={Pinatel},
            familyi={P\bibinitperiod},
-           given={Desdemona},
+           given={Delphine},
            giveni={D\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb0529d8365686af585858ca6c95e6aa}{%
+           family={Hivert},
+           familyi={H\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0eb3dd82633c8ad50ab0a794eae68d36}{%
+           family={Boucraut},
+           familyi={B\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff5fee9043ed7e0299e668610429f052}{%
+           family={Saint-Martin},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Margaux},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39613629544cbafe90b1fd068f482c00}{%
+           family={Rogemond},
+           familyi={R\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19ebf35806fd56c2309e00f9782b92bd}{%
+           family={Zoupi},
+           familyi={Z\bibinitperiod},
+           given={Lida},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60f07c816136063372989138047cf4f6}{%
+           family={Karagogeos},
+           familyi={K\bibinitperiod},
+           given={Domna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1480d0855f61fbd2bcb5cc91d1e5b30c}{%
+           family={Honnorat},
+           familyi={H\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=273d795ce126f85177bd75e6585cec98}{%
+           family={Faivre-Sarrailh},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{fullhash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{bibnamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authorbibnamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authornamehash}{c64242a01c9acaff4b4950ff9d110580}
-      \strng{authorfullhash}{c64242a01c9acaff4b4950ff9d110580}
+      \strng{namehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{fullhash}{6d720bfef8cfae16789722c036422499}
+      \strng{bibnamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authorbibnamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authornamehash}{aa6e08387a8ed896a3939e182dcc3ae0}
+      \strng{authorfullhash}{6d720bfef8cfae16789722c036422499}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -5571,11 +6003,14 @@
       \field{urldateera}{ce}
       \field{pages}{265}
       \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fncel.2015.00265
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/26217189/
+      \verb https://doi.org/10.3389/fncel.2015.00265
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/26217189/
+      \verb https://doi.org/10.3389/fncel.2015.00265
       \endverb
     \endentry
     \entry{Poliak1999}{article}{}
@@ -5658,11 +6093,14 @@
       \field{urldateera}{ce}
       \field{pages}{1037\bibrangedash 1047}
       \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/s0896-6273(00)81049-1
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/10624965/
+      \verb https://doi.org/10.1016/s0896-6273(00)81049-1
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/10624965/
+      \verb https://doi.org/10.1016/s0896-6273(00)81049-1
       \endverb
     \endentry
     \entry{IGGbild_4u}{online}{}
@@ -5779,11 +6217,14 @@
       \field{urldateera}{ce}
       \field{pages}{661\bibrangedash 665}
       \range{pages}{5}
+      \verb{doi}
+      \verb 10.1289/ehp.99107s5661
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
+      \verb https://doi.org/10.1289/ehp.99107s5661
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC1566249/
+      \verb https://doi.org/10.1289/ehp.99107s5661
       \endverb
     \endentry
     \entry{UniHeidelbergAE2026}{online}{}
@@ -6003,7 +6444,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Brain, Behavior, and Immunity}
-      \field{title}{Human cerebrospinal fluid monoclonal {CASPR2} autoantibodies induce changes in electrophysiology, functional {MRI}, and behavior in rodent models}
+      \field{title}{Human Cerebrospinal Fluid Monoclonal {CASPR2} Autoantibodies Induce Changes in Electrophysiology, Functional {MRI}, and Behavior in Rodent Models}
       \field{urlday}{27}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
@@ -6016,16 +6457,16 @@
       \verb 10.1016/j.bbi.2024.08.027
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \verb https://doi.org/10.1016/j.bbi.2024.08.027
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC7618075/
+      \verb https://doi.org/10.1016/j.bbi.2024.08.027
       \endverb
     \endentry
     \entry{VanSonderen2016}{article}{}
       \true{moreauthor}
       \true{morelabelname}
-      \name{author}{2}{}{%
+      \name{author}{3}{ul=2}{%
         {{un=0,uniquepart=base,hash=7fa59358db1428c7adc1b98895410609}{%
            family={{van Sonderen}},
            familyi={v\bibinitperiod},
@@ -6038,13 +6479,19 @@
            given={Helena},
            giveni={H\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=55fe9675dae6d9fea355c9fa8b245b18}{%
+           family={Petit-Pedrol},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Mar},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{fullhash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{bibnamehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{authorbibnamehash}{d723cdd8c445cc98fff4bf54e9189634}
+      \strng{fullhash}{981fe276ee16ad620c5981cfe1d4f96f}
+      \strng{bibnamehash}{981fe276ee16ad620c5981cfe1d4f96f}
+      \strng{authorbibnamehash}{981fe276ee16ad620c5981cfe1d4f96f}
       \strng{authornamehash}{d723cdd8c445cc98fff4bf54e9189634}
-      \strng{authorfullhash}{d723cdd8c445cc98fff4bf54e9189634}
+      \strng{authorfullhash}{981fe276ee16ad620c5981cfe1d4f96f}
       \field{sortinit}{v}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{extradatescope}{labelyear}
@@ -6062,11 +6509,14 @@
       \field{urldateera}{ce}
       \field{pages}{521\bibrangedash 528}
       \range{pages}{8}
+      \verb{doi}
+      \verb 10.1212/WNL.0000000000002917
+      \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
+      \verb https://doi.org/10.1212/WNL.0000000000002917
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4970662/
+      \verb https://doi.org/10.1212/WNL.0000000000002917
       \endverb
     \endentry
     \entry{VanSonderenNatRev2016}{article}{}
@@ -6111,19 +6561,24 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Reviews Neurology}
+      \field{number}{5}
       \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
       \field{urlday}{10}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
+      \field{volume}{13}
       \field{year}{2017}
       \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 12}
+      \field{pages}{290\bibrangedash 301}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nrneurol.2017.43
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
     \endentry
     \entry{SonderenBild2017}{article}{}
@@ -6169,15 +6624,24 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature Reviews Neurology}
       \field{label}{(Abbildung 3.1)}
+      \field{number}{5}
       \field{title}{The Value of {LGI1}, {Caspr2} and Voltage-Gated Potassium Channel Antibodies in Encephalitis}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{13}
       \field{year}{2017}
-      \field{pages}{1\bibrangedash 12}
+      \field{urldateera}{ce}
+      \field{pages}{290\bibrangedash 301}
       \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nrneurol.2017.43
+      \endverb
       \verb{urlraw}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \verb{url}
-      \verb https://pubmed.ncbi.nlm.nih.gov/28418022/
+      \verb https://doi.org/10.1038/nrneurol.2017.43
       \endverb
       \keyw{bild}
     \endentry
@@ -6264,7 +6728,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Proceedings of the National Academy of Sciences of the United States of America}
       \field{number}{19}
-      \field{title}{Synaptic abnormalities and cytoplasmic glutamate receptor aggregates in contactin associated protein-like 2/{Caspr2} knockout neurons}
+      \field{title}{Synaptic Abnormalities and Cytoplasmic Glutamate Receptor Aggregates in Contactin Associated Protein-Like 2/{Caspr2} Knockout Neurons}
       \field{urlday}{27}
       \field{urlmonth}{9}
       \field{urlyear}{2026}
@@ -6277,10 +6741,10 @@
       \verb 10.1073/pnas.1423205112
       \endverb
       \verb{urlraw}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4434727/
+      \verb https://doi.org/10.1073/pnas.1423205112
       \endverb
       \verb{url}
-      \verb https://pmc.ncbi.nlm.nih.gov/articles/PMC4434727/
+      \verb https://doi.org/10.1073/pnas.1423205112
       \endverb
     \endentry
     \entry{DocCheckAPBIld}{online}{}

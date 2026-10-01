@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  30 SEP 2026 21:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  1 OCT 2026 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1437,9 +1437,9 @@ mune Encephalitis (GENERATE) (2026a).
  []
 
 
-Overfull \hbox (33.525pt too wide) in paragraph at lines 44--44
-[][]$\OMS/cmsy/m/n/12 ^^O$ \TU/lmr/m/n/12 Hackenberg, Stephan (2005). „  Disser
-tationsschrift“. Diss. München: Ludwig-Maximilians-
+Overfull \hbox (25.80928pt too wide) in paragraph at lines 44--44
+\TU/lmr/m/n/12 Proliferations-/ Apoptosephänomenen“. Diss. München: Ludwig-Maxi
+milians-Universität
  []
 
 [55]
@@ -1469,7 +1469,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  29950 strings out of 409617
  606883 string characters out of 5774012
- 1954191 words of memory out of 5000000
+ 1956191 words of memory out of 5000000
  51595 multiletter control sequences out of 15000+600000
  567119 words of font info for 89 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
