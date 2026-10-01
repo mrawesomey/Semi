@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  1 OCT 2026 22:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  1 OCT 2026 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1298,17 +1298,17 @@ File: abbildungen/fkammerDPU.jpeg Graphic file (type bmp)
 File: abbildungen/objektträgerDPU.png Graphic file (type bmp)
 <abbildungen/objektträgerDPU.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 []|\TU/lmr/m/n/12 Alexa-Fluor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 \TU/lmr/m/n/12 647 / CF640R
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
 \TU/lmr/m/n/12 Sekundär-AK
  []
 
@@ -1436,12 +1436,6 @@ Overfull \hbox (6.40324pt too wide) in paragraph at lines 44--44
 mune Encephalitis (GENERATE) (2026a).
  []
 
-
-Overfull \hbox (25.80928pt too wide) in paragraph at lines 44--44
-\TU/lmr/m/n/12 Proliferations-/ Apoptosephänomenen“. Diss. München: Ludwig-Maxi
-milians-Universität
- []
-
 [55]
 Overfull \hbox (0.37907pt too wide) in paragraph at lines 44--44
 [][]$\OMS/cmsy/m/n/12 ^^O$ \TU/lmr/m/n/12 Oxford Instruments (2025b). \TU/lmr/m
@@ -1462,20 +1456,15 @@ chapter 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29950 strings out of 409617
- 606883 string characters out of 5774012
+ 29951 strings out of 409617
+ 606896 string characters out of 5774012
  1956191 words of memory out of 5000000
- 51595 multiletter control sequences out of 15000+600000
+ 51596 multiletter control sequences out of 15000+600000
  567119 words of font info for 89 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  108i,18n,127p,11229b,5833s stack positions out of 10000i,1000n,20000p,200000b,200000s

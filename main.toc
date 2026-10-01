@@ -9,7 +9,7 @@
 \contentsline {chapter}{\numberline {4}Autoimmune Enzephalitis und CASPR2}{16}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Definition und Krankheitsbild}{16}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Wirkungsweise der Anti-Caspr2-Autoantikörper}{21}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Material}{23}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Methodisches Vorgehen}{23}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Indirekte Immunfluoreszenz}{23}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Mikroskopieverfahren}{25}{section.5.2}%
 \contentsline {chapter}{\numberline {6}Durchführung der praktischen Untersuchungen}{29}{chapter.6}%

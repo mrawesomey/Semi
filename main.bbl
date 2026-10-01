@@ -1095,7 +1095,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {Ludwig-Maximilians-Universität München}%
+        {Ludwig"=Maximilians"=Universität München}%
       }
       \list{location}{1}{%
         {München}%
@@ -4904,7 +4904,7 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {Ludwig-Maximilians-Universität München}%
+        {Ludwig"=Maximilians"=Universität München}%
       }
       \list{location}{1}{%
         {München}%
