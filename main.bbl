@@ -2155,6 +2155,101 @@
       \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/erkrankungen-der-peripheren-nerven-und-verwandte-erkrankungen/neuromyotonie
       \endverb
     \endentry
+    \entry{SaintMartin2019}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=ff5fee9043ed7e0299e668610429f052}{%
+           family={Saint-Martin},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Margaux},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ea05094269d8c30b130e02f94e2155c}{%
+           family={Pieters},
+           familyi={P\bibinitperiod},
+           given={Alanah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3b0c3cb22310f3a36ea3e12c20bc45}{%
+           family={Déchelotte},
+           familyi={D\bibinitperiod},
+           given={Benoı̂t},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ca17962f48bc6230555418366df3d9b}{%
+           family={Malleval},
+           familyi={M\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36edd9b3383f296586ff72323484bcce}{%
+           family={Pinatel},
+           familyi={P\bibinitperiod},
+           given={Delphine},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fa797025c901356617bd9e6e3c02410}{%
+           family={Pascual},
+           familyi={P\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60f07c816136063372989138047cf4f6}{%
+           family={Karagogeos},
+           familyi={K\bibinitperiod},
+           given={Domna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1480d0855f61fbd2bcb5cc91d1e5b30c}{%
+           family={Honnorat},
+           familyi={H\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b329144c7aa77fa3ec0f60f4388ad500}{%
+           family={Pellier-Monnin},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a88193b624dcea278611c1a9fe1152a}{%
+           family={Noraz},
+           familyi={N\bibinitperiod},
+           given={Nelly},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{fullhash}{bd8e1cc5eb8f3e3698675976eb05bbc6}
+      \strng{bibnamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authorbibnamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authornamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authorfullhash}{bd8e1cc5eb8f3e3698675976eb05bbc6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autoimmunity}
+      \field{title}{Impact of Anti-{CASPR2} Autoantibodies from Patients with Autoimmune Encephalitis on {CASPR2}/{TAG-1} Interaction and {Kv1} Expression}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{103}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{102284}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jaut.2019.05.012
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jaut.2019.05.012
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jaut.2019.05.012
+      \endverb
+    \endentry
     \entry{Smith1999}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9cb7dda294423859194849b7983d1642}{%
@@ -6179,6 +6274,101 @@
       \verb https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/erkrankungen-der-peripheren-nerven-und-verwandte-erkrankungen/neuromyotonie
       \endverb
     \endentry
+    \entry{SaintMartin2019}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=ff5fee9043ed7e0299e668610429f052}{%
+           family={Saint-Martin},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Margaux},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ea05094269d8c30b130e02f94e2155c}{%
+           family={Pieters},
+           familyi={P\bibinitperiod},
+           given={Alanah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf3b0c3cb22310f3a36ea3e12c20bc45}{%
+           family={Déchelotte},
+           familyi={D\bibinitperiod},
+           given={Benoı̂t},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ca17962f48bc6230555418366df3d9b}{%
+           family={Malleval},
+           familyi={M\bibinitperiod},
+           given={Céline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36edd9b3383f296586ff72323484bcce}{%
+           family={Pinatel},
+           familyi={P\bibinitperiod},
+           given={Delphine},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fa797025c901356617bd9e6e3c02410}{%
+           family={Pascual},
+           familyi={P\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60f07c816136063372989138047cf4f6}{%
+           family={Karagogeos},
+           familyi={K\bibinitperiod},
+           given={Domna},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1480d0855f61fbd2bcb5cc91d1e5b30c}{%
+           family={Honnorat},
+           familyi={H\bibinitperiod},
+           given={Jérôme},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b329144c7aa77fa3ec0f60f4388ad500}{%
+           family={Pellier-Monnin},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Véronique},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a88193b624dcea278611c1a9fe1152a}{%
+           family={Noraz},
+           familyi={N\bibinitperiod},
+           given={Nelly},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{fullhash}{bd8e1cc5eb8f3e3698675976eb05bbc6}
+      \strng{bibnamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authorbibnamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authornamehash}{75a8c0e4703d9fe85c18d11df5544655}
+      \strng{authorfullhash}{bd8e1cc5eb8f3e3698675976eb05bbc6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autoimmunity}
+      \field{title}{Impact of Anti-{CASPR2} Autoantibodies from Patients with Autoimmune Encephalitis on {CASPR2}/{TAG-1} Interaction and {Kv1} Expression}
+      \field{urlday}{10}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{103}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{102284}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jaut.2019.05.012
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.jaut.2019.05.012
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.jaut.2019.05.012
+      \endverb
+    \endentry
     \entry{Smith1999}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=9cb7dda294423859194849b7983d1642}{%
@@ -6784,6 +6974,7 @@
       \keyw{bild}
     \endentry
   \enddatalist
+  \missing{SynapsebyPatsnap2025}
 \endrefsection
 \endinput
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  1 OCT 2026 23:39
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.11.17)  2 OCT 2026 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,7 +1074,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+ (main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                SynapsebyPatsnap2025
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 5.
 Package biblatex Info: Reference segment=0 on input line 5.
 Package hyperref Info: Link coloring OFF on input line 5.
@@ -1332,23 +1340,28 @@ chapter 7.
 
 
 ]
+Overfull \hbox (8.1787pt too wide) in paragraph at lines 17--18
+[]\TU/lmr/m/n/12 Die Kolokalisationsflächen wurden in $\OML/cmm/m/it/12 ^^V[][]
+$ \TU/lmr/m/n/12 bestimmt und anschließend mittels Shapiro-
+ []
+
 File: abbildungen/WFNervEuA.jpg Graphic file (type bmp)
 <abbildungen/WFNervEuA.jpg>
 
-Underfull \hbox (badness 1226) in paragraph at lines 44--44
+Underfull \hbox (badness 1226) in paragraph at lines 50--50
 [][][]\TU/lmr/m/n/12 Aufnahme einer Nervenzelle mittels Wide-Field (WF) (A, C)
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 44--44
+Underfull \hbox (badness 1297) in paragraph at lines 50--50
 \TU/lmr/m/n/12 und Structured-Illumination-Microscopy (SIM) (B, D) in 63x-
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: abbildungen/SIMNervEuA.png Graphic file (type bmp)
-<abbildungen/SIMNervEuA.png>
+File: abbildungen/SIMNervEuA.jpg Graphic file (type bmp)
+<abbildungen/SIMNervEuA.jpg>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1358,10 +1371,10 @@ File: abbildungen/colokflächemarkerKCVV.jpg Graphic file (type bmp)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [40] [41] [42] [43]
-File: abbildungen/discSIM.png Graphic file (type bmp)
-<abbildungen/discSIM.png>
+File: abbildungen/NervLamSIm.jpg Graphic file (type bmp)
+<abbildungen/NervLamSIm.jpg>
 
-Underfull \hbox (badness 2707) in paragraph at lines 109--109
+Underfull \hbox (badness 2707) in paragraph at lines 118--118
 \TU/lmr/m/n/12 (B) mittels Structured-Illumination-Microscopy (SIM) in 63x-
  []
 
@@ -1394,18 +1407,28 @@ File: abbildungen/selltest.png Graphic file (type bmp)
 File: abbildungen/lamininübersicht.png Graphic file (type bmp)
 <abbildungen/lamininübersicht.png>
 
-Underfull \hbox (badness 1112) in paragraph at lines 39--39
+Underfull \hbox (badness 1112) in paragraph at lines 41--41
 [][][]\TU/lmr/m/n/12 Übersichtsaufnahme der Laminin-Färbung mittels WF in 20x-
+ []
+
+
+LaTeX Warning: Citation 'SynapsebyPatsnap2025' on page 50 undefined on input li
+ne 48.
+
+
+Overfull \hbox (8.95921pt too wide) in paragraph at lines 46--51
+\TU/lmr/bx/n/12 is-the-difference-between-cell-free-and-cell-based-expression-s
+ystems (Syn-
  []
 
 [50
 
-]) [51]
+] [51]) [52]
 \openout2 = `kapitel/Fazit_und_Ausblick.aux'.
 
  (kapitel/Fazit_und_Ausblick.tex
 chapter 9.
-) [52
+) [53
 
 
 
@@ -1415,7 +1438,7 @@ chapter 9.
 
  (kapitel/Anhang.tex
 chapter 10.
-) [53
+) [54
 
 
 
@@ -1426,7 +1449,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-[54
+[55
 
 
 
@@ -1436,17 +1459,17 @@ Overfull \hbox (6.40324pt too wide) in paragraph at lines 44--44
 mune Encephalitis (GENERATE) (2026a).
  []
 
-[55]
+[56]
 Overfull \hbox (0.37907pt too wide) in paragraph at lines 44--44
 [][]$\OMS/cmsy/m/n/12 ^^O$ \TU/lmr/m/n/12 Oxford Instruments (2025b). \TU/lmr/m
 /it/12 Structured Illumination Microscopy and 3D SIM Ima-
  []
 
-[56] [57] [58]
+[57] [58] [59]
 chapter 12.
-[59
+[60
 
-] [60] (main.aux (kapitel/Motivation_und_Zielsetzung.aux)
+] [61] (main.aux (kapitel/Motivation_und_Zielsetzung.aux)
 (kapitel/Grundlagen.aux) (kapitel/Wirkung.aux)
 (kapitel/Autoimmune_Enzephalitis_und_CASPR2.aux)
 (kapitel/Material_und_methodisches_Vorgehen.aux) (kapitel/Durchführung.aux)
@@ -1461,12 +1484,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29951 strings out of 409617
- 606896 string characters out of 5774012
- 1956191 words of memory out of 5000000
- 51596 multiletter control sequences out of 15000+600000
- 567119 words of font info for 89 fonts, out of 8000000 for 9000
+ 29967 strings out of 409617
+ 607332 string characters out of 5774012
+ 1954191 words of memory out of 5000000
+ 51610 multiletter control sequences out of 15000+600000
+ 567127 words of font info for 90 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  108i,18n,127p,11229b,5833s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (63 pages).
+Output written on main.pdf (64 pages).
