@@ -1,7 +1,5 @@
 %Schriftart
 \usepackage{fontspec}
-%\usepackage[utf8]{inputenc}
-%\usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 
 %Festlegen des Seitenlayouts
@@ -13,16 +11,12 @@
 
 %Abstand vor Kapitelbeginn
 \RedeclareSectionCommand[
-  beforeskip=0pt,
-  afterindent=false
+beforeskip=0pt,
+afterindent=false
 ]{chapter}
 
 %Schriftart der Überschriften serif in bold
 \addtokomafont{disposition}{\rmfamily}
-%Schriftart der Überschriften in serif ohne bold
-%\setkomafont{disposition}{\normalfont}
-
-%Für das Einfügen eines Glossars: siehe https://en.wikibooks.org/wiki/LaTeX/Glossary
 
 %stützt die Schnittstelle von float und listings zu tocbasic (genutzt von KOMA-script)
 \usepackage{scrhack}
@@ -38,17 +32,14 @@
 
 \setcounter{tocdepth}{2}  % show subsections
 
-
 %Bilder
 \usepackage{graphicx}
 \usepackage{float}
 \graphicspath{{./abbildungen/}}
 \usepackage{tabularx}
 
-
 %Einfügen von Unformatiertem typewriter Text
 \usepackage{verbatim}
-%über mehrere Zeilen mit \begin{Verbatim}[breaklines=true]\end{Verbatim}
 \usepackage{fancyvrb}
 \usepackage{makecell}
 
@@ -57,9 +48,6 @@
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{booktabs}
-
-%Für die Literaturverzeichnisse
-\usepackage{csquotes}
 
 %Für die Literaturverzeichnisse
 \usepackage{csquotes}
@@ -72,8 +60,8 @@ maxcitenames=2,
 maxbibnames=3,      
 minbibnames=1,      
 dashed=false,
-uniquelist=false,  % Verhindert, dass mehr Namen ausgegeben werden, um die Liste eindeutig zu machen
-uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unterscheidung
+uniquelist=false,
+uniquename=false
 ]{biblatex}
 
 % Format all names as Family, Given
@@ -81,7 +69,7 @@ uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unter
 
 % Separate authors with semicolons instead of commas
 \DeclareDelimFormat{multinamedelim}{\addsemicolon\space}
-\DeclareDelimFormat{finalnamedelim}{\addspace\bibstring{and}\space} % uses "und" before the last name
+\DeclareDelimFormat{finalnamedelim}{\addspace\bibstring{and}\space} % nutzt "und" vor dem letzten Namen
 
 \DefineBibliographyStrings{german}{
 	andothers = {et\ al.},
@@ -102,13 +90,6 @@ uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unter
 		\setlength{\parsep}{\bibparsep}}}
 {\endlist}
 {\item[]\textbf{\printfield{label}:}\addspace}
-%Literaturverzeichnis exakt nach ISO 690-3
-%Eine Alternative Erstellung von Literaturverzeichnissen über natbib (letzte Version von 2010)
-%WICHTIG: bei einem Wechsel müssen alle Temporären Dateien von LaTex gelöscht werden!
-%\usepackage{natbib}
-%\usepackage{multibib} %Unterteilung in Internet- und Printmedien
-%\newcites{online}{Internetquellenverzeichnis} 
-%Statt \cite{} muss für Internetquellen nun \citeonline{} verwendet werden!
 
 \DeclareSortingTemplate{bylabel}{
 	\sort{\field{label}}
@@ -117,19 +98,21 @@ uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unter
 	\sort{\field{title}}
 }
 
+% Buchstaben (a, b, c) nur bei Bild-Einträgen entfernen
+\AtEveryBibitem{\ifkeyword{bild}{\clearfield{extradate}}{}}
+\AtEveryCitekey{\ifkeyword{bild}{\clearfield{extradate}}{}}
+
 %Anklickbare Links und \url{}
 \usepackage[hidelinks]{hyperref}
-
 \usepackage{xurl}
 
-
-%Zeilenumbrüche in URLs, standard url Paket wird von hyperref geladen, Befehl \url{} bleibt gleich
+%Zeilenumbrüche in URLs
 \usepackage{microtype}[final]
 
 \usepackage{chngcntr}
 \counterwithout{footnote}{chapter}
-%Einbinden von Quelltext in Python (https://tex.stackexchange.com/questions/83882/how-to-highlight-python-syntax-in-latex-listings-lstinputlistings-command)
-% Default fixed font does not support bold face
+
+%Einbinden von Quelltext in Python
 \DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{12} % for bold
 \DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{12}  % for normal
 
@@ -143,30 +126,29 @@ uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unter
 
 % Python style for highlighting
 \newcommand\pythonstyle{\lstset{
-language=Python,
-basicstyle=\ttm,
-otherkeywords={self},             % Add keywords here
-keywordstyle=\ttb\color{deepblue},
-emph={MyClass,__init__},          % Custom highlighting
-emphstyle=\ttb\color{deepred},    % Custom highlighting style
-stringstyle=\color{deepgreen},
-frame=tb,                         % Any extra options here
-showstringspaces=false            % 
+		language=Python,
+		basicstyle=\ttm,
+		otherkeywords={self},             
+		keywordstyle=\ttb\color{deepblue},
+		emph={MyClass,__init__},          
+		emphstyle=\ttb\color{deepred},    
+		stringstyle=\color{deepgreen},
+		frame=tb,                         
+		showstringspaces=false            
 }}
-
 
 % Python environment
 \lstnewenvironment{python}[1][]
 {
-\pythonstyle
-\lstset{#1}
+	\pythonstyle
+	\lstset{#1}
 }
 {}
 
 % Python for external files
 \newcommand\pythonexternal[2][]{{
-\pythonstyle
-\lstinputlisting[#1]{#2}}}
+		\pythonstyle
+		\lstinputlisting[#1]{#2}}}
 
 % Python for inline
 \newcommand\pythoninline[1]{{\pythonstyle\lstinline!#1!}}
