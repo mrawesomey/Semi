@@ -60,13 +60,20 @@
 
 %Für die Literaturverzeichnisse
 \usepackage{csquotes}
+
+%Für die Literaturverzeichnisse
+\usepackage{csquotes}
 \usepackage[
 backend=biber,
 style=authoryear,
 sorting=nyt,
 autocite=footnote,
-maxcitenames=2,
-dashed=false
+maxcitenames=2,     
+maxbibnames=3,      
+minbibnames=1,      
+dashed=false,
+uniquelist=false,  % Verhindert, dass mehr Namen ausgegeben werden, um die Liste eindeutig zu machen
+uniquename=false   % Verhindert das Hinzufügen von Initialen/Vornamen zur Unterscheidung
 ]{biblatex}
 
 % Format all names as Family, Given
